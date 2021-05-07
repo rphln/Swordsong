@@ -16,11 +16,11 @@ magical firearms, which now they lead the development of.
 | ------------ | ------------------------------------------------ |
 | Mirror Match | Prologue — Copy a talent from a random opponent. |
 
-| Type   | Name          | Cost | Copies | Effect                                      |
-| ------ | ------------- | :--: | :----: | ------------------------------------------- |
-| Class  | Blind Spot    |  ?   |   4    | Gain Concealed.                             |
-| Unique | Custom Barrel |  ?   |   3    | Storm — Gain one of Amplify or Prowess.     |
-| Unique | Cheat Death   |  ?   |   3    | Storm — Gain one of Concealed or Fortified. |
+| Type   | Name          | Cost | Copies | Effect                                       |
+| ------ | ------------- | :--: | :----: | -------------------------------------------- |
+| Class  | Blind Spot    |  ?   |   4    | Gain Concealed.                              |
+| Unique | Custom Barrel |  ?   |   3    | Storm — Gain one of Amplify or Prowess.      |
+| Unique | Cheat Death   |  ?   |   3    | Storm — Gain one of Adrenaline or Fortified. |
 
 ## Desmond
 
