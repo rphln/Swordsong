@@ -53,6 +53,6 @@ practical combat, being also involved in the defences of the Tower.
 
 | Type   | Name              | Cost | Copies | Effect                           |
 | ------ | ----------------- | :--: | :----: | -------------------------------- |
-| Class  | Potent Cantrip    |  ?   |   4    | Gain Amplify.                    |
+| Class  | Words of Power    |  ?   |   4    | Gain Amplify.                    |
 | Unique | Lexicon of Combat |  ?   |   3    | Storm — Restore an action point. |
 | Unique | Pursuit of Truth  |  ?   |   3    | Storm — Draw a card.             |
