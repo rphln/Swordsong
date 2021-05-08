@@ -108,7 +108,7 @@ certain circumstances.
 | Intimidating Presence | Prologue — Lower the power and armor of all opponents. |
 | Last Will             | Epilogue — Draw three cards.                           |
 | Serene Grace          | Epilogue — Heal all allies.                            |
-| Dauntless Spirit      | Epilogue — Return to combat on your next turn.         |
+| Second Chance         | Epilogue — Return to combat on your next turn.         |
 
 ## Effects
 

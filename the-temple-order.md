@@ -6,9 +6,9 @@
 | ------- | ----- | ------ |
 | Fighter | Human | Female |
 
-| Name             | Effect                                         |
-| ---------------- | ---------------------------------------------- |
-| Dauntless Spirit | Epilogue — Return to combat on your next turn. |
+| Name          | Effect                                         |
+| ------------- | ---------------------------------------------- |
+| Second Chance | Epilogue — Return to combat on your next turn. |
 
 | Type   | Name               | Cost | Copies | Effect                                  |
 | ------ | ------------------ | :--: | :----: | --------------------------------------- |
