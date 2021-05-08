@@ -19,11 +19,11 @@ practical combat, being also involved in the defences of the Tower.
 | ------------ | ------------------------------------------------ |
 | Mirror Match | Prologue — Copy a talent from a random opponent. |
 
-| Type   | Name          | Cost | Copies | Effect                                       |
-| ------ | ------------- | :--: | :----: | -------------------------------------------- |
-| Class  | Blind Spot    |  ?   |   4    | Gain Concealed.                              |
-| Unique | Custom Barrel |  ?   |   3    | Storm — Gain one of Amplify or Prowess.      |
-| Unique | Cheat Death   |  ?   |   3    | Storm — Gain one of Adrenaline or Fortified. |
+| Type   | Name             | Cost | Copies | Effect                                                                       |
+| ------ | ---------------- | :--: | :----: | ---------------------------------------------------------------------------- |
+| Class  | Blind Spot       |  ?   |   4    | Gain Concealed.                                                              |
+| Unique | Guerilla Tactics |  ?   |   3    | Storm — Activate one of “Raise your power” or “Raise your armor”.            |
+| Unique | Custom Barrel    |  ?   |   3    | Storm — Activate one of “Gain Concealed”, “Gain Amplify”, or “Gain Prowess”. |
 
 ## Desmond
 
@@ -35,11 +35,11 @@ practical combat, being also involved in the defences of the Tower.
 | --------------------- | ------------------------------------------------------ |
 | Intimidating Presence | Prologue — Lower the power and armor of all opponents. |
 
-| Type   | Name           | Cost | Copies | Effect                                     |
-| ------ | -------------- | :--: | :----: | ------------------------------------------ |
-| Class  | Hone Instincts |  ?   |   4    | Gain Adrenaline.                           |
-| Unique | Triple Threat  |  ?   |   3    | Storm — Gain one of Aggression or Amplify. |
-| Unique | Blade Rush     |  ?   |   3    | Storm — Raise one of your power or armor.  |
+| Type   | Name           | Cost | Copies | Effect                                                                            |
+| ------ | -------------- | :--: | :----: | --------------------------------------------------------------------------------- |
+| Class  | Hone Instincts |  ?   |   4    | Gain Adrenaline.                                                                  |
+| Unique | Cheat Death    |  ?   |   3    | Storm — Heal yourself.                                                            |
+| Unique | Triple Threat  |  ?   |   3    | Storm — Activate one of “Gain Adrenaline”, “Gain Aggression” or “Gain Fortified”. |
 
 ## Fabrice
 
