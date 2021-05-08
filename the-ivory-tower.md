@@ -1,10 +1,13 @@
 # The Ivory Tower
 
-A city-state to the north; originally built as a research camp around a
-meteor, they attracted mages and scholars from all around and gained
-massive influence by doing so, becoming an independent enclave within
-Norden. Over the years, their focus shifted into the development of
-magical firearms, which now they lead the development of.
+The so-called paradise of researchers. Originally built as a research
+camp to study a meteor overflowing in mana, they attracted mages and
+scholars from all around, establishing their influence within Norden
+after only a couple of decades.
+
+Among their ranks, this particular group partakes in the developments of
+techniques and technologies for magical firearms by employing them in
+practical combat, being also involved in the defences of the Tower.
 
 ## Colette
 
