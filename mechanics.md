@@ -22,7 +22,7 @@ preparation steps.
 
 3.  The player must choose whether to keep or replace each of the three
     cards in their starting hand. The cards chosen for replacement will
-    be shuffled in the deck before the new cards are drawn.
+    be shuffled back into the deck before the new cards are drawn.
     
     During this step, players can see the positions of all of their
     opponent’s characters.
