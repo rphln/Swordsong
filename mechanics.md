@@ -104,6 +104,9 @@ certain circumstances.
   - Epilogue triggers as the character leaves the match for the first
     time.
 
+  - Interlude triggers as the character starts their turn. This category
+    of talents is generally reserved for special enemies or bosses.
+
 | Name                  | Effect                                                 |
 | --------------------- | ------------------------------------------------------ |
 | Early Bird            | Prologue — Gain an action point.                       |
