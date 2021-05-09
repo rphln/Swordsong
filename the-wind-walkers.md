@@ -26,11 +26,11 @@
 | ---------- | -------------------------------- |
 | Early Bird | Prologue — Gain an action point. |
 
-| Type   | Name             | Cost | Copies | Effect                                  |
-| ------ | ---------------- | :--: | :----: | --------------------------------------- |
-| Class  | Resounding Chant |  ?   |   4    | Gain Amplify.                           |
-| Unique | Hunting Grounds  |  ?   |   3    | Exert — Give Prowess to each ally.      |
-| Unique | Uncharted Realms |  ?   |   2    | Exert — Give Restrain to each opponent. |
+| Type   | Name            | Cost | Copies | Effect                             |
+| ------ | --------------- | :--: | :----: | ---------------------------------- |
+| Class  | Faerie Fire     |  ?   |   4    | Gain Amplify.                      |
+| Unique | Dragon’s Breath |  ?   |   3    | Exert — Give Amplify to each ally. |
+| Unique | Fortune’s Favor |  ?   |   3    | Exert — Give Prowess to each ally. |
 
 ## Nell
 
