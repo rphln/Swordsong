@@ -45,5 +45,5 @@
 | Type   | Name              | Cost | Copies | Effect                  |
 | ------ | ----------------- | :--: | :----: | ----------------------- |
 | Class  | Deft Blade        |  ?   |   4    | Gain Adrenaline.        |
-| Unique | Nighthound Stance |  ?   |   3    | Exert — Gain Amplify.   |
+| Unique | Dragonfang Stance |  ?   |   3    | Exert — Gain Amplify.   |
 | Unique | Chameleon Cloak   |  ?   |   3    | Exert — Gain Concealed. |
