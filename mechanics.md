@@ -163,6 +163,15 @@ combat.
 | Hunter  | No     | Small | Large | Gain Adrenaline. |
 | Fighter | No     | Tiny  | Huge  | Gain Aggression. |
 
+## Scores
+
+Power and armor scores are split into six tiers. When a skill or a
+talent modifies a character’s power or armor, it does so by raising or
+lowering them to another tier.
+
+Scores are bounded by the tiers, therefore it is impossible to lower
+them below the “Tiny” tier or raise them above the “Gargantuan” tier.
+
 | Tier       | Power | Armor |
 | ---------- | ----: | ----: |
 | Tiny       |    10 |    50 |
