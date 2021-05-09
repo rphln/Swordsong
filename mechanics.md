@@ -115,6 +115,7 @@ certain circumstances.
 | Last Will             | Epilogue — Draw three cards.                           |
 | Serene Grace          | Epilogue — Heal all allies.                            |
 | Second Chance         | Epilogue — Return to combat on your next turn.         |
+| Gathering Storm       | Interlude — Raise your Storm counter.                  |
 
 ## Effects
 
