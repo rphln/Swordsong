@@ -155,7 +155,7 @@ combat.
 | Class   | Ranged | Power | Armor | Basic skill      |
 | ------- | ------ | ----- | ----- | ---------------- |
 | Caster  | Yes    | Huge  | Tiny  | Gain Amplify.    |
-| Archer  | Yes    | Large | Small | Gain Concealed.  |
+| Ranger  | Yes    | Large | Small | Gain Concealed.  |
 | Hunter  | No     | Small | Large | Gain Adrenaline. |
 | Fighter | No     | Tiny  | Huge  | Gain Aggression. |
 

@@ -36,7 +36,7 @@
 
 | Class  | Race  | Gender |
 | ------ | ----- | ------ |
-| Archer | Human | Male   |
+| Ranger | Human | Male   |
 
 | Name      | Effect                       |
 | --------- | ---------------------------- |

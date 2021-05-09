@@ -13,7 +13,7 @@ practical combat, being also involved in the defences of the Tower.
 
 | Class  | Race | Gender |
 | ------ | ---- | ------ |
-| Archer | Elf  | Female |
+| Ranger | Elf  | Female |
 
 | Name         | Effect                                           |
 | ------------ | ------------------------------------------------ |
