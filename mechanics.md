@@ -5,25 +5,26 @@
 A team must be made before a match and is composed of three characters
 from the same party plus up to two characters from any other parties.
 
-At the start of a match, the player will go through a number of steps.
+At the start of a match, the player will go through a number of
+preparation steps.
 
 1.  The player must choose any three characters in their team to field
     during the selection step of the match.
     
-    During this step, they can see which characters are part of their
+    During this step, players can see which characters are part of their
     opponent’s team, but not which are going to be fielded.
 
 2.  The player must decide the position of the characters that are
     fielded during the placement step of the match.
     
-    During this step, they can see which characters are fielded by the
-    opponent, but not their positions.
+    During this step, players can see which characters are fielded by
+    the opponent, but not their positions.
 
 3.  The player must choose whether to keep or replace each of the three
-    cards in their initial hand. The cards they choose to replace will
-    be shuffled in their deck, and then replacements will be drawn.
+    cards in their starting hand. The cards chosen for replacement will
+    be shuffled in the deck before the new cards are drawn.
     
-    During this step, they can see the positions of all of their
+    During this step, players can see the positions of all of their
     opponent’s characters.
 
 ## Preparation (Raids)
@@ -57,9 +58,11 @@ five characters can be fielded.
 
   - A player can have up to 10 action points.
 
-  - At the beginning of each of their turns, including their first turn,
-    their maximum action points are increased by one and then fully
-    restored.
+  - A player will have their maximum action points increased by one at
+    the beginning of each of their turns.
+
+  - A player will have their action points fully restored at the
+    beginning of each of their turns.
 
   - Action points are used exclusively for using skill cards.
 
