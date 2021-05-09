@@ -26,11 +26,11 @@
 | ------------ | --------------------------- |
 | Serene Grace | Epilogue — Heal all allies. |
 
-| Type   | Name              | Cost | Copies | Effect                      |
-| ------ | ----------------- | :--: | :----: | --------------------------- |
-| Class  | Answered Prayers  |  ?   |   4    | Give Amplify.               |
-| Unique | Faithful Guidance |  ?   |   3    | Channel — Heal an ally.     |
-| Unique | Divine Order      |  ?   |   3    | Channel — Damage all units. |
+| Type   | Name        | Cost | Copies | Effect                      |
+| ------ | ----------- | :--: | :----: | --------------------------- |
+| Class  | Divine Word |  ?   |   4    | Gain Amplify.               |
+| Unique | Solace      |  ?   |   3    | Channel — Heal all allies.  |
+| Unique | Damnation   |  ?   |   3    | Channel — Damage all units. |
 
 ## Graham
 
