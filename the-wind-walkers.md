@@ -10,11 +10,11 @@
 | --------------------- | ------------------------------------------------------ |
 | Intimidating Presence | Prologue — Lower the power and armor of all opponents. |
 
-| Type   | Name              | Cost | Copies | Effect                    |
-| ------ | ----------------- | :--: | :----: | ------------------------- |
-| Class  | Lock Swords       |  ?   |   4    | Gain Aggression.          |
-| Unique | Sabertooth Stance |  ?   |   3    | Exert — Gain Prowess.     |
-| Unique | Guardian Affinity |  ?   |   3    | Exert — Raise your power. |
+| Type   | Name              | Cost | Copies | Effect                  |
+| ------ | ----------------- | :--: | :----: | ----------------------- |
+| Class  | Lock Swords       |  ?   |   4    | Gain Aggression.        |
+| Unique | Tigerclaw Stance  |  ?   |   3    | Exert — Gain Prowess.   |
+| Unique | Turtleback Stance |  ?   |   3    | Exert — Gain Fortified. |
 
 ## Lapis
 
