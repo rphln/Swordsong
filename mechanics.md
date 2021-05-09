@@ -50,7 +50,7 @@ five characters can be fielded.
     power of the attacker.
 
   - A character whose damage taken surpasses their armor will be removed
-    from combat as fainted.
+    from the match as fainted.
 
 ## Action points
 
@@ -98,11 +98,11 @@ five characters can be fielded.
 Each character has a talent – a passive ability that activates under
 certain circumstances.
 
-  - Prologue talents activates as the character enters combat for the
-    first time.
+  - Prologue triggers as the character enters the match for the first
+    time.
 
-  - Epilogue talents activates as the character leaves combat for the
-    first time.
+  - Epilogue triggers as the character leaves the match for the first
+    time.
 
 | Name                  | Effect                                                 |
 | --------------------- | ------------------------------------------------------ |
