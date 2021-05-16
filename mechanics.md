@@ -174,9 +174,9 @@ them below the “Tiny” tier or raise them above the “Gargantuan” tier.
 
 | Tier       | Power | Armor |
 | ---------- | ----: | ----: |
-| Tiny       |    10 |    50 |
-| Small      |    12 |    60 |
-| Medium     |    14 |    70 |
-| Large      |    16 |    80 |
-| Huge       |    18 |    90 |
-| Gargantuan |    20 |   100 |
+| Tiny       |    10 |    52 |
+| Small      |    12 |    62 |
+| Medium     |    14 |    72 |
+| Large      |    16 |    82 |
+| Huge       |    18 |    92 |
+| Gargantuan |    20 |   102 |
