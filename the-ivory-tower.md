@@ -11,48 +11,36 @@ practical combat, being also involved in the defences of the Tower.
 
 ## Colette
 
-| Class  | Race | Gender |
-| ------ | ---- | ------ |
-| Ranger | Elf  | Female |
+| Class  | Race | Gender | Talent  |
+| ------ | ---- | ------ | ------- |
+| Ranger | Elf  | Female | Mimicry |
 
-| Name         | Effect                                           |
-| ------------ | ------------------------------------------------ |
-| Mirror Match | Prologue — Copy a talent from a random opponent. |
-
-| Type   | Name             | Cost | Copies | Effect                      |
-| ------ | ---------------- | :--: | :----: | --------------------------- |
-| Class  | Blind Spot       |  ?   |   4    | Gain Concealed.             |
-| Unique | Guerilla Tactics |  ?   |   3    | Storm — Raise your armor.   |
-| Unique | Sudden Attack    |  ?   |   3    | Storm — Damage an opponent. |
+| Type   | Cost | Name            | Effect          |
+| ------ | :--: | --------------- | --------------- |
+| Class  |  ?   | Colette’s Alpha | Gain Concealed. |
+| Unique |  ?   | Colette’s Beta  | Echo — ?        |
+| Unique |  ?   | Colette’s Gamma | Echo — ?        |
 
 ## Desmond
 
-| Class  | Race      | Gender |
-| ------ | --------- | ------ |
-| Hunter | Half-wolf | Male   |
+| Class   | Race      | Gender | Talent       |
+| ------- | --------- | ------ | ------------ |
+| Fighter | Half-wolf | Male   | Adaptability |
 
-| Name                  | Effect                                                 |
-| --------------------- | ------------------------------------------------------ |
-| Intimidating Presence | Prologue — Lower the power and armor of all opponents. |
-
-| Type   | Name           | Cost | Copies | Effect                    |
-| ------ | -------------- | :--: | :----: | ------------------------- |
-| Class  | Hone Instincts |  ?   |   4    | Gain Adrenaline.          |
-| Unique | Triple Threat  |  ?   |   3    | Storm — Raise your power. |
-| Unique | Cheat Death    |  ?   |   3    | Storm — Heal yourself.    |
+| Type   | Cost | Name            | Effect           |
+| ------ | :--: | --------------- | ---------------- |
+| Class  |  ?   | Desmond’s Alpha | Gain Aggression. |
+| Unique |  ?   | Desmond’s Beta  | Echo — ?         |
+| Unique |  ?   | Desmond’s Gamma | Echo — ?         |
 
 ## Fabrice
 
-| Class  | Race | Gender |
-| ------ | ---- | ------ |
-| Caster | Elf  | Male   |
+| Class  | Race | Gender | Talent    |
+| ------ | ---- | ------ | --------- |
+| Caster | Elf  | Male   | Ingenious |
 
-| Name      | Effect                       |
-| --------- | ---------------------------- |
-| Last Will | Epilogue — Draw three cards. |
-
-| Type   | Name              | Cost | Copies | Effect                           |
-| ------ | ----------------- | :--: | :----: | -------------------------------- |
-| Class  | Words of Power    |  ?   |   4    | Gain Amplify.                    |
-| Unique | Lexicon of Combat |  ?   |   3    | Storm — Restore an action point. |
-| Unique | Pursuit of Truth  |  ?   |   3    | Storm — Draw a card.             |
+| Type   | Cost | Name            | Effect        |
+| ------ | :--: | --------------- | ------------- |
+| Class  |  ?   | Fabrice’s Alpha | Gain Amplify. |
+| Unique |  ?   | Fabrice’s Beta  | Echo — ?      |
+| Unique |  ?   | Fabrice’s Gamma | Echo — ?      |
