@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [1.2.0](https://github.com/rphln/Swordsong/compare/v1.1.0...v1.2.0) (2021-05-16)
+
+### Minor changes
+
+  - **Mechanics:** Clarify the wording on talents.
+    ([501fa8a](https://github.com/rphln/Swordsong/commit/501fa8a694b61e3e60d4c7a768eeb88eaf76a8c7))
+  - **Mechanics:** Describe the score tiers.
+    ([491a834](https://github.com/rphln/Swordsong/commit/491a834042d6acbe6b3e96f8240a3f678e87bb40))
+  - **Mechanics:** Rename Archer to Ranger.
+    ([3b16f73](https://github.com/rphln/Swordsong/commit/3b16f73d1f69f6e47d15814511961019c0d66370))
+
+### Major changes
+
+  - **Mechanics:** Add “Gathering Storm”.
+    ([0d483d9](https://github.com/rphln/Swordsong/commit/0d483d954bf646865786bc84e2a31764a22f7e73))
+  - **Mechanics:** Add the Interlude talent trigger.
+    ([267f7ac](https://github.com/rphln/Swordsong/commit/267f7acc850c6a344edd966f2993558b60f90beb))
+  - **Mechanics:** Bump all armor scores.
+    ([332502a](https://github.com/rphln/Swordsong/commit/332502a968240473422a16cc211d83aee74bbbac))
+
 ## [1.1.0](https://github.com/rphln/Swordsong/compare/v1.0.0...v1.1.0) (2021-05-16)
 
 ### Major changes
