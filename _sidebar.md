@@ -1,0 +1,8 @@
+  - About
+      - [Introduction](README.md)  
+      - [Mechanics](mechanics.md)
+      - [Changelog](CHANGELOG.md)
+  - Characters
+      - [The Ivory Tower](the-ivory-tower.md)
+      - [The Temple Order](the-temple-order.md)
+      - [The Wind Walkers](the-wind-walkers.md)
