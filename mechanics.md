@@ -1,36 +1,34 @@
 # Mechanics
 
-## Preparation (Duels)
+## Teams
 
-A team must be made before a match and is composed of three characters
-from the same party plus up to two characters from any other parties.
+A team must be defined by the player before a match and is composed of
+the six characters from two distinct parties.
 
-At the start of a match, the player will go through a number of
-preparation steps.
+## Preparation
 
-1.  The player must choose any three characters in their team to field
-    during the selection step of the match.
+At the start of a match, both players will go through a number of
+preparatory phases.
+
+1.  One of the players will be randomly chosen to be the “starting
+    player”. This to determines the turn order, the draft order and the
+    allocation of the map halves.
+
+2.  In the draft phase, both players will take turns choosing their
+    characters and positioning them in the map. No character may be
+    chosen twice in a match.
     
-    During this step, players can see which characters are part of their
-    opponent’s team, but not which are going to be fielded.
+    The draft order is defined as “O → S → S → O → O → S”, with “S”
+    being the starting player and “O” their opponent.
 
-2.  The player must decide the position of the characters that are
-    fielded during the placement step of the match.
+3.  In the draw phase, the player will draw three cards from their deck,
+    forming their starting hand.
     
-    During this step, players can see which characters are fielded by
-    the opponent, but not their positions.
+    They may then shuffle any number of cards from their hand back into
+    their deck and draw that many cards as replacements.
 
-3.  The player must choose whether to keep or replace each of the three
-    cards in their starting hand. The cards chosen for replacement will
-    be shuffled back into the deck before the new cards are drawn.
-    
-    During this step, players can see the positions of all of their
-    opponent’s characters.
-
-## Preparation (Raids)
-
-The preparation for raids is the same as for duels, except in that up to
-five characters can be fielded.
+4.  After those phases, the match begins with the starting player’s
+    turn.
 
 ## Combat
 
