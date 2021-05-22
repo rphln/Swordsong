@@ -2,48 +2,36 @@
 
 ## Cédric
 
-| Class   | Race | Gender |
-| ------- | ---- | ------ |
-| Fighter | Elf  | Male   |
+| Class   | Race | Gender | Talent     |
+| ------- | ---- | ------ | ---------- |
+| Fighter | Elf  | Male   | Intimidate |
 
-| Name                  | Effect                                                 |
-| --------------------- | ------------------------------------------------------ |
-| Intimidating Presence | Prologue — Lower the power and armor of all opponents. |
-
-| Type   | Name              | Cost | Copies | Effect                  |
-| ------ | ----------------- | :--: | :----: | ----------------------- |
-| Class  | Lock Swords       |  ?   |   4    | Gain Aggression.        |
-| Unique | Tigerclaw Stance  |  ?   |   3    | Exert — Gain Prowess.   |
-| Unique | Turtleback Stance |  ?   |   3    | Exert — Gain Fortified. |
+| Type   | Cost | Skill          | Effect                          |
+| ------ | :--: | -------------- | ------------------------------- |
+| Class  |  ?   | Cédric’s Alpha | Gain Aggression.                |
+| Unique |  ?   | Cédric’s Beta  | Threshold — Heal yourself.      |
+| Unique |  ?   | Cédric’s Gamma | Threshold — Damage an opponent. |
 
 ## Lapis
 
-| Class  | Race | Gender |
-| ------ | ---- | ------ |
-| Caster | Elf  | Female |
+| Class  | Race | Gender | Talent       |
+| ------ | ---- | ------ | ------------ |
+| Ranger | Elf  | Female | Adaptability |
 
-| Name       | Effect                           |
-| ---------- | -------------------------------- |
-| Early Bird | Prologue — Gain an action point. |
-
-| Type   | Name            | Cost | Copies | Effect                             |
-| ------ | --------------- | :--: | :----: | ---------------------------------- |
-| Class  | Faerie Fire     |  ?   |   4    | Gain Amplify.                      |
-| Unique | Dragon’s Breath |  ?   |   3    | Exert — Give Amplify to each ally. |
-| Unique | Fortune’s Favor |  ?   |   3    | Exert — Give Prowess to each ally. |
+| Type   | Cost | Skill        | Effect                                 |
+| ------ | :--: | ------------ | -------------------------------------- |
+| Class  |  ?   | Lapis’ Alpha | Gain Concealed.                        |
+| Unique |  ?   | Lapis’ Beta  | Threshold — Draw two cards.            |
+| Unique |  ?   | Lapis’ Gamma | Threshold — Restore two action points. |
 
 ## Nell
 
-| Class  | Race  | Gender |
-| ------ | ----- | ------ |
-| Hunter | Human | Female |
+| Class  | Race  | Gender | Talent  |
+| ------ | ----- | ------ | ------- |
+| Hunter | Human | Female | Mimicry |
 
-| Name         | Effect                                           |
-| ------------ | ------------------------------------------------ |
-| Mirror Match | Prologue — Copy a talent from a random opponent. |
-
-| Type   | Name              | Cost | Copies | Effect                  |
-| ------ | ----------------- | :--: | :----: | ----------------------- |
-| Class  | Deft Blade        |  ?   |   4    | Gain Adrenaline.        |
-| Unique | Dragonfang Stance |  ?   |   3    | Exert — Gain Amplify.   |
-| Unique | Chameleon Cloak   |  ?   |   3    | Exert — Gain Concealed. |
+| Type   | Cost | Skill        | Effect                        |
+| ------ | :--: | ------------ | ----------------------------- |
+| Class  |  ?   | Nell’s Alpha | Gain Adrenaline.              |
+| Unique |  ?   | Nell’s Beta  | Threshold — Raise your armor. |
+| Unique |  ?   | Nell’s Gamma | Threshold — Raise your power. |
