@@ -151,7 +151,7 @@ party mechanic.
 | Channel   | Activate the specified effect if the character isn’t affected by Restrained, then give them Restrained.         |
 | Exert     | Activate the specified effect by reducing your maximum action points by one.                                    |
 | Aftermath | If the character has fully spent their attacks in the turn upon using the skill, activate the specified effect. |
-| Threshold | Activate the specified effect if the player has five or more remaining action points.                           |
+| Threshold | Activate the specified effect twice if you’re below half health.                                                |
 
 ## Classes
 
