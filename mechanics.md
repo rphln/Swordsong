@@ -96,24 +96,34 @@ preparatory phases.
 Each character has a talent – a passive ability that activates under
 certain circumstances.
 
-  - Prologue triggers as the character enters the match for the first
-    time.
+  - Some talents activate as the character is deployed.
 
-  - Epilogue triggers as the character leaves the match for the first
-    time.
+| Name      | Effect                                |
+| --------- | ------------------------------------- |
+| Ingenious | Gain an action point.                 |
+| Mimicry   | Copy a talent from a random opponent. |
+| Mnemonic  | Draw a card.                          |
 
-  - Interlude triggers as the character starts their turn. This category
-    of talents is generally reserved for special enemies or bosses.
+  - Some talents activate as the character starts their turn.
 
-| Name                  | Effect                                                 |
-| --------------------- | ------------------------------------------------------ |
-| Early Bird            | Prologue — Gain an action point.                       |
-| Mirror Match          | Prologue — Copy a talent from a random opponent.       |
-| Intimidating Presence | Prologue — Lower the power and armor of all opponents. |
-| Last Will             | Epilogue — Draw three cards.                           |
-| Serene Grace          | Epilogue — Heal all allies.                            |
-| Second Chance         | Epilogue — Return to combat on your next turn.         |
-| Gathering Storm       | Interlude — Raise your Storm counter.                  |
+| Name         | Effect                              |
+| ------------ | ----------------------------------- |
+| Forecast     | Raise your Storm counter.           |
+| Adaptability | Alternate between ranged and melee. |
+
+  - Some talents stay active for as long as the character stays
+    unfainted.
+
+| Name       | Effect                                      |
+| ---------- | ------------------------------------------- |
+| Intimidate | Lower the power and armor of all opponents. |
+| Leadership | Raise the power and armor of all allies.    |
+
+  - Some talents activate when the character faints.
+
+| Name      | Effect                              |
+| --------- | ----------------------------------- |
+| Steadfast | Return to combat on your next turn. |
 
 ## Effects
 
