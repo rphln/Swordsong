@@ -145,13 +145,12 @@ condition is met. Applying the same effect multiple times does nothing.
 Used to tie cards with similar abilities together, generally defining a
 party mechanic.
 
-| Name      | Effect                                                                                                          |
-| --------- | --------------------------------------------------------------------------------------------------------------- |
-| Storm     | Activate the specified effect once for each skill with Storm that has been used.                                |
-| Channel   | Activate the specified effect unless you have Restrained, then gain Restrained.                                 |
-| Exert     | Activate the specified effect by reducing your maximum action points by one.                                    |
-| Aftermath | If the character has fully spent their attacks in the turn upon using the skill, activate the specified effect. |
-| Threshold | Activate the specified effect twice if you’re below half health.                                                |
+| Name      | Effect                                                                           |
+| --------- | -------------------------------------------------------------------------------- |
+| Storm     | Activate the specified effect once for each skill with Storm that has been used. |
+| Channel   | Activate the specified effect unless you have Restrained, then gain Restrained.  |
+| Exert     | Activate the specified effect by reducing your maximum action points by one.     |
+| Threshold | Activate the specified effect twice if you’re below half health.                 |
 
 ## Classes
 
