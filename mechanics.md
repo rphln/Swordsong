@@ -149,6 +149,7 @@ party mechanic.
 | --------- | -------------------------------------------------------------------------------- |
 | Storm     | Activate the specified effect once for each skill with Storm that has been used. |
 | Channel   | Activate the specified effect unless you have Restrained, then gain Restrained.  |
+| Echo      | Activate the specified effect twice on even turns.                               |
 | Exert     | Activate the specified effect by reducing your maximum action points by one.     |
 | Threshold | Activate the specified effect twice if you’re below half health.                 |
 
