@@ -3,6 +3,7 @@
       - [Mechanics](mechanics.md)
       - [Changelog](CHANGELOG.md)
   - Characters
+      - [The Flower Garden](the-flower-garden.md)
       - [The Ivory Tower](the-ivory-tower.md)
       - [The Temple Order](the-temple-order.md)
       - [The Wind Walkers](the-wind-walkers.md)
