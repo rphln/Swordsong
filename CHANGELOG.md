@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [1.3.0](https://github.com/rphln/Swordsong/compare/v1.2.0...v1.3.0) (2021-05-31)
+
+### Minor changes
+
+  - **Mechanics:** Reword `Channel`.
+    ([d5bc700](https://github.com/rphln/Swordsong/commit/d5bc7003af22c6cf1760272f1b7e00b4794a8309))
+  - **Mechanics:** Sort the keyword table.
+    ([7475405](https://github.com/rphln/Swordsong/commit/74754056733e68d9a22dc735833dc7e29cd03c2b))
+
+### Major changes
+
+  - **Flower Garden:** Add faction.
+    ([1bd96a2](https://github.com/rphln/Swordsong/commit/1bd96a264f3a93e29d6fc1081f8b318c0fe1b7c6))
+  - **Ivory Tower:** Remake the faction to use `Echo`.
+    ([37e4d22](https://github.com/rphln/Swordsong/commit/37e4d228b530545c5a3a7faa646ad0b019ce4de3))
+  - **Mechanics:** Add `Echo`.
+    ([a4d6ba7](https://github.com/rphln/Swordsong/commit/a4d6ba7bd8633d463fc7fc2ebc697a0c85d1d6fd))
+  - **Mechanics:** Remove `Aftermath`.
+    ([f6386e4](https://github.com/rphln/Swordsong/commit/f6386e407141e90dbddfea0d2a6ec8ded8d1c68d))
+  - **Mechanics:** Rework `Threshold`.
+    ([7e04724](https://github.com/rphln/Swordsong/commit/7e04724de4958d580b1dfbf0d3a9b9972cb9059b))
+  - **Mechanics:** Rework all talents.
+    ([6fdb149](https://github.com/rphln/Swordsong/commit/6fdb14996a23016f5001481eb5458deabe021a19))
+  - **Mechanics:** Rework the match preparation.
+    ([a3712d4](https://github.com/rphln/Swordsong/commit/a3712d44df2ff2e4a9e98fa10ff362b251f044b1))
+  - **Temple Order:** Adjust the faction classes and talents.
+    ([0e833ff](https://github.com/rphln/Swordsong/commit/0e833ff61a20ec4dd428398af27530dcc970f136))
+  - **Wind Walkers:** Remake the faction to use `Threshold`.
+    ([0c0c35e](https://github.com/rphln/Swordsong/commit/0c0c35eba93a114d19775501c7e61e7d68308ad2))
+
 ## [1.2.0](https://github.com/rphln/Swordsong/compare/v1.1.0...v1.2.0) (2021-05-16)
 
 ### Minor changes
