@@ -8,7 +8,7 @@
 
 | Type   | Cost | Name          | Effect                                  |
 | ------ | :--: | ------------- | --------------------------------------- |
-| Class  |  ?   | Alice’s Alpha | Gain Aggression.                        |
+| Class  |  ?   | Alice’s Alpha | Gain Taunt.                             |
 | Unique |  ?   | Alice’s Beta  | Channel — Heal yourself.                |
 | Unique |  ?   | Alice’s Gamma | Channel — Give Fortified to all allies. |
 

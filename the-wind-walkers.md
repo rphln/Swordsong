@@ -8,7 +8,7 @@
 
 | Type   | Cost | Skill          | Effect                          |
 | ------ | :--: | -------------- | ------------------------------- |
-| Class  |  ?   | Cédric’s Alpha | Gain Aggression.                |
+| Class  |  ?   | Cédric’s Alpha | Gain Taunt.                     |
 | Unique |  ?   | Cédric’s Beta  | Threshold — Heal yourself.      |
 | Unique |  ?   | Cédric’s Gamma | Threshold — Damage an opponent. |
 

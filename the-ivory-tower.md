@@ -27,11 +27,11 @@ practical combat, being also involved in the defences of the Tower.
 | ------- | --------- | ------ | ---------- |
 | Fighter | Half-wolf | Male   | Intimidating |
 
-| Type   | Cost | Name            | Effect           |
-| ------ | :--: | --------------- | ---------------- |
-| Class  |  ?   | Desmond’s Alpha | Gain Aggression. |
-| Unique |  ?   | Desmond’s Beta  | Echo — ?         |
-| Unique |  ?   | Desmond’s Gamma | Echo — ?         |
+| Type   | Cost | Name            | Effect      |
+| ------ | :--: | --------------- | ----------- |
+| Class  |  ?   | Desmond’s Alpha | Gain Taunt. |
+| Unique |  ?   | Desmond’s Beta  | Echo — ?    |
+| Unique |  ?   | Desmond’s Gamma | Echo — ?    |
 
 ## Fabrice
 
