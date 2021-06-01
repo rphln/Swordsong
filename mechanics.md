@@ -127,18 +127,17 @@ certain circumstances.
 
 ## Effects
 
-Effects modify the behaviour of a character, lasting until some
-condition is met. Applying the same effect multiple times does nothing.
+Effects modify a character’s behavior, lasting until a condition is met.
+Applying the same effect multiple times does nothing.
 
-| Name       | Effect                                                                                                      |
-| ---------- | ----------------------------------------------------------------------------------------------------------- |
-| Aggression | Until the start of your next turn, opponents able to attack you will do so at the beginning of their turns. |
-| Concealed  | Until the start of your next turn or until you attack, opponents can’t target you.                          |
-| Amplify    | Consume this effect to deal additional damage based on the current turn.                                    |
-| Adrenaline | Consume this effect to move or attack without counting towards the turn’s limit.                            |
-| Prowess    | Consume this effect to sharply increase your power on your next attack.                                     |
-| Fortified  | Consume this effect to reduce the power of the next attack made against you to one.                         |
-| Restrained | Until the start of your next turn, you can’t move or attack.                                                |
+| Name       | Effect                                                                                        |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Adrenaline | Allows the character to move or attack once without counting towards the turn’s limit.        |
+| Amplify    | Supplements the next outgoing damage instance based on the current round.                     |
+| Concealed  | Removes the character from combat until your next turn.                                       |
+| Fortified  | Prevents all but one damage point from the next incoming damage instance.                     |
+| Prowess    | Maximizes the attack score on the next outgoing damage instance.                              |
+| Taunt      | Causes all opponents within range to automatically attack the character until your next turn. |
 
 ## Keywords
 
@@ -147,7 +146,7 @@ faction mechanic.
 
 | Name      | Effect                                                                              |
 | --------- | ----------------------------------------------------------------------------------- |
-| Channel   | Activate the specified effect unless you have Restrained, then gain Restrained.     |
+| Channel   | Activate the specified effect by consuming the character’s attack action.           |
 | Echo      | Activate the specified effect twice on even turns, or once otherwise.               |
 | Exert     | Activate the specified effect by reducing your maximum action points by one.        |
 | Storm     | Activate the specified effect once for each skill with Storm that has been used.    |
@@ -169,7 +168,7 @@ combat.
 | Caster  | Yes    | Huge  | Tiny  | Gain Amplify.    |
 | Ranger  | Yes    | Large | Small | Gain Concealed.  |
 | Hunter  | No     | Small | Large | Gain Adrenaline. |
-| Fighter | No     | Tiny  | Huge  | Gain Aggression. |
+| Fighter | No     | Tiny  | Huge  | Gain Taunt.      |
 
 ## Scores
 
