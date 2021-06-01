@@ -11,9 +11,9 @@ practical combat, being also involved in the defences of the Tower.
 
 ## Colette
 
-| Class  | Race | Gender | Talent  |
-| ------ | ---- | ------ | ------- |
-| Ranger | Elf  | Female | Mimicry |
+| Class  | Race | Gender | Talent   |
+| ------ | ---- | ------ | -------- |
+| Ranger | Elf  | Female | Copycat |
 
 | Type   | Cost | Name            | Effect          |
 | ------ | :--: | --------------- | --------------- |
@@ -23,9 +23,9 @@ practical combat, being also involved in the defences of the Tower.
 
 ## Desmond
 
-| Class   | Race      | Gender | Talent       |
-| ------- | --------- | ------ | ------------ |
-| Fighter | Half-wolf | Male   | Adaptability |
+| Class   | Race      | Gender | Talent     |
+| ------- | --------- | ------ | ---------- |
+| Fighter | Half-wolf | Male   | Intimidating |
 
 | Type   | Cost | Name            | Effect           |
 | ------ | :--: | --------------- | ---------------- |
@@ -35,9 +35,9 @@ practical combat, being also involved in the defences of the Tower.
 
 ## Fabrice
 
-| Class  | Race | Gender | Talent    |
-| ------ | ---- | ------ | --------- |
-| Caster | Elf  | Male   | Ingenious |
+| Class  | Race | Gender | Talent     |
+| ------ | ---- | ------ | ---------- |
+| Caster | Elf  | Male   | Mnemonic |
 
 | Type   | Cost | Name            | Effect        |
 | ------ | :--: | --------------- | ------------- |

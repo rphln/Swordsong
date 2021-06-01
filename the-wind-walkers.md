@@ -4,7 +4,7 @@
 
 | Class   | Race | Gender | Talent     |
 | ------- | ---- | ------ | ---------- |
-| Fighter | Elf  | Male   | Intimidate |
+| Fighter | Elf  | Male   | Intimidating |
 
 | Type   | Cost | Skill          | Effect                          |
 | ------ | :--: | -------------- | ------------------------------- |
@@ -14,9 +14,9 @@
 
 ## Lapis
 
-| Class  | Race | Gender | Talent       |
-| ------ | ---- | ------ | ------------ |
-| Ranger | Elf  | Female | Adaptability |
+| Class  | Race | Gender | Talent     |
+| ------ | ---- | ------ | ---------- |
+| Ranger | Elf  | Female | Mnemonic |
 
 | Type   | Cost | Skill        | Effect                                 |
 | ------ | :--: | ------------ | -------------------------------------- |
@@ -26,9 +26,9 @@
 
 ## Nell
 
-| Class  | Race  | Gender | Talent  |
-| ------ | ----- | ------ | ------- |
-| Hunter | Human | Female | Mimicry |
+| Class  | Race  | Gender | Talent    |
+| ------ | ----- | ------ | --------- |
+| Hunter | Human | Female | Copycat |
 
 | Type   | Cost | Skill        | Effect                        |
 | ------ | :--: | ------------ | ----------------------------- |

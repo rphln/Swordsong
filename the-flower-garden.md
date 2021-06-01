@@ -2,9 +2,9 @@
 
 ## Lily
 
-| Class  | Race  | Gender | Talent   |
-| ------ | ----- | ------ | -------- |
-| Caster | Golem | Female | Mnemonic |
+| Class  | Race  | Gender | Talent    |
+| ------ | ----- | ------ | --------- |
+| Caster | Golem | Female | Inspiring |
 
 | Type   | Cost | Skill        | Effect                             |
 | ------ | :--: | ------------ | ---------------------------------- |
@@ -26,9 +26,9 @@
 
 ## Rose
 
-| Class  | Race  | Gender | Talent     |
-| ------ | ----- | ------ | ---------- |
-| Hunter | Golem | Female | Intimidate |
+| Class  | Race  | Gender | Talent   |
+| ------ | ----- | ------ | -------- |
+| Hunter | Golem | Female | Intimidating |
 
 | Type   | Cost | Skill        | Effect                  |
 | ------ | :--: | ------------ | ----------------------- |

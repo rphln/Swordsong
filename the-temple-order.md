@@ -2,9 +2,9 @@
 
 ## Alice
 
-| Class   | Race  | Gender | Talent     |
-| ------- | ----- | ------ | ---------- |
-| Fighter | Human | Female | Leadership |
+| Class   | Race  | Gender | Talent    |
+| ------- | ----- | ------ | --------- |
+| Fighter | Human | Female | Inspiring |
 
 | Type   | Cost | Name          | Effect                                  |
 | ------ | :--: | ------------- | --------------------------------------- |
@@ -14,9 +14,9 @@
 
 ## Ariel
 
-| Class  | Race       | Gender | Talent    |
-| ------ | ---------- | ------ | --------- |
-| Caster | Half-sheep | Female | Ingenious |
+| Class  | Race       | Gender | Talent   |
+| ------ | ---------- | ------ | -------- |
+| Caster | Half-sheep | Female | Mnemonic |
 
 | Type   | Cost | Name          | Effect                      |
 | ------ | :--: | ------------- | --------------------------- |
@@ -26,9 +26,9 @@
 
 ## Graham
 
-| Class  | Race  | Gender | Talent    |
-| ------ | ----- | ------ | --------- |
-| Hunter | Human | Male   | Steadfast |
+| Class  | Race  | Gender | Talent     |
+| ------ | ----- | ------ | ---------- |
+| Hunter | Human | Male   | Ingenious |
 
 | Type   | Cost | Name           | Effect                                   |
 | ------ | :--: | -------------- | ---------------------------------------- |

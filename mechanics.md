@@ -98,34 +98,13 @@ Each character has a talent — a special ability that automatically
 activates before the first turn if they are designated as their team’s
 leader.
 
-  - Some talents activate as the character is deployed.
-
-| Name      | Effect                                |
-| --------- | ------------------------------------- |
-| Ingenious | Gain an action point.                 |
-| Mimicry   | Copy a talent from a random opponent. |
-| Mnemonic  | Draw a card.                          |
-
-  - Some talents activate as the character starts their turn.
-
-| Name         | Effect                              |
-| ------------ | ----------------------------------- |
-| Forecast     | Raise your Storm counter.           |
-| Adaptability | Alternate between ranged and melee. |
-
-  - Some talents stay active for as long as the character stays
-    unfainted.
-
-| Name       | Effect                                      |
-| ---------- | ------------------------------------------- |
-| Intimidate | Lower the power and armor of all opponents. |
-| Leadership | Raise the power and armor of all allies.    |
-
-  - Some talents activate when the character faints.
-
-| Name      | Effect                              |
-| --------- | ----------------------------------- |
-| Steadfast | Return to combat on your next turn. |
+| Name         | Effect                                      |
+| ------------ | ------------------------------------------- |
+| Copycat      | Copy your opponent’s leader’s talent.       |
+| Ingenious    | Gain an action point.                       |
+| Inspiring    | Raise the power and armor of all allies.    |
+| Intimidating | Lower the power and armor of all opponents. |
+| Mnemonic     | Draw two cards.                             |
 
 ## Effects
 
