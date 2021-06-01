@@ -2,8 +2,8 @@
 
 ## Cédric
 
-| Class   | Race | Gender | Talent     |
-| ------- | ---- | ------ | ---------- |
+| Class   | Race | Gender | Talent       |
+| ------- | ---- | ------ | ------------ |
 | Fighter | Elf  | Male   | Intimidating |
 
 | Type   | Cost | Skill          | Effect                          |
@@ -14,8 +14,8 @@
 
 ## Lapis
 
-| Class  | Race | Gender | Talent     |
-| ------ | ---- | ------ | ---------- |
+| Class  | Race | Gender | Talent   |
+| ------ | ---- | ------ | -------- |
 | Ranger | Elf  | Female | Mnemonic |
 
 | Type   | Cost | Skill        | Effect                                 |
@@ -26,8 +26,8 @@
 
 ## Nell
 
-| Class  | Race  | Gender | Talent    |
-| ------ | ----- | ------ | --------- |
+| Class  | Race  | Gender | Talent  |
+| ------ | ----- | ------ | ------- |
 | Hunter | Human | Female | Copycat |
 
 | Type   | Cost | Skill        | Effect                        |

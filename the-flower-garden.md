@@ -26,8 +26,8 @@
 
 ## Rose
 
-| Class  | Race  | Gender | Talent   |
-| ------ | ----- | ------ | -------- |
+| Class  | Race  | Gender | Talent       |
+| ------ | ----- | ------ | ------------ |
 | Hunter | Golem | Female | Intimidating |
 
 | Type   | Cost | Skill        | Effect                  |

@@ -26,8 +26,8 @@
 
 ## Graham
 
-| Class  | Race  | Gender | Talent     |
-| ------ | ----- | ------ | ---------- |
+| Class  | Race  | Gender | Talent    |
+| ------ | ----- | ------ | --------- |
 | Hunter | Human | Male   | Ingenious |
 
 | Type   | Cost | Name           | Effect                                   |
