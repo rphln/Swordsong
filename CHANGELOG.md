@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [1.4.0](https://github.com/rphln/Swordsong/compare/v1.3.0...v1.4.0) (2021-06-01)
+
+### Major changes
+
+  - **Mechanics:** Refactor the effects.
+    ([1dd2353](https://github.com/rphln/Swordsong/commit/1dd2353b29c33186f3123c71741e4f1d6fb1ae3c))
+  - **Mechanics:** Rename “Aggression” to “Taunt”.
+    ([b633949](https://github.com/rphln/Swordsong/commit/b633949e2c74d0ad6b5173e238f55cc281db0e4a))
+  - **Mechanics:** Rework all talents.
+    ([3496e53](https://github.com/rphln/Swordsong/commit/3496e53dfe24be5fbc52f276ab3b8c9f3c69d2d2))
+  - **Mechanics:** Talents are now exclusive to a team’s leader.
+    ([ab4c8ca](https://github.com/rphln/Swordsong/commit/ab4c8ca741e8f9f2dff1affa32075470f33ac3f7))
+
+### Minor changes
+
+  - Format files.
+    ([42ac14a](https://github.com/rphln/Swordsong/commit/42ac14ad40a52742fb54a474f84b3ceba840898b))
+  - **Mechanics:** Add a table for the factions.
+    ([21ae5e9](https://github.com/rphln/Swordsong/commit/21ae5e9cd78508c5898f1ea42710ae7b2bc3abf9))
+  - **Mechanics:** Change wordings.
+    ([7baa6ce](https://github.com/rphln/Swordsong/commit/7baa6cebc25e43fb7af2282e0c6bc8124cfaeed9))
+
 ## [1.3.0](https://github.com/rphln/Swordsong/compare/v1.2.0...v1.3.0) (2021-05-31)
 
 ### Minor changes
