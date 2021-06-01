@@ -168,3 +168,12 @@ them below the “Tiny” tier or raise them above the “Gargantuan” tier.
 | Large      |    16 |    82 |
 | Huge       |    18 |    92 |
 | Gargantuan |    20 |   102 |
+
+## Factions
+
+| Caster | Ranger | Hunter | Fighter | Keyword   | Name                                      |
+| :----: | :----: | :----: | :-----: | --------- | ----------------------------------------- |
+|        |   ✓    |   ✓    |    ✓    | Threshold | [The Wind Walkers](the-wind-walkers.md)   |
+|   ✓    |        |   ✓    |    ✓    | Channel   | [The Temple Order](the-temple-order.md)   |
+|   ✓    |   ✓    |        |    ✓    | Echo      | [The Ivory Tower](the-ivory-tower.md)     |
+|   ✓    |   ✓    |   ✓    |         | Exert     | [The Flower Garden](the-flower-garden.md) |
