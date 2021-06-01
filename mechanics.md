@@ -16,7 +16,8 @@ preparatory phases.
 
 2.  In the draft phase, both players will take turns choosing their
     characters and positioning them in the map. No character may be
-    chosen twice in a match.
+    chosen twice in a match. The first character to be placed in the
+    field by each player is designated as their team’s leader.
     
     The draft order is defined as “O → S → S → O → O → S”, with “S”
     being the starting player and “O” their opponent.
@@ -93,8 +94,9 @@ preparatory phases.
 
 ## Talents
 
-Each character has a talent – a passive ability that activates under
-certain circumstances.
+Each character has a talent — a special ability that automatically
+activates before the first turn if they are designated as their team’s
+leader.
 
   - Some talents activate as the character is deployed.
 
