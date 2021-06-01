@@ -143,15 +143,15 @@ condition is met. Applying the same effect multiple times does nothing.
 ## Keywords
 
 Used to tie cards with similar abilities together, generally defining a
-party mechanic.
+faction mechanic.
 
-| Name      | Effect                                                                           |
-| --------- | -------------------------------------------------------------------------------- |
-| Channel   | Activate the specified effect unless you have Restrained, then gain Restrained.  |
-| Echo      | Activate the specified effect twice on even turns.                               |
-| Exert     | Activate the specified effect by reducing your maximum action points by one.     |
-| Storm     | Activate the specified effect once for each skill with Storm that has been used. |
-| Threshold | Activate the specified effect twice if you’re below half health.                 |
+| Name      | Effect                                                                              |
+| --------- | ----------------------------------------------------------------------------------- |
+| Channel   | Activate the specified effect unless you have Restrained, then gain Restrained.     |
+| Echo      | Activate the specified effect twice on even turns, or once otherwise.               |
+| Exert     | Activate the specified effect by reducing your maximum action points by one.        |
+| Storm     | Activate the specified effect once for each skill with Storm that has been used.    |
+| Threshold | Activate the specified effect twice if you’re below half health, or once otherwise. |
 
 ## Classes
 
