@@ -28,26 +28,6 @@ through a number of preparation phases.
 
 ## Combat
 
-  - Once per turn, a character can walk to any tile within their speed
-    score in distance.
-
-  - Once per turn, a character can perform a basic attack against any
-    opponent within their reach.
-
-  - Once per turn, a character can perform a counter-attack when an
-    opponent within their reach attacks them.
-
-  - Each character receives an attack action and a movement action
-    during each turn.
-
-  - Upon being attacked, the defender will take damage equal to the
-    power of the attacker.
-
-  - A character whose damage taken surpasses their armor will be removed
-    from the match as fainted.
-
-## Action points
-
   - Each player starts with zero action points.
 
   - A player can have up to 10 action points.
@@ -58,7 +38,19 @@ through a number of preparation phases.
   - A player will have their action points fully restored at the
     beginning of each of their turns.
 
-  - Action points are used exclusively for using skill cards.
+  - Once per turn, a character can walk to any tile within their speed
+    score in distance by using an action point.
+
+  - Once per turn, a character can perform a basic attack against any
+    opponent within their reach by using two action points.
+
+  - Once per turn, a character will perform a counter-attack when an
+    opponent within their reach attacks them.
+
+  - Upon being attacked, the defender will take damage equal to the
+    power of the attacker.
+
+  - A character whose damage taken surpasses their armor will faint.
 
 ## Cards
 
