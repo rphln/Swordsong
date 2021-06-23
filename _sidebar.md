@@ -6,4 +6,4 @@
       - [The Daybreakers](the-daybreakers.md)
       - [The Dollhouse](the-dollhouse.md)
       - [The Nightbringers](the-nightbringers.md)
-      - [The Wind Walkers](the-wind-walkers.md)
+      - [The Wayfarers](the-wayfarers.md)
