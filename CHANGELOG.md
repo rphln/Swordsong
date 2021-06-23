@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+### [1.4.1](https://github.com/rphln/Swordsong/compare/v1.4.0...v1.4.1) (2021-06-23)
+
+### Other changes
+
+  - Update `index.html`.
+    ([8be7b25](https://github.com/rphln/Swordsong/commit/8be7b25299ea2adea8f6ae5c995ce01771b43c18))
+  - Update the website icon.
+    ([9088583](https://github.com/rphln/Swordsong/commit/9088583548c92ea0d9a9114e61520a5039fab98a))
+
 ## [1.4.0](https://github.com/rphln/Swordsong/compare/v1.3.0...v1.4.0) (2021-06-01)
 
 ### Major changes
