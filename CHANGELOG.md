@@ -4,6 +4,35 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [1.5.0](https://github.com/rphln/Swordsong/compare/v1.4.1...v1.5.0) (2021-06-23)
+
+### Major changes
+
+  - **Mechanics:** Discard the leftmost card when drawing with a full
+    hand.
+    ([f04689a](https://github.com/rphln/Swordsong/commit/f04689aa5d21a66c98f136b3c40ed97c08087c93))
+  - **Mechanics:** Increase the starting action points to 4.
+    ([bc60f07](https://github.com/rphln/Swordsong/commit/bc60f07773f881660e3c392608b963df805aef22))
+  - **Mechanics:** Performing combat actions consumes action points.
+    ([0d835d7](https://github.com/rphln/Swordsong/commit/0d835d7baa232b5cd06a54cf2de646da98320e3a))
+  - **Mechanics:** Teams can have any six characters.
+    ([1139511](https://github.com/rphln/Swordsong/commit/113951185906287733164d651122b86d44d5f7a1))
+
+### Minor changes
+
+  - **Mechanics:** Add clarification regarding unused action points.
+    ([8292b48](https://github.com/rphln/Swordsong/commit/8292b48166caf12807fe4e637d39c03d110ae6da))
+  - **Mechanics:** Clarify how the armor score is determined.
+    ([7731b52](https://github.com/rphln/Swordsong/commit/7731b5228f7498d69b6d74ce32775b2f1d426fa4))
+  - **Mechanics:** Remove a rogue “to” in the text.
+    ([525b6b6](https://github.com/rphln/Swordsong/commit/525b6b66e62d185566b2cd0a43e5d79818bf6132))
+  - **Mechanics:** Remove the factions table.
+    ([7746045](https://github.com/rphln/Swordsong/commit/7746045cc706cfece4b9de13f91f9a9c43626464))
+  - **Mechanics:** Reword the 4th preparation step.
+    ([64b1809](https://github.com/rphln/Swordsong/commit/64b18090692f0f7857941d162aeec0e80808da35))
+  - **Mechanics:** Reword the section about how cards are split.
+    ([7b102a4](https://github.com/rphln/Swordsong/commit/7b102a469add482877b3861c038b61229c8e7436))
+
 ### [1.4.1](https://github.com/rphln/Swordsong/compare/v1.4.0...v1.4.1) (2021-06-23)
 
 ### Other changes
