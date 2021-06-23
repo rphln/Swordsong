@@ -68,8 +68,9 @@ through a number of preparation phases.
   - A player will draw a card from their deck at the beginning of each
     of their turns.
 
-  - A player can have up to 7 cards in their hand at time. Cards drawn
-    while their hand is full are discarded.
+  - A player can have up to 7 cards in their hand at time. Drawing a
+    card while having a full hand causes the leftmost card in the hand
+    to be discarded.
 
 ## Defeat
 
