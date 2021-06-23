@@ -81,20 +81,6 @@ through a number of preparation phases.
 
   - A player can also choose to forfeit the match at any time.
 
-## Talents
-
-Each character has a talent — a special ability that automatically
-activates before the first turn if they are designated as their team’s
-leader.
-
-| Name         | Effect                                      |
-| ------------ | ------------------------------------------- |
-| Copycat      | Copy your opponent’s leader’s talent.       |
-| Ingenious    | Gain an action point.                       |
-| Inspiring    | Raise the power and armor of all allies.    |
-| Intimidating | Lower the power and armor of all opponents. |
-| Mnemonic     | Draw two cards.                             |
-
 ## Effects
 
 Effects modify a character’s behavior, lasting until a condition is met.
@@ -133,12 +119,18 @@ combat.
   - Melee characters can only target units that are exactly one tile
     away from them. They can move up to five tiles per turn.
 
-| Class   | Ranged | Power | Armor | Basic skill      |
-| ------- | ------ | ----- | ----- | ---------------- |
-| Caster  | Yes    | Huge  | Tiny  | Gain Amplify.    |
-| Ranger  | Yes    | Large | Small | Gain Concealed.  |
-| Hunter  | No     | Small | Large | Gain Adrenaline. |
-| Fighter | No     | Tiny  | Huge  | Gain Taunt.      |
+Each class confers a talent — an ability that activates before the first
+turn if a character of that class is designated as their team’s leader.
+Having talents bound to classes — as opposed to characters — should
+provide a small disincentive in terms of flexibility when stacking many
+characters of the same class in a team.
+
+| Class     | Ranged | Power | Armor | Talent                                      |
+| --------- | ------ | ----- | ----- | ------------------------------------------- |
+| Marksman  | Yes    | Huge  | Tiny  | Lower the power and armor of all opponents. |
+| Duelist   | No     | Large | Small | Gain an action point.                       |
+| Supporter | Yes    | Small | Large | Draw two cards.                             |
+| Vanguard  | No     | Tiny  | Huge  | Raise the power and armor of all allies.    |
 
 ## Scores
 
