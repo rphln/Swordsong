@@ -143,6 +143,17 @@ characters of the same class in a team.
 | Supporter | Yes    | Small | Large | Draw two cards.                             |
 | Vanguard  | No     | Tiny  | Huge  | Raise the power and armor of all allies.    |
 
+Currently, each faction has access to all but one of the classes,
+depending on thematic and mechanic factors. This, however, is subject to
+changes.
+
+| Marksman | Duelist | Supporter | Vanguard | Name                                      |
+| :------: | :-----: | :-------: | :------: | :---------------------------------------- |
+|          |    •    |     •     |    •     | [The Daybreakers](the-daybreakers.md)     |
+|    •     |         |     •     |    •     | [The Dollhouse](the-dollhouse.md)         |
+|    •     |    •    |           |    •     | [The Wayfarers](the-wayfarers.md)         |
+|    •     |    •    |     •     |          | [The Nightbringers](the-nightbringers.md) |
+
 ## Scores
 
 Power and armor scores are split into six tiers. When a skill or a
