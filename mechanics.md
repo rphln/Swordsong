@@ -86,14 +86,20 @@ through a number of preparation phases.
 Effects modify a character’s behavior, lasting until a condition is met.
 Applying the same effect multiple times does nothing.
 
-| Name       | Effect                                                                                        |
-| ---------- | --------------------------------------------------------------------------------------------- |
-| Adrenaline | Allows the character to move or attack once without counting towards the turn’s limit.        |
-| Amplify    | Supplements the next outgoing damage instance based on the current round.                     |
-| Concealed  | Removes the character from combat until your next turn.                                       |
-| Fortified  | Prevents all but one damage point from the next incoming damage instance.                     |
-| Prowess    | Maximizes the attack score on the next outgoing damage instance.                              |
-| Taunt      | Causes all opponents within range to automatically attack the character until your next turn. |
+| Name     | Duration   | Type      | Effect                                                                              |
+| -------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
+| Alacrity | Consumable |           | The character can attack or walk once without consuming an action.                  |
+|          |            |           |                                                                                     |
+| Fortify  | Consumable | Combat    | Prevents all but one damage point from the next incoming damage instance.           |
+| Prowess  | Consumable | Combat    | Maximizes the characters’s power score on their next outgoing damage instance.      |
+|          |            |           |                                                                                     |
+| Taunt    | Temporary  | Round     | The opponents able to attack the character will automatically do so on their turns. |
+|          |            |           |                                                                                     |
+| Restrain | Temporary  | Round     | The character can’t attack or walk during their turn.                               |
+| Silence  | Temporary  | Round     | The character can’t use skills during their turn.                                   |
+|          |            |           |                                                                                     |
+| Burn     | Permanent  | Stackable | The character loses health based on their Burn stacks at the start of their turns.  |
+| Energy   | Permanent  | Stackable | The character’s skills are modified based on their Energy stacks.                   |
 
 ## Keywords
 
