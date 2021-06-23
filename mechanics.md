@@ -1,14 +1,10 @@
 # Mechanics
 
-## Teams
-
-A team must be defined by the player before a match and is composed of
-the six characters from two distinct parties.
-
 ## Preparation
 
-At the start of a match, both players will go through a number of
-preparatory phases.
+A team must be defined by the player before a match and is composed of
+any six characters. At the start of a match, both players will go
+through a number of preparation phases.
 
 1.  One of the players will be randomly chosen to be the “starting
     player”. This to determines the turn order, the draft order and the
