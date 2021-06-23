@@ -158,6 +158,12 @@ them below the “Tiny” tier or raise them above the “Gargantuan” tier.
 | Huge       |    18 |    92 |
 | Gargantuan |    20 |   102 |
 
+The armor value is defined such that a defender can withstand…
+
+  - At least six hits from an attacker with the same power as the
+    defender’s armor.
+  - At least three hits from an attacker with “Gargantuan” power.
+
 ## Factions
 
 | Caster | Ranger | Hunter | Fighter | Keyword   | Name                                      |
