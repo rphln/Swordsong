@@ -24,8 +24,7 @@ through a number of preparation phases.
     They may then shuffle any number of cards from their hand back into
     their deck and draw that many cards as replacements.
 
-4.  After those phases, the match begins with the starting player’s
-    turn.
+4.  The match then begins with the starting player’s turn.
 
 ## Combat
 
