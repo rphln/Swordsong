@@ -32,6 +32,8 @@ through a number of preparation phases.
 
   - A player can have up to 10 action points.
 
+  - Unused action points will not carry over to the next turn.
+
   - A player will have their maximum action points increased by one at
     the beginning of each of their turns.
 
