@@ -56,9 +56,8 @@ through a number of preparation phases.
 
 ## Cards
 
-  - Each character has four copies of their class skill card.
-
-  - Each character has three copies of each of their unique skill cards.
+  - Each character has four copies of their primary skill card and three
+    copies of each of their secondary skill cards.
 
   - A deck is made by shuffling the card pools of the characters fielded
     in a match.
