@@ -163,12 +163,3 @@ The armor value is defined such that a defender can withstand…
   - At least six hits from an attacker with the same power as the
     defender’s armor.
   - At least three hits from an attacker with “Gargantuan” power.
-
-## Factions
-
-| Caster | Ranger | Hunter | Fighter | Keyword   | Name                                      |
-| :----: | :----: | :----: | :-----: | --------- | ----------------------------------------- |
-|        |   ✓    |   ✓    |    ✓    | Threshold | [The Wind Walkers](the-wind-walkers.md)   |
-|   ✓    |        |   ✓    |    ✓    | Channel   | [The Temple Order](the-temple-order.md)   |
-|   ✓    |   ✓    |        |    ✓    | Echo      | [The Ivory Tower](the-ivory-tower.md)     |
-|   ✓    |   ✓    |   ✓    |         | Exert     | [The Flower Garden](the-flower-garden.md) |
