@@ -103,16 +103,21 @@ Applying the same effect multiple times does nothing.
 
 ## Keywords
 
-Used to tie cards with similar abilities together, generally defining a
-faction mechanic.
+Used to tie cards with similar abilities together.
 
-| Name      | Effect                                                                              |
-| --------- | ----------------------------------------------------------------------------------- |
-| Channel   | Activate the specified effect by consuming the character’s attack action.           |
-| Echo      | Activate the specified effect twice on even turns, or once otherwise.               |
-| Exert     | Activate the specified effect by reducing your maximum action points by one.        |
-| Storm     | Activate the specified effect once for each skill with Storm that has been used.    |
-| Threshold | Activate the specified effect twice if you’re below half health, or once otherwise. |
+| Name      | Effect                                                                    |
+| --------- | ------------------------------------------------------------------------- |
+| Tempering | Activate the effect twice if you’re below half health, or once otherwise. |
+| Enmity    | Activate the effect thrice if there’s no other allies, or once otherwise. |
+|           |                                                                           |
+| Channel   | Activate the effect by consuming the character’s attack action.           |
+| Resonance | Activate the effect twice on even turns, or once otherwise.               |
+|           |                                                                           |
+| Unwind    | Consume all Energy stacks to activate the effect that many times.         |
+| Windup    | Activate the effect by gaining a Energy stack.                            |
+|           |                                                                           |
+| Betrayal  | Activate the effect by reducing your maximum action points by one.        |
+| Offering  | Activate the effect by discarding a card.                                 |
 
 ## Classes
 
