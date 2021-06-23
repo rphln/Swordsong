@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [2.0.0](https://github.com/rphln/Swordsong/compare/v1.5.0...v2.0.0) (2021-06-23)
+
+### ⚠ BREAKING CHANGES
+
+  - **Mechanics:** Rework the keywords.
+  - **Mechanics:** Rework the effects.
+  - **Mechanics:** Rework the classes and talents.
+
+### Major changes
+
+  - **Mechanics:** Rework the classes and talents.
+    ([fab7678](https://github.com/rphln/Swordsong/commit/fab76788c0ba011898cb0fb6783b9f746d0c523f))
+  - **Mechanics:** Rework the effects.
+    ([0649d15](https://github.com/rphln/Swordsong/commit/0649d15c3048d74d05f4dfb3b16349f4de2a475d))
+  - **Mechanics:** Rework the keywords.
+    ([2f1dd7a](https://github.com/rphln/Swordsong/commit/2f1dd7a1ed87dbea3a8947a45e4f12cd54af264b))
+  - **The Daybreakers:** Add faction.
+    ([be34d68](https://github.com/rphln/Swordsong/commit/be34d68333ee5319baa8f06fbf1fb4e4974741f5))
+  - **The Dollhouse:** Add faction.
+    ([01a5460](https://github.com/rphln/Swordsong/commit/01a546096478ea328aedcbaf3e749e4550b067ec))
+  - **The Nightbringers:** Add faction.
+    ([b69532d](https://github.com/rphln/Swordsong/commit/b69532d160cb2becc81c712bd4b47764cc2ada44))
+  - **The Wayfarers:** Add faction.
+    ([55d78a2](https://github.com/rphln/Swordsong/commit/55d78a23a90524b8f333fbea6f67c2dd8320b861))
+
+### Minor changes
+
+  - **Mechanics:** Add factions table.
+    ([a3fa1e9](https://github.com/rphln/Swordsong/commit/a3fa1e947490cdb2fd088fa3c5ba23e6bbdba92e))
+
 ## [1.5.0](https://github.com/rphln/Swordsong/compare/v1.4.1...v1.5.0) (2021-06-23)
 
 ### Major changes
