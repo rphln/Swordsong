@@ -28,7 +28,7 @@ through a number of preparation phases.
 
 ## Combat
 
-  - Each player starts with zero action points.
+  - Each player starts the match with 4 action points.
 
   - A player can have up to 10 action points.
 
