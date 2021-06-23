@@ -4,5 +4,6 @@
       - [Changelog](CHANGELOG.md)
   - Characters
       - [The Dollhouse](the-dollhouse.md)
+      - [The Nightbringers](the-nightbringers.md)
       - [The Temple Order](the-temple-order.md)
       - [The Wind Walkers](the-wind-walkers.md)
