@@ -7,7 +7,7 @@ any six characters. At the start of a match, both players will go
 through a number of preparation phases.
 
 1.  One of the players will be randomly chosen to be the “starting
-    player”. This to determines the turn order, the draft order and the
+    player”. This determines the turn order, the draft order and the
     allocation of the map halves.
 
 2.  In the draft phase, both players will take turns choosing their
