@@ -24,7 +24,7 @@
 
 | Type      | Cost | Name              | Effect                                       |
 | --------- | :--: | ----------------- | -------------------------------------------- |
-| Primary   |  ?   | Method to Madness | Offering: Gain Amplifty, Fortify or Prowess. |
+| Primary   |  ?   | Method to Madness | Offering: Gain Alacrity, Fortify or Prowess. |
 | Secondary |  ?   | Cedric’s β        |                                              |
 | Secondary |  ?   | Cedric’s γ        |                                              |
 
