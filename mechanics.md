@@ -101,7 +101,7 @@ Applying the same effect multiple times does nothing.
 | Coldcage | Temporary  | Round     | The cost of using skills, attacking or walking is increased.                        |
 | Tailwind | Temporary  | Round     | The cost of using skills, attacking or walking is reduced.                          |
 |          |            |           |                                                                                     |
-| Burn     | Permanent  | Stackable | The character loses health based on their Burn stacks at the start of their turns.  |
+| Burn     | Permanent  | Stackable | The character takes 2, 3 or 5 damage at the start of their turns.                   |
 
 ## Keywords
 
