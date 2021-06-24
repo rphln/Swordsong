@@ -98,6 +98,9 @@ Applying the same effect multiple times does nothing.
 | Restrain | Temporary  | Round     | The character can’t attack or walk during their turn.                               |
 | Silence  | Temporary  | Round     | The character can’t use skills during their turn.                                   |
 |          |            |           |                                                                                     |
+| Coldcage | Temporary  | Round     | The cost of using skills, attacking or walking is increased.                        |
+| Tailwind | Temporary  | Round     | The cost of using skills, attacking or walking is reduced.                          |
+|          |            |           |                                                                                     |
 | Burn     | Permanent  | Stackable | The character loses health based on their Burn stacks at the start of their turns.  |
 | Energy   | Permanent  | Stackable | The character’s skills are modified based on their Energy stacks.                   |
 
