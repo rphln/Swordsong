@@ -148,7 +148,7 @@ depending on thematic and mechanic factors. This, however, is subject to
 changes.
 
 | Marksman | Duelist | Supporter | Vanguard | Name                                      |
-| :------: | :-----: | :-------: | :------: | :---------------------------------------- |
+| :------: | :-----: | :-------: | :------: | ----------------------------------------- |
 |          |    •    |     •     |    •     | [The Daybreakers](the-daybreakers.md)     |
 |    •     |         |     •     |    •     | [The Dollhouse](the-dollhouse.md)         |
 |    •     |    •    |           |    •     | [The Wayfarers](the-wayfarers.md)         |
