@@ -102,7 +102,6 @@ Applying the same effect multiple times does nothing.
 | Tailwind | Temporary  | Round     | The cost of using skills, attacking or walking is reduced.                          |
 |          |            |           |                                                                                     |
 | Burn     | Permanent  | Stackable | The character loses health based on their Burn stacks at the start of their turns.  |
-| Energy   | Permanent  | Stackable | The character’s skills are modified based on their Energy stacks.                   |
 
 ## Keywords
 
@@ -116,10 +115,10 @@ Used to tie cards with similar abilities together.
 | Channel   | Activate the effect by consuming the character’s attack action.           |
 | Resonance | Activate the effect twice on even turns, or once otherwise.               |
 |           |                                                                           |
-| Unwind    | Consume all Energy stacks to activate the effect that many times.         |
-| Windup    | Activate the effect by gaining a Energy stack.                            |
+| Actuate   | Consume all Burn stacks to activate the effect that many times.           |
+| Kindle    | Activate the effect by gaining a Burn stack.                              |
 |           |                                                                           |
-| Betrayal  | Activate the effect by reducing your maximum action points by one.        |
+| Delirium  | Activate the effect by reducing your maximum action points by one.        |
 | Offering  | Activate the effect by discarding a card.                                 |
 
 ## Classes
@@ -153,9 +152,9 @@ changes.
 | Marksman | Duelist | Supporter | Vanguard | Name                                      |
 | :------: | :-----: | :-------: | :------: | ----------------------------------------- |
 |          |    •    |     •     |    •     | [The Daybreakers](the-daybreakers.md)     |
-|    •     |         |     •     |    •     | [The Dollhouse](the-dollhouse.md)         |
-|    •     |    •    |           |    •     | [The Wayfarers](the-wayfarers.md)         |
-|    •     |    •    |     •     |          | [The Nightbringers](the-nightbringers.md) |
+|    •     |         |     •     |    •     | [The Nightbringers](the-nightbringers.md) |
+|    •     |    •    |           |    •     | [The Dollhouse](the-dollhouse.md)         |
+|    •     |    •    |     •     |          | [The Wayfarers](the-wayfarers.md)         |
 
 ## Scores
 

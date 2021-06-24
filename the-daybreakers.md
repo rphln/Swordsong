@@ -1,41 +1,41 @@
 # The Daybreakers
 
-## Alice
+## Fabrice
 
-| Class    | Description   |
-| -------- | ------------- |
-| Vanguard | Female human. |
+  - Elf, male.
+  - An inquisitor of the Temple Order.
+  - Assumes the role of strategist in this party.
 
-| Type      | Cost | Name          | Effect                                                              |
-| --------- | :--: | ------------- | ------------------------------------------------------------------- |
-| Primary   |  ?   | Alice’s α     | Resonance: Summon Leo. If already summoned, strengthen him instead. |
-| Secondary |  ?   | Providence    | Channel: Give Fortify to all allies.                                |
-| Secondary |  ?   | Encouragement | Channel: Give Prowess to all allies.                                |
-
-| Name | Ranged | Power | Armor |
-| ---- | ------ | ----- | ----- |
-| Leo  | No     | Tiny  | Tiny  |
+|  Class  | Type      | Cost | Name        | Effect                                                     |
+| :-----: | --------- | :--: | ----------- | ---------------------------------------------------------- |
+| Duelist | Primary   |  ?   | Fabrice’s α | Channel: Resonance: Perform an attack against an opponent. |
+|    〃    | Secondary |  ?   | Fabrice’s β | Give Restrain to an opponent.                              |
+|    〃    | Secondary |  ?   | Fabrice’s γ | Give Silence to an opponent.                               |
 
 ## Ariel
 
-| Class     | Description             |
-| --------- | ----------------------- |
-| Supporter | Female sheep beastfolk. |
+  - Sheep beastfolk, female.
+  - A high-ranked priestess in the Temple Order.
 
-| Type      | Cost | Name      | Effect                                |
-| --------- | :--: | --------- | ------------------------------------- |
-| Primary   |  ?   | Ariel’s α | Return a fainted ally to combat.      |
-| Secondary |  ?   | Solace    | Channel: Resonance: Heal all allies.  |
-| Secondary |  ?   | Damnation | Channel: Resonance: Damage all units. |
+|   Class   | Type      | Cost | Name         | Effect                                     |
+| :-------: | --------- | :--: | ------------ | ------------------------------------------ |
+| Supporter | Primary   |  ?   | Rite of Dawn | Return a fainted ally to combat.           |
+|     〃     | Secondary |  ?   | Damnation    | Channel: Resonance: Damage all characters. |
+|     〃     | Secondary |  ?   | Solace       | Channel: Resonance: Heal all allies.       |
 
-## Fabrice
+## Alice
 
-| Class   | Description |
-| ------- | ----------- |
-| Duelist | Male elf.   |
+  - Human, female.
+  - One of the public faces of the Temple Order.
 
-| Type      | Cost | Name        | Effect                                                     |
-| --------- | :--: | ----------- | ---------------------------------------------------------- |
-| Primary   |  ?   | Fabrice’s α | Channel: Resonance: Perform an attack against an opponent. |
-| Secondary |  ?   | Fabrice’s β | Give Restrain to an opponent.                              |
-| Secondary |  ?   | Fabrice’s γ | Give Silence to an opponent.                               |
+|  Class   | Type      | Cost | Name          | Effect                                                              |
+| :------: | --------- | :--: | ------------- | ------------------------------------------------------------------- |
+| Vanguard | Primary   |  ?   | Alice’s α     | Resonance: Summon Leo. If already summoned, strengthen him instead. |
+|    〃     | Secondary |  ?   | Providence    | Channel: Give Fortify to all allies.                                |
+|    〃     | Secondary |  ?   | Encouragement | Channel: Give Prowess to all allies.                                |
+
+## Leo
+
+|  Class   | Ranged | Power | Armor |
+| :------: | ------ | ----- | ----- |
+| Familiar | No     | Tiny  | Tiny  |

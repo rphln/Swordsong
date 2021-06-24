@@ -1,41 +1,41 @@
 # The Nightbringers
 
+## Fran
+
+  - Eagle beastfolk, female.
+  - Ara ara.
+
+|  Class   | Type      | Cost | Name     | Effect                                   |
+| :------: | --------- | :--: | -------- | ---------------------------------------- |
+| Marksman | Primary   |  ?   | Fran’s α | Delirium: Gain Alacrity.                 |
+|    〃     | Secondary |  ?   | Fran’s β | Offering: Each opponent discards a card. |
+|    〃     | Secondary |  ?   | Fran’s γ | Offering: Draw two cards.                |
+
 ## Lapis
 
-| Class     | Description |
-| --------- | ----------- |
-| Supporter | Female elf. |
+  - Elf, female.
+  - Colette’s older twin sister.
+  - A witch.
 
-| Type      | Cost | Name     | Effect                                                                 |
-| --------- | :--: | -------- | ---------------------------------------------------------------------- |
-| Primary   |  ?   | Lapi’s α | Betrayal: Summon Wraithy. If already summoned, strengthen him instead. |
-| Secondary |  ?   | Lapis’ β | Offering: Draw three cards.                                            |
-| Secondary |  ?   | Lapis’ γ | Offering: Gain two action points.                                      |
-
-| Name    | Ranged | Power | Armor |
-| ------- | ------ | ----- | ----- |
-| Wraithy | Yes    | Tiny  | Tiny  |
+|   Class   | Type      | Cost | Name     | Effect                                                                 |
+| :-------: | --------- | :--: | -------- | ---------------------------------------------------------------------- |
+| Supporter | Primary   |  ?   | Lapis’ α | Offering: Summon Wraithy. If already summoned, strengthen him instead. |
+|     〃     | Secondary |  ?   | Lapis’ β | Delirium: Give Burn to all opponent characters.                        |
+|     〃     | Secondary |  ?   | Lapis’ γ | Delirium: Give Restrain to all opponent characters.                    |
 
 ## Cedric
 
-| Class   | Description |
-| ------- | ----------- |
-| Duelist | Male human. |
+  - Human, male.
+  - Towering, intimidating.
 
-| Type      | Cost | Name              | Effect                                       |
-| --------- | :--: | ----------------- | -------------------------------------------- |
-| Primary   |  ?   | Method to Madness | Offering: Gain Alacrity, Fortify or Prowess. |
-| Secondary |  ?   | Cedric’s β        |                                              |
-| Secondary |  ?   | Cedric’s γ        |                                              |
+|  Class   | Type      | Cost | Name              | Effect                                   |
+| :------: | --------- | :--: | ----------------- | ---------------------------------------- |
+| Vanguard | Primary   |  ?   | Method to Madness | Delirium: Gain a random positive effect. |
+|    〃     | Secondary |  ?   | Cedric’s β        |                                          |
+|    〃     | Secondary |  ?   | Cedric’s γ        |                                          |
 
-## Fran
+## Wraithy
 
-| Class    | Description             |
-| -------- | ----------------------- |
-| Marksman | Female eagle beastfolk. |
-
-| Type      | Cost | Name     | Effect                                   |
-| --------- | :--: | -------- | ---------------------------------------- |
-| Primary   |  ?   | Fran’s α | Offering: Each opponent discards a card. |
-| Secondary |  ?   | Fran’s β | Betrayal: Give Burn to an opponent.      |
-| Secondary |  ?   | Fran’s γ | Betrayal: Give Restrain to an opponent.  |
+|  Class   | Ranged | Power | Armor |
+| :------: | ------ | ----- | ----- |
+| Familiar | Yes    | Tiny  | Tiny  |

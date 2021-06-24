@@ -1,37 +1,38 @@
 # The Dollhouse
 
-## Lily
-
-| Class    | Description   |
-| -------- | ------------- |
-| Marksman | Female golem. |
-
-| Type      | Cost | Name     | Effect    |
-| --------- | :--: | -------- | --------- |
-| Primary   |  ?   | Lily’s α | Unwind: ? |
-| Secondary |  ?   | Lily’s β | Windup: ? |
-| Secondary |  ?   | Lily’s γ | Windup: ? |
-
 ## Maxwell
 
-| Class     | Description |
-| --------- | ----------- |
-| Supporter | Male human. |
+  - Human, male.
+  - An eccentric artificer and researcher that loves his dolls as his
+    daughters.
+  - As the sole son of one of the thirteen noblemen governors, he
+    unwillingly inherited the duty of securing and maintaining the royal
+    mausoleum.
 
-| Type      | Cost | Skill       | Effect                                       |
-| --------- | :--: | ----------- | -------------------------------------------- |
-| Primary   |  ?   | Maxwell’s α | Unwind: Give a Energy stack to other allies. |
-| Secondary |  ?   | Maxwell’s β | Windup: Gain an action point.                |
-| Secondary |  ?   | Maxwell’s γ | Windup: Draw two cards.                      |
+|  Class   | Type      | Cost | Skill      | Effect                                  |
+| :------: | --------- | :--: | ---------- | --------------------------------------- |
+| Marksman | Primary   |  ?   | Prominence | Actuate: Give Burn to other characters. |
+|    〃     | Secondary |  ?   | Armslore   | Kindle: Draw two cards.                 |
+|    〃     | Secondary |  ?   | Tactician  | Kindle: Gain an action point.           |
+
+## Lily
+
+  - Automata, female.
+  - Maxwell’s 21st major creation. A soothing character.
+
+|  Class  | Type      | Cost | Name     | Effect     |
+| :-----: | --------- | :--: | -------- | ---------- |
+| Duelist | Primary   |  ?   | Lily’s α | Actuate: ? |
+|    〃    | Secondary |  ?   | Lily’s β | Kindle: ?  |
+|    〃    | Secondary |  ?   | Lily’s γ | Kindle: ?  |
 
 ## Orchid
 
-| Class    | Description   |
-| -------- | ------------- |
-| Vanguard | Female golem. |
+  - Automata, female.
+  - Maxwell’s 17th major creation. A somewhat unexpressive character.
 
-| Type      | Cost | Name          | Effect                                         |
-| --------- | :--: | ------------- | ---------------------------------------------- |
-| Primary   |  ?   | Triple Threat | Unwind: Perform an attack against an opponent. |
-| Secondary |  ?   | Orchid’s β    | Windup: Gain a random effect.                  |
-| Secondary |  ?   | Orchid’s γ    | Windup: Swap your power and armor.             |
+|  Class   | Type      | Cost | Name          | Effect                                          |
+| :------: | --------- | :--: | ------------- | ----------------------------------------------- |
+| Vanguard | Primary   |  ?   | Triple Threat | Actuate: Perform an attack against an opponent. |
+|    〃     | Secondary |  ?   | Orchid’s β    | Kindle: Gain a random effect.                   |
+|    〃     | Secondary |  ?   | Orchid’s γ    | Kindle: Swap your power and armor.              |

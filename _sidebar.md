@@ -4,6 +4,6 @@
       - [Changelog](CHANGELOG.md)
   - Characters
       - [The Daybreakers](the-daybreakers.md)
-      - [The Dollhouse](the-dollhouse.md)
       - [The Nightbringers](the-nightbringers.md)
+      - [The Dollhouse](the-dollhouse.md)
       - [The Wayfarers](the-wayfarers.md)
