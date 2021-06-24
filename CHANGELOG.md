@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [3.0.0](https://github.com/rphln/Swordsong/compare/v2.0.1...v3.0.0) (2021-06-24)
+
+### ⚠ BREAKING CHANGES
+
+  - Rework most characters.
+
+### Major changes
+
+  - Rework most characters.
+    ([5118502](https://github.com/rphln/Swordsong/commit/51185020320edb79cfaee8e4167a25996b0f5da7))
+  - **Mechanics:** Add `Coldcage` and `Tailwind`.
+    ([e19f191](https://github.com/rphln/Swordsong/commit/e19f191fb892bbef64cf74793c003a27375faf3d))
+
 ### [2.0.1](https://github.com/rphln/Swordsong/compare/v2.0.0...v2.0.1) (2021-06-24)
 
 ### Minor changes
