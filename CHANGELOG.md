@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+### [2.0.1](https://github.com/rphln/Swordsong/compare/v2.0.0...v2.0.1) (2021-06-24)
+
+### Minor changes
+
+  - **Mechanics:** Change to a table’s formatting.
+    ([6cd3d31](https://github.com/rphln/Swordsong/commit/6cd3d31cb5660f39a1770c6880c6e8804dcb0ad1))
+  - **Mechanics:** Reword `Alacrity`.
+    ([a264782](https://github.com/rphln/Swordsong/commit/a264782b30db739d32edb6e82626e005bc9f258c))
+  - **The Dollhouse:** Change the page title.
+    ([4c99b2d](https://github.com/rphln/Swordsong/commit/4c99b2df79f074c19f94ab6be20c96ecbecc3425))
+  - **The Nightbringers:** Replace `Amplify` with `Alacrity`.
+    ([9d94772](https://github.com/rphln/Swordsong/commit/9d9477290ef31ce9e3818e77604ade1c47abf4fe))
+
 ## [2.0.0](https://github.com/rphln/Swordsong/compare/v1.5.0...v2.0.0) (2021-06-23)
 
 ### ⚠ BREAKING CHANGES
