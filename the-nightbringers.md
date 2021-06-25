@@ -1,15 +1,15 @@
 # The Nightbringers
 
-## Fran
+## Sara
 
   - Eagle beastfolk, female.
   - Ara ara.
 
 |  Class   | Type      | Cost | Name     | Effect                                   |
 | :------: | --------- | :--: | -------- | ---------------------------------------- |
-| Marksman | Primary   |  ?   | Fran’s α | Delirium: Gain Alacrity.                 |
-|    〃     | Secondary |  ?   | Fran’s β | Offering: Each opponent discards a card. |
-|    〃     | Secondary |  ?   | Fran’s γ | Offering: Draw two cards.                |
+| Marksman | Primary   |  ?   | Sara’s α | Delirium: Gain Alacrity.                 |
+|    〃     | Secondary |  ?   | Sara’s β | Offering: Each opponent discards a card. |
+|    〃     | Secondary |  ?   | Sara’s γ | Offering: Draw two cards.                |
 
 ## Lapis
 
