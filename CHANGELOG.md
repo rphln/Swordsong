@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [3.1.0](https://github.com/rphln/Swordsong/compare/v3.0.0...v3.1.0) (2021-06-25)
+
+### Minor changes
+
+  - **The Nightbringers:** Rename `Fran` to `Sara`.
+    ([3df9313](https://github.com/rphln/Swordsong/commit/3df93136897abeb17ef24fecdfa1d0bd9a269533))
+  - **The Wayfarers:** Noel is now a dog.
+    ([dfbc833](https://github.com/rphln/Swordsong/commit/dfbc8333a9eecad0c81cc7c6e08c01682559cea1))
+
+### Major changes
+
+  - **Lore:** Add a draft describing the world.
+    ([54609ce](https://github.com/rphln/Swordsong/commit/54609ce26585c650bd58c6599a5d5013ce451750))
+  - **Mechanics:** Reword and specify how `Burn` works.
+    ([bde9eb9](https://github.com/rphln/Swordsong/commit/bde9eb9a868f7fde9de88b61efee0b3285b3ae0a))
+  - **Unaffiliated:** Add characters draft.
+    ([9e0f917](https://github.com/rphln/Swordsong/commit/9e0f917d448f529c4e379519a47928dd647f7c8e))
+
 ## [3.0.0](https://github.com/rphln/Swordsong/compare/v2.0.1...v3.0.0) (2021-06-24)
 
 ### ⚠ BREAKING CHANGES
