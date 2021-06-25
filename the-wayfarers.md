@@ -2,7 +2,7 @@
 
 ## Noel
 
-  - Wolf beastfolk, female.
+  - Dog beastfolk, female.
 
 |  Class   | Type      | Cost | Name     | Effect                               |
 | :------: | --------- | :--: | -------- | ------------------------------------ |
