@@ -1,6 +1,7 @@
   - About
       - [Introduction](README.md)  
       - [Mechanics](mechanics.md)
+      - [The World](the-world.md)
       - [Changelog](CHANGELOG.md)
   - Characters
       - [The Daybreakers](the-daybreakers.md)
