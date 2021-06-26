@@ -9,11 +9,11 @@
     unwillingly inherited the duty of securing and maintaining the royal
     mausoleum.
 
-|  Class   | Type      | Cost | Skill      | Effect                                    |
-| :------: | --------- | :--: | ---------- | ----------------------------------------- |
-| Marksman | Primary   |  ?   | Prominence | Tempering: Give Burn to other characters. |
-|    〃     | Secondary |  ?   | Armslore   | Overheat: Draw two cards.                 |
-|    〃     | Secondary |  ?   | Tactician  | Overheat: Gain an action point.           |
+|  Class   | Type      | Cost | Skill     | Effect                               |
+| :------: | --------- | :--: | --------- | ------------------------------------ |
+| Marksman | Primary   |  ?   | Ignition  | Tempering: Give Burn to a character. |
+|    〃     | Secondary |  ?   | Armslore  | Overheat: Draw two cards.            |
+|    〃     | Secondary |  ?   | Tactician | Overheat: Gain an action point.      |
 
 ## Lily
 
