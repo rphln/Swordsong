@@ -12,19 +12,19 @@
 |  Class   | Type      | Cost | Skill      | Effect                                  |
 | :------: | --------- | :--: | ---------- | --------------------------------------- |
 | Marksman | Primary   |  ?   | Prominence | Actuate: Give Burn to other characters. |
-|    〃     | Secondary |  ?   | Armslore   | Kindle: Draw two cards.                 |
-|    〃     | Secondary |  ?   | Tactician  | Kindle: Gain an action point.           |
+|    〃     | Secondary |  ?   | Armslore   | Overheat: Draw two cards.               |
+|    〃     | Secondary |  ?   | Tactician  | Overheat: Gain an action point.         |
 
 ## Lily
 
   - Automata, female.
   - Maxwell’s 21st major creation. A soothing character.
 
-|  Class  | Type      | Cost | Name     | Effect     |
-| :-----: | --------- | :--: | -------- | ---------- |
-| Duelist | Primary   |  ?   | Lily’s α | Actuate: ? |
-|    〃    | Secondary |  ?   | Lily’s β | Kindle: ?  |
-|    〃    | Secondary |  ?   | Lily’s γ | Kindle: ?  |
+|  Class  | Type      | Cost | Name     | Effect      |
+| :-----: | --------- | :--: | -------- | ----------- |
+| Duelist | Primary   |  ?   | Lily’s α | Actuate: ?  |
+|    〃    | Secondary |  ?   | Lily’s β | Overheat: ? |
+|    〃    | Secondary |  ?   | Lily’s γ | Overheat: ? |
 
 ## Orchid
 
@@ -34,5 +34,5 @@
 |  Class   | Type      | Cost | Name          | Effect                                          |
 | :------: | --------- | :--: | ------------- | ----------------------------------------------- |
 | Vanguard | Primary   |  ?   | Triple Threat | Actuate: Perform an attack against an opponent. |
-|    〃     | Secondary |  ?   | Orchid’s β    | Kindle: Gain a random effect.                   |
-|    〃     | Secondary |  ?   | Orchid’s γ    | Kindle: Swap your power and armor.              |
+|    〃     | Secondary |  ?   | Orchid’s β    | Overheat: Gain a random effect.                 |
+|    〃     | Secondary |  ?   | Orchid’s γ    | Overheat: Swap your power and armor.            |

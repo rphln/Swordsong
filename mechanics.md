@@ -116,7 +116,7 @@ Used to tie cards with similar abilities together.
 | Resonance | Activate the effect twice on even turns, or once otherwise.               |
 |           |                                                                           |
 | Actuate   | Consume all Burn stacks to activate the effect that many times.           |
-| Kindle    | Activate the effect by gaining a Burn stack.                              |
+| Overheat  | Activate the effect by gaining a Burn stack.                              |
 |           |                                                                           |
 | Delirium  | Activate the effect by reducing your maximum action points by one.        |
 | Offering  | Activate the effect by discarding a card.                                 |
