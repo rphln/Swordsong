@@ -107,19 +107,19 @@ Applying the same effect multiple times does nothing.
 
 Used to tie cards with similar abilities together.
 
-| Name      | Effect                                                                    |
-| --------- | ------------------------------------------------------------------------- |
-| Defiance  | Activate the effect thrice if there’s no other allies, or once otherwise. |
-| Threshold | Activate the effect twice if you’re below half health, or once otherwise. |
-|           |                                                                           |
-| Channel   | Activate the effect by consuming the character’s attack action.           |
-| Resonance | Activate the effect twice on even turns, or once otherwise.               |
-|           |                                                                           |
-| Actuate   | Consume all Burn stacks to activate the effect that many times.           |
-| Overheat  | Activate the effect by gaining a Burn stack.                              |
-|           |                                                                           |
-| Delirium  | Activate the effect by reducing your maximum action points by one.        |
-| Offering  | Activate the effect by discarding a card.                                 |
+| Name      | Effect                                                                      |
+| --------- | --------------------------------------------------------------------------- |
+| Defiance  | Activate the effect thrice if there’s no other allies, or once otherwise.   |
+| Threshold | Activate the effect twice if you’re below half health, or once otherwise.   |
+|           |                                                                             |
+| Channel   | Activate the effect by consuming the character’s attack action.             |
+| Resonance | Activate the effect twice on even turns, or once otherwise.                 |
+|           |                                                                             |
+| Overheat  | Activate the effect by gaining a Burn stack.                                |
+| Tempering | Activate the effect twice by consuming your Burn stacks, or once otherwise. |
+|           |                                                                             |
+| Delirium  | Activate the effect by reducing your maximum action points by one.          |
+| Offering  | Activate the effect by discarding a card.                                   |
 
 ## Classes
 
