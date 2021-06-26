@@ -109,8 +109,8 @@ Used to tie cards with similar abilities together.
 
 | Name      | Effect                                                                    |
 | --------- | ------------------------------------------------------------------------- |
-| Tempering | Activate the effect twice if you’re below half health, or once otherwise. |
-| Enmity    | Activate the effect thrice if there’s no other allies, or once otherwise. |
+| Defiance  | Activate the effect thrice if there’s no other allies, or once otherwise. |
+| Threshold | Activate the effect twice if you’re below half health, or once otherwise. |
 |           |                                                                           |
 | Channel   | Activate the effect by consuming the character’s attack action.           |
 | Resonance | Activate the effect twice on even turns, or once otherwise.               |
