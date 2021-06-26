@@ -54,6 +54,9 @@ through a number of preparation phases.
 
   - A character whose damage taken surpasses their armor will faint.
 
+  - Healing a character restores part of their lost armor and removes
+    all negative effects.
+
 ## Cards
 
   - Each character has four copies of their primary skill card and three
