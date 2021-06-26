@@ -4,6 +4,30 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [3.2.0](https://github.com/rphln/Swordsong/compare/v3.1.0...v3.2.0) (2021-06-26)
+
+### Major changes
+
+  - **Mechanics:** `Burn` can stack boundlessly.
+    ([f37a43e](https://github.com/rphln/Swordsong/commit/f37a43efeb1b46bc3bb0d0856c600803a022c300))
+  - **Mechanics:** Describe what healing does.
+    ([dc5aa1e](https://github.com/rphln/Swordsong/commit/dc5aa1e25ab3134ba17742fd8f52022cef9f2808))
+  - **Mechanics:** Replace `Actuate` with `Tempering`.
+    ([dbb5118](https://github.com/rphln/Swordsong/commit/dbb511867bed983faa185f5f1d9d3440a896aed2))
+  - **Mechanics:** Weaken the Marksman and Vanguard talents.
+    ([81cfe4f](https://github.com/rphln/Swordsong/commit/81cfe4fc374a9286d5d58bd65f9eed760332cb7d))
+  - **The Dollhouse:** Replace `Prominence` with `Ignition`.
+    ([717c825](https://github.com/rphln/Swordsong/commit/717c82502f9b0ac53ad6d94016ecdecf9b774699))
+
+### Minor changes
+
+  - **Mechanics:** Rename `Kindle` to `Overheat`.
+    ([adeece2](https://github.com/rphln/Swordsong/commit/adeece2d3cb160c87123783f446bdd90057d6ed3))
+  - **Mechanics:** Rename `Tempering` to `Threshold`.
+    ([d7f3ecc](https://github.com/rphln/Swordsong/commit/d7f3eccc1e3d5bc8f7935bbb7de8af799c20f72d))
+  - **The Wayfarers:** Rename `Scorch` to `Prominence`.
+    ([887472e](https://github.com/rphln/Swordsong/commit/887472e693a771de4a2dcdb721dfa25ebb132c99))
+
 ## [3.1.0](https://github.com/rphln/Swordsong/compare/v3.0.0...v3.1.0) (2021-06-25)
 
 ### Minor changes
