@@ -5,7 +5,9 @@
 ## Aleksei
 
   - Wolf beastfolk, male.
-  - Skills have additional effects against leader characters.
+  - A bounty hunter.
+  - “Bounty: Skills have alternative or additional effects for leader
+    characters.”
 
 |  Class  | Type      | Cost | Name        | Effect |
 | :-----: | --------- | :--: | ----------- | ------ |
@@ -16,8 +18,8 @@
 ## Claire
 
   - Elf, female.
-  - A bard. Strengthens herself for each other character affected by her
-    skills.
+  - A wandering minstrel.
+  - “Rehearsal: Randomly raise your power or armor when using a spell.”
 
 |   Class   | Type      | Cost | Name       | Effect |
 | :-------: | --------- | :--: | ---------- | ------ |
