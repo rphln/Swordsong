@@ -31,8 +31,8 @@
 |  Class   | Type      | Cost | Name          | Effect                                                              |
 | :------: | --------- | :--: | ------------- | ------------------------------------------------------------------- |
 | Vanguard | Primary   |  ?   | Alice’s α     | Resonance: Summon Leo. If already summoned, strengthen him instead. |
-|    〃     | Secondary |  ?   | Providence    | Channel: Give Fortify to all allies.                                |
-|    〃     | Secondary |  ?   | Encouragement | Channel: Give Prowess to all allies.                                |
+|    〃     | Secondary |  ?   | Providence    | Channel: Give Fortify to other allied characters.                   |
+|    〃     | Secondary |  ?   | Encouragement | Channel: Give Prowess to other allied characters.                   |
 
 ## Leo
 
