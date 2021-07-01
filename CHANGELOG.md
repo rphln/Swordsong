@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [3.3.0](https://github.com/rphln/Swordsong/compare/v3.2.0...v3.3.0) (2021-07-01)
+
+### Minor changes
+
+  - **Mechanics:** Reword the attack section.
+    ([f78bd38](https://github.com/rphln/Swordsong/commit/f78bd3861943eadafb0277ba138716255d789cb4))
+
+### Major changes
+
+  - **Mechanics:** Make counter-attacks simultaneous and unlimited.
+    ([485531f](https://github.com/rphln/Swordsong/commit/485531f5d494d9b0abe5dcbcea10c83339b83938))
+  - **Mechanics:** Merge skill damage effects into `Damage`.
+    ([a5e3d22](https://github.com/rphln/Swordsong/commit/a5e3d22bb7d8e24077709c7244485f676b67c28d))
+  - **Mechanics:** Remove `Alacrity`.
+    ([87e13a4](https://github.com/rphln/Swordsong/commit/87e13a4ada9bfe5153c30337363ac75dcb9d58c6))
+  - **The Daybreakers:** Single-target skills can target anyone.
+    ([9516cb6](https://github.com/rphln/Swordsong/commit/9516cb655deeacd623f73960f01582e25bc4ffc8))
+  - **Unaffiliated:** Update the drafts.
+    ([3d496b1](https://github.com/rphln/Swordsong/commit/3d496b1a4a872fb24a6b038bef8a9ed416715fd1))
+
 ## [3.2.0](https://github.com/rphln/Swordsong/compare/v3.1.0...v3.2.0) (2021-06-26)
 
 ### Major changes
