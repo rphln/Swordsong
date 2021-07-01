@@ -59,6 +59,22 @@ through a number of preparation phases.
 
   - Healing a character restores part of their lost armor.
 
+## Turns
+
+This section describes what the envisioned combat flow currently looks
+like.
+
+  - Turns 1–5 — Action points are used primarily for positioning.
+    Correctly placing and moving a character should allow a player to
+    attain the first strike.
+
+  - Turns 5–10 — All characters are in place. Characters are taken down
+    one by one rather than dilluting damage. The majority of matches
+    should end in this phase.
+
+  - Turns 10– — An abundance of action points allows for explosive turns
+    to break the stalemate.
+
 ## Cards
 
   - Each character has four copies of their primary skill card and three
