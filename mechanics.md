@@ -89,23 +89,26 @@ through a number of preparation phases.
 
 ## Effects
 
-Effects modify a character’s behavior, lasting until a condition is met.
-Applying the same effect multiple times does nothing.
+Effects modify a character’s behavior. Applying an effect multiple times
+extends its duration.
 
-| Name     | Duration   | Type      | Effect                                                                             |
-| -------- | ---------- | --------- | ---------------------------------------------------------------------------------- |
-| Fortify  | Consumable | Combat    | Minimize the damage dealt by the next incoming damage instance.                    |
-| Prowess  | Consumable | Combat    | Maximize the damage dealt by the next outgoing damage instance.                    |
-|          |            |           |                                                                                    |
-| Taunt    | Temporary  | Round     | Each opponent able to attack the character will do so on their turns.              |
-|          |            |           |                                                                                    |
-| Restrain | Temporary  | Round     | The character can’t attack or walk during their turn.                              |
-| Silence  | Temporary  | Round     | The character can’t use skills during their turn.                                  |
-|          |            |           |                                                                                    |
-| Coldcage | Temporary  | Round     | The cost of using skills, attacking or walking is increased.                       |
-| Tailwind | Temporary  | Round     | The cost of using skills, attacking or walking is reduced.                         |
-|          |            |           |                                                                                    |
-| Burn     | Permanent  | Stackable | The character takes damage at the start of their turns based on their Burn stacks. |
+  - The duration of “Timed” effects is reduced at the end of the
+    affected characters’ turns.
+  - The duration of “Consumable” effects is reduced when a activation
+    condition is met.
+
+| Name     | Type       | Effect                                                                     |
+| -------- | ---------- | -------------------------------------------------------------------------- |
+| Burn     | Timed      | Damage the character at the end of their turns based on the Burn duration. |
+|          |            |                                                                            |
+| Coldcage | Timed      | The cost of using skills, attacking or walking is increased.               |
+| Tailwind | Timed      | The cost of using skills, attacking or walking is reduced.                 |
+|          |            |                                                                            |
+| Restrain | Timed      | The character is unable to attack or walk.                                 |
+| Silence  | Timed      | The character is unable to use skills.                                     |
+|          |            |                                                                            |
+| Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.            |
+| Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.            |
 
 ## Keywords
 
