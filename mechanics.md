@@ -57,8 +57,7 @@ through a number of preparation phases.
 
   - A character whose damage taken surpasses their armor will faint.
 
-  - Healing a character restores part of their lost armor and removes
-    all negative effects.
+  - Healing a character restores part of their lost armor.
 
 ## Cards
 
