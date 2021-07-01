@@ -31,8 +31,8 @@
   - Automata, female.
   - Maxwell’s 17th major creation. A somewhat unexpressive character.
 
-|  Class   | Type      | Cost | Name          | Effect                                            |
-| :------: | --------- | :--: | ------------- | ------------------------------------------------- |
-| Vanguard | Primary   |  ?   | Triple Threat | Tempering: Perform an attack against an opponent. |
-|    〃     | Secondary |  ?   | Orchid’s β    | Overheat: Gain a random effect.                   |
-|    〃     | Secondary |  ?   | Orchid’s γ    | Overheat: Swap your power and armor.              |
+|  Class   | Type      | Cost | Name          | Effect                               |
+| :------: | --------- | :--: | ------------- | ------------------------------------ |
+| Vanguard | Primary   |  ?   | Triple Threat | Tempering: Damage a character.       |
+|    〃     | Secondary |  ?   | Orchid’s β    | Overheat: Gain a random effect.      |
+|    〃     | Secondary |  ?   | Orchid’s γ    | Overheat: Swap your power and armor. |

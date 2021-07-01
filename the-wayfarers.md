@@ -14,11 +14,11 @@
 
   - Human, female.
 
-|  Class  | Type      | Cost | Name     | Effect                                           |
-| :-----: | --------- | :--: | -------- | ------------------------------------------------ |
-| Duelist | Primary   |  ?   | Nell’s α | Defiance: Perform an attack against an opponent. |
-|    〃    | Secondary |  ?   | Nell’s β | Lower your power. Threshold: Raise your armor.   |
-|    〃    | Secondary |  ?   | Nell’s γ | Lower your armor. Threshold: Raise your power.   |
+|  Class  | Type      | Cost | Name     | Effect                                         |
+| :-----: | --------- | :--: | -------- | ---------------------------------------------- |
+| Duelist | Primary   |  ?   | Nell’s α | Defiance: Damage a character.                  |
+|    〃    | Secondary |  ?   | Nell’s β | Lower your power. Threshold: Raise your armor. |
+|    〃    | Secondary |  ?   | Nell’s γ | Lower your armor. Threshold: Raise your power. |
 
 ## Colette
 
