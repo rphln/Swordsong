@@ -52,6 +52,9 @@ through a number of preparation phases.
   - Upon being attacked, the defender will take damage equal to the
     power of the attacker.
 
+  - Any single damage instance may not deal less than one damage point
+    or more than the equivalent of “Gargantuan” damage in points.
+
   - A character whose damage taken surpasses their armor will faint.
 
   - Healing a character restores part of their lost armor and removes
@@ -91,8 +94,8 @@ Applying the same effect multiple times does nothing.
 
 | Name     | Duration   | Type      | Effect                                                                              |
 | -------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
-| Fortify  | Consumable | Combat    | Prevents all but one damage point from the next incoming damage instance.           |
-| Prowess  | Consumable | Combat    | Maximizes the characters’s power score on their next outgoing damage instance.      |
+| Fortify  | Consumable | Combat    | Minimize the damage dealt by the next incoming damage instance.                     |
+| Prowess  | Consumable | Combat    | Maximize the damage dealt by the next outgoing damage instance.                     |
 |          |            |           |                                                                                     |
 | Taunt    | Temporary  | Round     | The opponents able to attack the character will automatically do so on their turns. |
 |          |            |           |                                                                                     |
