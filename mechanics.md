@@ -43,8 +43,8 @@ through a number of preparation phases.
   - Once per turn, a character can walk to any tile within their speed
     score in distance by using an action point.
 
-  - Once per turn, a character can perform a basic attack against any
-    opponent within their reach by using two action points.
+  - Once per turn, a character can perform an attack against an opponent
+    within their reach by using two action points.
 
   - A character will simultaneously perform a counter-attack when an
     opponent within their reach attacks them.
