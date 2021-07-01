@@ -167,12 +167,12 @@ Having talents bound to classes — as opposed to characters — should
 provide a small disincentive in terms of flexibility when stacking many
 characters of the same class in a team.
 
-| Class     | Ranged | Power | Armor | Talent                         |
-| --------- | ------ | ----- | ----- | ------------------------------ |
-| Marksman  | Yes    | Huge  | Tiny  | Raise the power of all allies. |
-| Duelist   | No     | Large | Small | Gain an action point.          |
-| Supporter | Yes    | Small | Large | Draw two cards.                |
-| Vanguard  | No     | Tiny  | Huge  | Raise the armor of all allies. |
+| Class     | Ranged | Power  | Armor  | Talent                         |
+| --------- | ------ | ------ | ------ | ------------------------------ |
+| Marksman  | Yes    | Large  | Tiny   | Raise the power of all allies. |
+| Duelist   | No     | Medium | Small  | Gain an action point.          |
+| Supporter | Yes    | Small  | Medium | Draw two cards.                |
+| Vanguard  | No     | Tiny   | Large  | Raise the armor of all allies. |
 
 Currently, each faction has access to all but one of the classes,
 depending on thematic and mechanic factors. This, however, is subject to
