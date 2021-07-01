@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [4.0.0](https://github.com/rphln/Swordsong/compare/v3.3.0...v4.0.0) (2021-07-01)
+
+### ⚠ BREAKING CHANGES
+
+  - **Mechanics:** Rework the “Effects” mechanic.
+
+### Major changes
+
+  - **Mechanics:** Can have up to 9 cards in hand.
+    ([3f317dc](https://github.com/rphln/Swordsong/commit/3f317dc5023178206d3b9d952e21a34e20e1e515))
+  - **Mechanics:** Healing no longer removes negative effects.
+    ([1eabbbc](https://github.com/rphln/Swordsong/commit/1eabbbc9998a988d799201f8f1ceb3143c0675bf))
+  - **Mechanics:** Rework the “Effects” mechanic.
+    ([818254d](https://github.com/rphln/Swordsong/commit/818254dc1bd002ec96c1abd8347447ea782cf024))
+  - **Mechanics:** Specify the damage ceiling and floor.
+    ([7819f79](https://github.com/rphln/Swordsong/commit/7819f79c311f51c5fefa79acfd4bbaba61177c9d))
+  - **Mechanics:** Start with no action points again.
+    ([6da5185](https://github.com/rphln/Swordsong/commit/6da51850dfd9068361e7be0f708854a2c78e06b5))
+  - **The Daybreakers:** Weaken `Providence` and `Encouragement`.
+    ([b418285](https://github.com/rphln/Swordsong/commit/b4182856ea902213de87a107d35223f48c2949d9))
+
+### Minor changes
+
+  - **Mechanics:** Add the “Turns” section.
+    ([52c29a5](https://github.com/rphln/Swordsong/commit/52c29a5fa71150a1872ac5c30f30c347a81226ae))
+  - **Mechanics:** Reword “the beginning of their turns”.
+    ([ef1d943](https://github.com/rphln/Swordsong/commit/ef1d94382d860860ec3b1d1d400538e2a36a4dcf))
+  - **Mechanics:** Reword `Taunt`.
+    ([7234375](https://github.com/rphln/Swordsong/commit/723437519a87eb03a68b8fc2c217f61f62c19612))
+
 ## [3.3.0](https://github.com/rphln/Swordsong/compare/v3.2.0...v3.3.0) (2021-07-01)
 
 ### Minor changes
