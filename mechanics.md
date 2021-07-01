@@ -35,10 +35,10 @@ through a number of preparation phases.
   - Unused action points will not carry over to the next turn.
 
   - A player will have their maximum action points increased by one at
-    the beginning of each of their turns.
+    the beginning of their turns.
 
   - A player will have their action points fully restored at the
-    beginning of each of their turns.
+    beginning of their turns.
 
   - Once per turn, a character can walk to any tile within their speed
     score in distance by using an action point.
