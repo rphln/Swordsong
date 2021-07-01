@@ -92,20 +92,20 @@ through a number of preparation phases.
 Effects modify a character’s behavior, lasting until a condition is met.
 Applying the same effect multiple times does nothing.
 
-| Name     | Duration   | Type      | Effect                                                                              |
-| -------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
-| Fortify  | Consumable | Combat    | Minimize the damage dealt by the next incoming damage instance.                     |
-| Prowess  | Consumable | Combat    | Maximize the damage dealt by the next outgoing damage instance.                     |
-|          |            |           |                                                                                     |
-| Taunt    | Temporary  | Round     | The opponents able to attack the character will automatically do so on their turns. |
-|          |            |           |                                                                                     |
-| Restrain | Temporary  | Round     | The character can’t attack or walk during their turn.                               |
-| Silence  | Temporary  | Round     | The character can’t use skills during their turn.                                   |
-|          |            |           |                                                                                     |
-| Coldcage | Temporary  | Round     | The cost of using skills, attacking or walking is increased.                        |
-| Tailwind | Temporary  | Round     | The cost of using skills, attacking or walking is reduced.                          |
-|          |            |           |                                                                                     |
-| Burn     | Permanent  | Stackable | The character takes damage at the start of their turns based on their Burn stacks.  |
+| Name     | Duration   | Type      | Effect                                                                             |
+| -------- | ---------- | --------- | ---------------------------------------------------------------------------------- |
+| Fortify  | Consumable | Combat    | Minimize the damage dealt by the next incoming damage instance.                    |
+| Prowess  | Consumable | Combat    | Maximize the damage dealt by the next outgoing damage instance.                    |
+|          |            |           |                                                                                    |
+| Taunt    | Temporary  | Round     | Each opponent able to attack the character will do so on their turns.              |
+|          |            |           |                                                                                    |
+| Restrain | Temporary  | Round     | The character can’t attack or walk during their turn.                              |
+| Silence  | Temporary  | Round     | The character can’t use skills during their turn.                                  |
+|          |            |           |                                                                                    |
+| Coldcage | Temporary  | Round     | The cost of using skills, attacking or walking is increased.                       |
+| Tailwind | Temporary  | Round     | The cost of using skills, attacking or walking is reduced.                         |
+|          |            |           |                                                                                    |
+| Burn     | Permanent  | Stackable | The character takes damage at the start of their turns based on their Burn stacks. |
 
 ## Keywords
 
