@@ -104,13 +104,20 @@ like.
 
 ## Effects
 
-Effects modify a character’s behavior. Applying an effect multiple times
-extends its duration.
+  - Effects are temporary character behaviour modifiers.
 
   - The duration of “Timed” effects is reduced at the end of the
     affected characters’ turns.
+
   - The duration of “Consumable” effects is reduced when a activation
     condition is met.
+
+  - Applying an effect multiple times extends its duration.
+
+  - The primary source of effects are skills.
+
+  - Effects may also be applied by the map itself under special
+    circumstances.
 
 | Name     | Type       | Effect                                                                     |
 | -------- | ---------- | -------------------------------------------------------------------------- |
