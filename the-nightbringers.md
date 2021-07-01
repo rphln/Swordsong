@@ -17,11 +17,11 @@
   - Colette’s older twin sister.
   - A witch.
 
-|   Class   | Type      | Cost | Name     | Effect                                                                 |
-| :-------: | --------- | :--: | -------- | ---------------------------------------------------------------------- |
-| Supporter | Primary   |  ?   | Lapis’ α | Offering: Summon Wraithy. If already summoned, strengthen him instead. |
-|     〃     | Secondary |  ?   | Lapis’ β | Delirium: Give Burn to all opponent characters.                        |
-|     〃     | Secondary |  ?   | Lapis’ γ | Delirium: Give Restrain to all opponent characters.                    |
+|   Class   | Type      | Cost | Name     | Effect                                              |
+| :-------: | --------- | :--: | -------- | --------------------------------------------------- |
+| Supporter | Primary   |  ?   | Lapis’ α | Offering: Summon or strengthen Wraithy.             |
+|     〃     | Secondary |  ?   | Lapis’ β | Delirium: Give Burn to all opponent characters.     |
+|     〃     | Secondary |  ?   | Lapis’ γ | Delirium: Give Restrain to all opponent characters. |
 
 ## Cedric
 

@@ -28,11 +28,11 @@
   - Human, female.
   - One of the public faces of the Temple Order.
 
-|  Class   | Type      | Cost | Name          | Effect                                                              |
-| :------: | --------- | :--: | ------------- | ------------------------------------------------------------------- |
-| Vanguard | Primary   |  ?   | Alice’s α     | Resonance: Summon Leo. If already summoned, strengthen him instead. |
-|    〃     | Secondary |  ?   | Providence    | Channel: Give Fortify to other allied characters.                   |
-|    〃     | Secondary |  ?   | Encouragement | Channel: Give Prowess to other allied characters.                   |
+|  Class   | Type      | Cost | Name          | Effect                                            |
+| :------: | --------- | :--: | ------------- | ------------------------------------------------- |
+| Vanguard | Primary   |  ?   | Alice’s α     | Resonance: Summon or strengthen Leo.              |
+|    〃     | Secondary |  ?   | Providence    | Channel: Give Fortify to other allied characters. |
+|    〃     | Secondary |  ?   | Encouragement | Channel: Give Prowess to other allied characters. |
 
 ## Leo
 
