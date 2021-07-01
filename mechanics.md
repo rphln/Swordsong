@@ -46,7 +46,7 @@ through a number of preparation phases.
   - Once per turn, a character can perform a basic attack against any
     opponent within their reach by using two action points.
 
-  - Once per turn, a character will perform a counter-attack when an
+  - A character will simultaneously perform a counter-attack when an
     opponent within their reach attacks them.
 
   - Upon being attacked, the defender will take damage equal to the
