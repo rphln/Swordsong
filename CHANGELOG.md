@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [4.1.0](https://github.com/rphln/Swordsong/compare/v4.0.0...v4.1.0) (2021-07-01)
+
+### Minor changes
+
+  - **Mechanics:** Add more explanations on “Effects”.
+    ([cfb38fc](https://github.com/rphln/Swordsong/commit/cfb38fc067500f386398e60cdbc5a49e13aeb8ec))
+  - Make summoning effects less verbose.
+    ([d73a0cc](https://github.com/rphln/Swordsong/commit/d73a0cc0e8664a8f802e156d12866e6bdf208feb))
+
+### Major changes
+
+  - **Classes:** Rebalance the power and armor distribution.
+    ([57dca17](https://github.com/rphln/Swordsong/commit/57dca17fbbc53f3967d0775b722b712a518983d2))
+
 ## [4.0.0](https://github.com/rphln/Swordsong/compare/v3.3.0...v4.0.0) (2021-07-01)
 
 ### ⚠ BREAKING CHANGES
