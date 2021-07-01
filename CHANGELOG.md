@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [5.0.0](https://github.com/rphln/Swordsong/compare/v4.1.0...v5.0.0) (2021-07-01)
+
+### ⚠ BREAKING CHANGES
+
+  - Reorganize and adjust a lot of characters.
+
+### Major changes
+
+  - **The Dollhouse:** Adjust a few skills.
+    ([5c93218](https://github.com/rphln/Swordsong/commit/5c932184354a58d144d738b7be5ccdb698c5008c))
+  - Reorganize and adjust a lot of characters.
+    ([7074c26](https://github.com/rphln/Swordsong/commit/7074c264f185dd4ebf8dd3458d024dab20fbf37c))
+
 ## [4.1.0](https://github.com/rphln/Swordsong/compare/v4.0.0...v4.1.0) (2021-07-01)
 
 ### Minor changes
