@@ -6,11 +6,11 @@
   - An inquisitor of the Temple Order.
   - Assumes the role of strategist in this party.
 
-|  Class  | Type      | Cost | Name        | Effect                                                     |
-| :-----: | --------- | :--: | ----------- | ---------------------------------------------------------- |
-| Duelist | Primary   |  ?   | Fabrice’s α | Channel: Resonance: Perform an attack against an opponent. |
-|    〃    | Secondary |  ?   | Fabrice’s β | Give Restrain to an opponent.                              |
-|    〃    | Secondary |  ?   | Fabrice’s γ | Give Silence to an opponent.                               |
+|  Class  | Type      | Cost | Name        | Effect                                  |
+| :-----: | --------- | :--: | ----------- | --------------------------------------- |
+| Duelist | Primary   |  ?   | Fabrice’s α | Channel: Resonance: Damage a character. |
+|    〃    | Secondary |  ?   | Fabrice’s β | Give Restrain to a character.           |
+|    〃    | Secondary |  ?   | Fabrice’s γ | Give Silence to a character.            |
 
 ## Ariel
 
@@ -19,7 +19,7 @@
 
 |   Class   | Type      | Cost | Name         | Effect                                     |
 | :-------: | --------- | :--: | ------------ | ------------------------------------------ |
-| Supporter | Primary   |  ?   | Rite of Dawn | Return a fainted ally to combat.           |
+| Supporter | Primary   |  ?   | Rite of Dawn | Return a fainted character to combat.      |
 |     〃     | Secondary |  ?   | Damnation    | Channel: Resonance: Damage all characters. |
 |     〃     | Secondary |  ?   | Solace       | Channel: Resonance: Heal all allies.       |
 
