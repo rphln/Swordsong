@@ -20,19 +20,19 @@
   - Automata, female.
   - Maxwell’s 21st major creation. A soothing character.
 
-|  Class  | Type      | Cost | Name     | Effect       |
-| :-----: | --------- | :--: | -------- | ------------ |
-| Duelist | Primary   |  ?   | Lily’s α | Tempering: ? |
-|    〃    | Secondary |  ?   | Lily’s β | Overheat: ?  |
-|    〃    | Secondary |  ?   | Lily’s γ | Overheat: ?  |
+|  Class  | Type      | Cost | Name     | Effect                         |
+| :-----: | --------- | :--: | -------- | ------------------------------ |
+| Duelist | Primary   |  ?   | Lily’s α | Tempering: Damage a character. |
+|    〃    | Secondary |  ?   | Lily’s β | Overheat:                      |
+|    〃    | Secondary |  ?   | Lily’s γ | Overheat:                      |
 
 ## Orchid
 
   - Automata, female.
   - Maxwell’s 17th major creation. A somewhat unexpressive character.
 
-|  Class   | Type      | Cost | Name          | Effect                               |
-| :------: | --------- | :--: | ------------- | ------------------------------------ |
-| Vanguard | Primary   |  ?   | Triple Threat | Tempering: Damage a character.       |
-|    〃     | Secondary |  ?   | Orchid’s β    | Overheat: Gain a random effect.      |
-|    〃     | Secondary |  ?   | Orchid’s γ    | Overheat: Swap your power and armor. |
+|  Class   | Type      | Cost | Name       | Effect                               |
+| :------: | --------- | :--: | ---------- | ------------------------------------ |
+| Vanguard | Primary   |  ?   | Orchid’s α | Tempering:                           |
+|    〃     | Secondary |  ?   | Orchid’s β | Overheat:                            |
+|    〃     | Secondary |  ?   | Orchid’s γ | Overheat: Swap your power and armor. |
