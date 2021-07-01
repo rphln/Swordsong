@@ -91,8 +91,6 @@ Applying the same effect multiple times does nothing.
 
 | Name     | Duration   | Type      | Effect                                                                              |
 | -------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
-| Alacrity | Consumable |           | The character can attack or walk an additional time.                                |
-|          |            |           |                                                                                     |
 | Fortify  | Consumable | Combat    | Prevents all but one damage point from the next incoming damage instance.           |
 | Prowess  | Consumable | Combat    | Maximizes the characters’s power score on their next outgoing damage instance.      |
 |          |            |           |                                                                                     |

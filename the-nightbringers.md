@@ -5,11 +5,11 @@
   - Eagle beastfolk, female.
   - Ara ara.
 
-|  Class   | Type      | Cost | Name     | Effect                                   |
-| :------: | --------- | :--: | -------- | ---------------------------------------- |
-| Marksman | Primary   |  ?   | Sara’s α | Delirium: Gain Alacrity.                 |
-|    〃     | Secondary |  ?   | Sara’s β | Offering: Each opponent discards a card. |
-|    〃     | Secondary |  ?   | Sara’s γ | Offering: Draw two cards.                |
+|  Class   | Type      | Cost | Name     | Effect                                             |
+| :------: | --------- | :--: | -------- | -------------------------------------------------- |
+| Marksman | Primary   |  ?   | Sara’s α | Delirium: Restore your attack and movement action. |
+|    〃     | Secondary |  ?   | Sara’s β | Offering: Each opponent discards a card.           |
+|    〃     | Secondary |  ?   | Sara’s γ | Offering: Draw two cards.                          |
 
 ## Lapis
 
