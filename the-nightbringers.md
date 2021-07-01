@@ -1,15 +1,16 @@
 # The Nightbringers
 
-## Sara
+  - Followers of the Fairy King.
 
-  - Eagle beastfolk, female.
-  - Ara ara.
+## Aleksei
 
-|  Class   | Type      | Cost | Name     | Effect                                             |
-| :------: | --------- | :--: | -------- | -------------------------------------------------- |
-| Marksman | Primary   |  ?   | Sara’s α | Delirium: Restore your attack and movement action. |
-|    〃     | Secondary |  ?   | Sara’s β | Offering: Each opponent discards a card.           |
-|    〃     | Secondary |  ?   | Sara’s γ | Offering: Draw two cards.                          |
+  - Wolf beastfolk, male.
+
+|  Class   | Type      | Cost | Name              | Effect                        |
+| :------: | --------- | :--: | ----------------- | ----------------------------- |
+| Marksman | Primary   |  ?   | Method to Madness | Delirium: Gain Tailwind.      |
+|    〃     | Secondary |  ?   | Aleksei’s β       | Offering: Draw two cards.     |
+|    〃     | Secondary |  ?   | Aleksei’s γ       | Offering: Damage a character. |
 
 ## Lapis
 
@@ -17,24 +18,26 @@
   - Colette’s older twin sister.
   - A witch.
 
-|   Class   | Type      | Cost | Name     | Effect                                              |
-| :-------: | --------- | :--: | -------- | --------------------------------------------------- |
-| Supporter | Primary   |  ?   | Lapis’ α | Offering: Summon or strengthen Wraithy.             |
-|     〃     | Secondary |  ?   | Lapis’ β | Delirium: Give Burn to all opponent characters.     |
-|     〃     | Secondary |  ?   | Lapis’ γ | Delirium: Give Restrain to all opponent characters. |
+|   Class   | Type      | Cost | Name         | Effect                                              |
+| :-------: | --------- | :--: | ------------ | --------------------------------------------------- |
+| Supporter | Primary   |  ?   | Rite of Dusk | Return a fainted character to combat.               |
+|     〃     | Secondary |  ?   | Lapis’ β     | Offering: Give Burn to all opponent characters.     |
+|     〃     | Secondary |  ?   | Lapis’ γ     | Delirium: Give Coldcage to all opponent characters. |
 
-## Cedric
+## Fabrice
 
-  - Human, male.
+  - Elf, male.
   - Towering, intimidating.
 
-|  Class   | Type      | Cost | Name              | Effect                                   |
-| :------: | --------- | :--: | ----------------- | ---------------------------------------- |
-| Vanguard | Primary   |  ?   | Method to Madness | Delirium: Gain a random positive effect. |
-|    〃     | Secondary |  ?   | Cedric’s β        |                                          |
-|    〃     | Secondary |  ?   | Cedric’s γ        |                                          |
+|  Class   | Type      | Cost | Name        | Effect                                         |
+| :------: | --------- | :--: | ----------- | ---------------------------------------------- |
+| Vanguard | Primary   |  ?   | Fabrice’s α | Summon or strengthen Noir.                     |
+|    〃     | Secondary |  ?   | Fabrice’s β | Offering: Each opponent discards a card.       |
+|    〃     | Secondary |  ?   | Fabrice’s γ | Delirium: Each opponent loses an action point. |
 
-## Wraithy
+## Noir
+
+  - A dark panther.
 
 |  Class   | Ranged | Power | Armor |
 | :------: | ------ | ----- | ----- |

@@ -2,18 +2,18 @@
 
   - Work in progress.
 
-## Aleksei
+## Noel
 
-  - Wolf beastfolk, male.
+  - Dog beastfolk, female.
   - A bounty hunter.
-  - “Bounty: Skills have alternative or additional effects for leader
-    characters.”
+  - “Bounty: The specified effect activates twice if the opponent leader
+    is fainted.”
 
-|  Class  | Type      | Cost | Name        | Effect |
-| :-----: | --------- | :--: | ----------- | ------ |
-| Duelist | Primary   |  ?   | Aleksei’s α |        |
-|    〃    | Secondary |  ?   | Aleksei’s β |        |
-|    〃    | Secondary |  ?   | Aleksei’s γ |        |
+|  Class  | Type      | Cost | Name     | Effect                                   |
+| :-----: | --------- | :--: | -------- | ---------------------------------------- |
+| Duelist | Primary   |  ?   | Noel’s α | Restore your attack and movement action. |
+|    〃    | Secondary |  ?   | Noel’s β | Bounty: Gain Prowess.                    |
+|    〃    | Secondary |  ?   | Noel’s γ | Bounty: Gain Tailwind.                   |
 
 ## Claire
 

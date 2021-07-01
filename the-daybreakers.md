@@ -1,16 +1,16 @@
 # The Daybreakers
 
-## Fabrice
+## Cedric
 
-  - Elf, male.
+  - Human, male.
   - An inquisitor of the Temple Order.
   - Assumes the role of strategist in this party.
 
-|  Class  | Type      | Cost | Name        | Effect                                  |
-| :-----: | --------- | :--: | ----------- | --------------------------------------- |
-| Duelist | Primary   |  ?   | Fabrice’s α | Channel: Resonance: Damage a character. |
-|    〃    | Secondary |  ?   | Fabrice’s β | Give Restrain to a character.           |
-|    〃    | Secondary |  ?   | Fabrice’s γ | Give Silence to a character.            |
+|  Class  | Type      | Cost | Name       | Effect                                  |
+| :-----: | --------- | :--: | ---------- | --------------------------------------- |
+| Duelist | Primary   |  ?   | Cedric’s α | Channel: Resonance: Damage a character. |
+|    〃    | Secondary |  ?   | Cedric’s β | Give Restrain to a character.           |
+|    〃    | Secondary |  ?   | Cedric’s γ | Give Silence to a character.            |
 
 ## Ariel
 
