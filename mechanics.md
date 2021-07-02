@@ -112,7 +112,8 @@ like.
   - The duration of “Consumable” effects is reduced when a activation
     condition is met.
 
-  - Applying an effect multiple times extends its duration.
+  - Applying an effect multiple times extends its duration or increases
+    its stacks.
 
   - The primary source of effects are skills.
 
@@ -121,7 +122,7 @@ like.
 
 | Name     | Type       | Effect                                                                     |
 | -------- | ---------- | -------------------------------------------------------------------------- |
-| Burn     | Timed      | Damage the character at the end of their turns based on the Burn duration. |
+| Burn     | Permanent  | Damage the character at the end of their turns based on their Burn stacks. |
 |          |            |                                                                            |
 | Coldcage | Timed      | The cost of using skills, attacking or walking is increased.               |
 | Tailwind | Timed      | The cost of using skills, attacking or walking is reduced.                 |
