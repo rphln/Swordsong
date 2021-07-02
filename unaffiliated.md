@@ -19,10 +19,11 @@
 
   - Elf, female.
   - A wandering minstrel.
-  - “Rehearsal: Randomly raise your power or armor when using a spell.”
+  - “Encore: Restore an action point for each character affected by the
+    effect.”
 
-|   Class   | Type      | Cost | Name       | Effect |
-| :-------: | --------- | :--: | ---------- | ------ |
-| Supporter | Primary   |  ?   | Claire’s α |        |
-|     〃     | Secondary |  ?   | Claire’s β |        |
-|     〃     | Secondary |  ?   | Claire’s γ |        |
+|   Class   | Type      | Cost | Name       | Effect                                     |
+| :-------: | --------- | :--: | ---------- | ------------------------------------------ |
+| Supporter | Primary   |  ?   | Daze       | Give Restrain and Silence to a character.  |
+|     〃     | Secondary |  ?   | Claire’s β | Encore: Give Prowess to other characters.  |
+|     〃     | Secondary |  ?   | Claire’s γ | Encore: Give Tailwind to other characters. |
