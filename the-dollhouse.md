@@ -29,10 +29,11 @@
 ## Orchid
 
   - Automata, female.
-  - Maxwell’s 17th major creation. A somewhat unexpressive character.
+  - Maxwell’s 6th masterpiece. Has a somewhat unexpressive or
+    emotionless personality.
 
-|  Class   | Type      | Cost | Name     | Effect                     |
-| :------: | --------- | :--: | -------- | -------------------------- |
-| Vanguard | Primary   |      |          | Resonance:                 |
-|    〃     | Secondary |      |          |                            |
-|    〃     | Secondary |      | Pendulum | Swap your power and armor. |
+|  Class   | Type      | Cost | Name        | Effect                                         |
+| :------: | --------- | :--: | ----------- | ---------------------------------------------- |
+| Vanguard | Primary   |  1   | Style Purge | Resonance: Draw “Aegis Boon” and “Steady Aim”. |
+|    〃     | Secondary |  0   | Aegis Boon  | Switch to the “Vanguard” stance.               |
+|    〃     | Secondary |  0   | Steady Aim  | Switch to the “Marksman” stance.               |
