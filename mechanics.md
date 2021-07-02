@@ -137,19 +137,16 @@ like.
 
 Used to tie cards with similar abilities together.
 
-| Name      | Effect                                                                      |
-| --------- | --------------------------------------------------------------------------- |
-| Defiance  | Activate the effect thrice if there’s no other allies, or once otherwise.   |
-| Threshold | Activate the effect twice if you’re below half health, or once otherwise.   |
-|           |                                                                             |
-| Channel   | Activate the effect by consuming the character’s attack action.             |
-| Resonance | Activate the effect twice on even turns, or once otherwise.                 |
-|           |                                                                             |
-| Overheat  | Activate the effect by gaining a Burn stack.                                |
-| Tempering | Activate the effect twice by consuming your Burn stacks, or once otherwise. |
-|           |                                                                             |
-| Delirium  | Activate the effect by reducing your maximum action points by one.          |
-| Offering  | Activate the effect by discarding a card.                                   |
+| Name        | Effect                                                                          |
+| ----------- | ------------------------------------------------------------------------------- |
+| Bounty      | Activate the effect twice if the opponent leader is fainted, or once otherwise. |
+| Defiance    | Activate the effect twice if you’re below half health, or once otherwise.       |
+| Resonance   | Activate the effect twice on even turns, or once otherwise.                     |
+|             |                                                                                 |
+| Channel     | Activate the effect by consuming the character’s attack action.                 |
+| Delirium    | Activate the effect by reducing your maximum action points by one.              |
+|             |                                                                                 |
+| Inspiration | Randomly raise your power or armor for each character affected by the effect.   |
 
 ## Classes
 
@@ -182,9 +179,9 @@ changes.
 | Marksman | Duelist | Enchanter | Vanguard | Name                                      |
 | :------: | :-----: | :-------: | :------: | ----------------------------------------- |
 |          |    •    |     •     |    •     | [The Daybreakers](the-daybreakers.md)     |
-|    •     |         |     •     |    •     | [The Nightbringers](the-nightbringers.md) |
+|    •     |         |     •     |    •     | [The Wayfarers](the-wayfarers.md)         |
 |    •     |    •    |           |    •     | [The Dollhouse](the-dollhouse.md)         |
-|    •     |    •    |     •     |          | [The Wayfarers](the-wayfarers.md)         |
+|    •     |    •    |     •     |          | [The Nightbringers](the-nightbringers.md) |
 
 ## Scores
 

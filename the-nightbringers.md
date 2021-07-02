@@ -6,34 +6,33 @@
 
   - Wolf beastfolk, male.
 
-|  Class   | Type      | Cost | Name              | Effect                        |
-| :------: | --------- | :--: | ----------------- | ----------------------------- |
-| Marksman | Primary   |  ?   | Method to Madness | Delirium: Gain Tailwind.      |
-|    〃     | Secondary |  ?   | Aleksei’s β       | Offering: Draw two cards.     |
-|    〃     | Secondary |  ?   | Aleksei’s γ       | Offering: Damage a character. |
-
-## Lapis
-
-  - Elf, female.
-  - Colette’s older twin sister.
-  - A witch.
-
-|   Class   | Type      | Cost | Name         | Effect                                              |
-| :-------: | --------- | :--: | ------------ | --------------------------------------------------- |
-| Enchanter | Primary   |  ?   | Rite of Dusk | Return a fainted character to combat.               |
-|     〃     | Secondary |  ?   | Lapis’ β     | Offering: Give Burn to all opponent characters.     |
-|     〃     | Secondary |  ?   | Lapis’ γ     | Delirium: Give Coldcage to all opponent characters. |
+|  Class   | Type      | Cost | Name | Effect                                             |
+| :------: | --------- | :--: | ---- | -------------------------------------------------- |
+| Marksman | Primary   |      |      | Delirium: Restore your attack and movement action. |
+|    〃     | Secondary |      |      |                                                    |
+|    〃     | Secondary |      |      |                                                    |
 
 ## Fabrice
 
   - Elf, male.
   - Towering, intimidating.
 
-|  Class   | Type      | Cost | Name        | Effect                                         |
-| :------: | --------- | :--: | ----------- | ---------------------------------------------- |
-| Vanguard | Primary   |  ?   | Fabrice’s α | Summon or strengthen Noir.                     |
-|    〃     | Secondary |  ?   | Fabrice’s β | Offering: Each opponent discards a card.       |
-|    〃     | Secondary |  ?   | Fabrice’s γ | Delirium: Each opponent loses an action point. |
+|  Class  | Type      | Cost | Name | Effect                               |
+| :-----: | --------- | :--: | ---- | ------------------------------------ |
+| Duelist | Primary   |      |      | Delirium: Summon Noir.               |
+|    〃    | Secondary |      |      | Each opponent discards a card.       |
+|    〃    | Secondary |      |      | Each opponent loses an action point. |
+
+## Lapis
+
+  - Elf, female.
+  - Colette’s older twin sister.
+
+|   Class   | Type      | Cost | Name              | Effect                                              |
+| :-------: | --------- | :--: | ----------------- | --------------------------------------------------- |
+| Enchanter | Primary   |      | Method to Madness | Delirium: Give Tailwind to other allied characters. |
+|     〃     | Secondary |      |                   | Give Coldcage to a character.                       |
+|     〃     | Secondary |      | Will-o’-Wisp      | Give Burn to a character.                           |
 
 ## Noir
 
