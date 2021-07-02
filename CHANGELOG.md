@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [5.1.0](https://github.com/rphln/Swordsong/compare/v5.0.0...v5.1.0) (2021-07-02)
+
+### Major changes
+
+  - **Claire:** Add skills.
+    ([3a07158](https://github.com/rphln/Swordsong/commit/3a07158847a3ea4cec66aa9f18840ede6b96aa29))
+
+### Minor changes
+
+  - **Mechanics:** Rename “Supporter” to “Enchanter”.
+    ([b7df5b7](https://github.com/rphln/Swordsong/commit/b7df5b7674f9a1d81091cb628cdf950b0fbaa444))
+
 ## [5.0.0](https://github.com/rphln/Swordsong/compare/v4.1.0...v5.0.0) (2021-07-01)
 
 ### ⚠ BREAKING CHANGES
