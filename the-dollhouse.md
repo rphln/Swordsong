@@ -18,13 +18,14 @@
 ## Lily
 
   - Automata, female.
-  - Maxwell’s 21st major creation. A soothing character.
+  - Maxwell’s 7th masterpiece. Has a soothing and overly optimistic
+    personality.
 
-|  Class  | Type      | Cost | Name | Effect     |
-| :-----: | --------- | :--: | ---- | ---------- |
-| Duelist | Primary   |      |      | Resonance: |
-|    〃    | Secondary |      |      |            |
-|    〃    | Secondary |      |      |            |
+|  Class  | Type      | Cost | Name       | Effect                               |
+| :-----: | --------- | :--: | ---------- | ------------------------------------ |
+| Duelist | Primary   |      | Prominence | Resonance: Give Burn to a character. |
+|    〃    | Secondary |      |            |                                      |
+|    〃    | Secondary |      |            |                                      |
 
 ## Orchid
 
