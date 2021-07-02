@@ -30,6 +30,6 @@
 
 |   Class   | Type      | Cost | Name            | Effect                                                   |
 | :-------: | --------- | :--: | --------------- | -------------------------------------------------------- |
-| Supporter | Primary   |  ?   | Prominence      | Defiance: Threshold: Give Burn to an opponent character. |
+| Enchanter | Primary   |  ?   | Prominence      | Defiance: Threshold: Give Burn to an opponent character. |
 |     〃     | Secondary |  ?   | Favorable Winds | Give Tailwind to all characters.                         |
 |     〃     | Secondary |  ?   | Frozen Gale     | Give Coldcage to all characters.                         |

@@ -20,7 +20,7 @@
 
 |   Class   | Type      | Cost | Name         | Effect                                              |
 | :-------: | --------- | :--: | ------------ | --------------------------------------------------- |
-| Supporter | Primary   |  ?   | Rite of Dusk | Return a fainted character to combat.               |
+| Enchanter | Primary   |  ?   | Rite of Dusk | Return a fainted character to combat.               |
 |     〃     | Secondary |  ?   | Lapis’ β     | Offering: Give Burn to all opponent characters.     |
 |     〃     | Secondary |  ?   | Lapis’ γ     | Delirium: Give Coldcage to all opponent characters. |
 

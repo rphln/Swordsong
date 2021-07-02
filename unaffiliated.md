@@ -24,6 +24,6 @@
 
 |   Class   | Type      | Cost | Name       | Effect                                     |
 | :-------: | --------- | :--: | ---------- | ------------------------------------------ |
-| Supporter | Primary   |  ?   | Daze       | Give Restrain and Silence to a character.  |
+| Enchanter | Primary   |  ?   | Daze       | Give Restrain and Silence to a character.  |
 |     〃     | Secondary |  ?   | Claire’s β | Encore: Give Prowess to other characters.  |
 |     〃     | Secondary |  ?   | Claire’s γ | Encore: Give Tailwind to other characters. |

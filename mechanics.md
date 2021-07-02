@@ -171,14 +171,14 @@ characters of the same class in a team.
 | --------- | ------ | ------ | ------ | ------------------------------ |
 | Marksman  | Yes    | Large  | Tiny   | Raise the power of all allies. |
 | Duelist   | No     | Medium | Small  | Gain an action point.          |
-| Supporter | Yes    | Small  | Medium | Draw two cards.                |
+| Enchanter | Yes    | Small  | Medium | Draw two cards.                |
 | Vanguard  | No     | Tiny   | Large  | Raise the armor of all allies. |
 
 Currently, each faction has access to all but one of the classes,
 depending on thematic and mechanic factors. This, however, is subject to
 changes.
 
-| Marksman | Duelist | Supporter | Vanguard | Name                                      |
+| Marksman | Duelist | Enchanter | Vanguard | Name                                      |
 | :------: | :-----: | :-------: | :------: | ----------------------------------------- |
 |          |    •    |     •     |    •     | [The Daybreakers](the-daybreakers.md)     |
 |    •     |         |     •     |    •     | [The Nightbringers](the-nightbringers.md) |

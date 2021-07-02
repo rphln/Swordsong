@@ -19,7 +19,7 @@
 
 |   Class   | Type      | Cost | Name         | Effect                                     |
 | :-------: | --------- | :--: | ------------ | ------------------------------------------ |
-| Supporter | Primary   |  ?   | Rite of Dawn | Return a fainted character to combat.      |
+| Enchanter | Primary   |  ?   | Rite of Dawn | Return a fainted character to combat.      |
 |     〃     | Secondary |  ?   | Damnation    | Channel: Resonance: Damage all characters. |
 |     〃     | Secondary |  ?   | Solace       | Channel: Resonance: Heal all allies.       |
 
