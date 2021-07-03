@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [6.0.0](https://github.com/rphln/Swordsong/compare/v5.1.0...v6.0.0) (2021-07-03)
+
+### ⚠ BREAKING CHANGES
+
+  - **Keywords:** Remove half of the keywords.
+
+### Major changes
+
+  - **Keywords:** Remove half of the keywords.
+    ([ce23331](https://github.com/rphln/Swordsong/commit/ce23331ad7270b7327b74cfd5c5876d330c13333))
+  - **Lily:** Change skills and description.
+    ([a26eb96](https://github.com/rphln/Swordsong/commit/a26eb967fd202ce2b2a2e33408a43b8925c70c51))
+  - **Mechanics:** “Burn” is permanent again.
+    ([2c11a7c](https://github.com/rphln/Swordsong/commit/2c11a7cc19318418d570f0d4420cf6b6aa4022bf))
+  - **Orchid:** Change skills and description.
+    ([859d8d9](https://github.com/rphln/Swordsong/commit/859d8d9b37b689080cbf7a827b585b35c201633c))
+
 ## [5.1.0](https://github.com/rphln/Swordsong/compare/v5.0.0...v5.1.0) (2021-07-02)
 
 ### Major changes
