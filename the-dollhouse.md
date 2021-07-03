@@ -33,8 +33,8 @@
   - Maxwell’s 6th masterpiece. Has a somewhat unexpressive or
     emotionless personality.
 
-|  Class   | Type      | Cost | Name        | Effect                                         |
-| :------: | --------- | :--: | ----------- | ---------------------------------------------- |
-| Vanguard | Primary   |  1   | Style Purge | Resonance: Draw “Aegis Boon” and “Steady Aim”. |
-|    〃     | Secondary |  0   | Aegis Boon  | Switch to the “Vanguard” stance.               |
-|    〃     | Secondary |  0   | Steady Aim  | Switch to the “Marksman” stance.               |
+|  Class   | Type      | Cost | Name        | Effect                                     |
+| :------: | --------- | :--: | ----------- | ------------------------------------------ |
+| Vanguard | Primary   |  1   | Style Purge | Resonance: Draw Aegis Boon and Steady Aim. |
+|    〃     | Secondary |  1   | Aegis Boon  | Switch to the Vanguard stance.             |
+|    〃     | Secondary |  1   | Steady Aim  | Switch to the Marksman stance.             |
