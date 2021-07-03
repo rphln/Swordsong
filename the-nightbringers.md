@@ -6,11 +6,11 @@
 
   - Wolf beastfolk, male.
 
-|  Class   | Type      | Cost | Name | Effect                                             |
-| :------: | --------- | :--: | ---- | -------------------------------------------------- |
-| Marksman | Primary   |      |      | Delirium: Restore your attack and movement action. |
-|    〃     | Secondary |      |      |                                                    |
-|    〃     | Secondary |      |      |                                                    |
+|  Class   | Type      | Cost | Name     | Effect                                    |
+| :------: | --------- | :--: | -------- | ----------------------------------------- |
+| Marksman | Primary   |      | Sabotage | Delirium: Detonate all traps.             |
+|    〃     | Secondary |      |          | Place a Combustion Trap on an empty tile. |
+|    〃     | Secondary |      |          | Place a Detonation Trap on an empty tile. |
 
 ## Fabrice
 
