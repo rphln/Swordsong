@@ -17,11 +17,11 @@
   - Elf, male.
   - Towering, intimidating.
 
-|  Class  | Type      | Cost | Name | Effect                               |
-| :-----: | --------- | :--: | ---- | ------------------------------------ |
-| Duelist | Primary   |      |      | Delirium: Summon Noir.               |
-|    〃    | Secondary |      |      | Each opponent discards a card.       |
-|    〃    | Secondary |      |      | Each opponent loses an action point. |
+|  Class  | Type      | Cost | Name              | Effect                                             |
+| :-----: | --------- | :--: | ----------------- | -------------------------------------------------- |
+| Duelist | Primary   |      | Method to Madness | Delirium: Restore your attack and movement action. |
+|    〃    | Secondary |      |                   |                                                    |
+|    〃    | Secondary |      |                   |                                                    |
 
 ## Lapis
 
