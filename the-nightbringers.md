@@ -27,16 +27,15 @@
 
   - Elf, female.
   - Colette’s older twin sister.
+  - A witch.
 
-|   Class   | Type      | Cost | Name              | Effect                                              |
-| :-------: | --------- | :--: | ----------------- | --------------------------------------------------- |
-| Enchanter | Primary   |      | Method to Madness | Delirium: Give Tailwind to other allied characters. |
-|     〃     | Secondary |      |                   | Give Coldcage to a character.                       |
-|     〃     | Secondary |      | Will-o’-Wisp      | Give Burn to a character.                           |
+|   Class   | Type      | Cost | Name         | Effect                        |
+| :-------: | --------- | :--: | ------------ | ----------------------------- |
+| Enchanter | Primary   |      |              | Delirium: Summon Wraithy.     |
+|     〃     | Secondary |      | Faerie Fire  | Give Burn to a character.     |
+|     〃     | Secondary |      | Winter Blast | Give Coldcage to a character. |
 
-## Noir
-
-  - A dark panther.
+## Wraithy
 
 |  Class   | Ranged | Power | Armor |
 | :------: | ------ | ----- | ----- |
