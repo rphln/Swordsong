@@ -135,6 +135,8 @@ like.
 |          |            |                                                                            |
 | Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.            |
 | Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.            |
+|          |            |                                                                            |
+| Mislead  | Consumable | A character within range to attack you will do so on their next turn.      |
 
 ## Keywords
 
