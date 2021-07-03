@@ -21,11 +21,11 @@
   - Maxwell’s 7th masterpiece. Has a soothing and overly optimistic
     personality.
 
-|  Class  | Type      | Cost | Name       | Effect                               |
-| :-----: | --------- | :--: | ---------- | ------------------------------------ |
-| Duelist | Primary   |      | Prominence | Resonance: Give Burn to a character. |
-|    〃    | Secondary |      |            |                                      |
-|    〃    | Secondary |      |            |                                      |
+|  Class  | Type      | Cost | Name | Effect     |
+| :-----: | --------- | :--: | ---- | ---------- |
+| Duelist | Primary   |      |      | Resonance: |
+|    〃    | Secondary |      |      |            |
+|    〃    | Secondary |      |      |            |
 
 ## Orchid
 
