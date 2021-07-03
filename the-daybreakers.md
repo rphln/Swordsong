@@ -17,11 +17,11 @@
   - Sheep beastfolk, female.
   - A high-ranked priestess in the Temple Order.
 
-|   Class   | Type      | Cost | Name    | Effect                                |
-| :-------: | --------- | :--: | ------- | ------------------------------------- |
-| Enchanter | Primary   |      | Solace  | Channel: Heal all allied characters.  |
-|     〃     | Secondary |      |         |                                       |
-|     〃     | Secondary |      | Mending | Return a fainted character to combat. |
+|   Class   | Type      | Cost | Name      | Effect                       |
+| :-------: | --------- | :--: | --------- | ---------------------------- |
+| Enchanter | Primary   |      | Mending   | Channel: Revive a character. |
+|     〃     | Secondary |      | Damnation | Damage other characters.     |
+|     〃     | Secondary |      | Solace    | Heal other characters.       |
 
 ## Alice
 
