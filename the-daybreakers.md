@@ -6,11 +6,11 @@
   - An inquisitor of the Temple Order.
   - Assumes the role of strategist in this party.
 
-|  Class  | Type      | Cost | Name      | Effect                          |
-| :-----: | --------- | :--: | --------- | ------------------------------- |
-| Duelist | Primary   |      | Damnation | Channel: Damage all characters. |
-|    〃    | Secondary |      |           | Give Restrain to a character.   |
-|    〃    | Secondary |      |           | Give Silence to a character.    |
+|  Class  | Type      | Cost | Name          | Effect                                          |
+| :-----: | --------- | :--: | ------------- | ----------------------------------------------- |
+| Duelist | Primary   |      | Coup de Grâce | Channel: Defeat a critically wounded character. |
+|    〃    | Secondary |      |               | Give Restrain to a character.                   |
+|    〃    | Secondary |      |               | Give Silence to a character.                    |
 
 ## Ariel
 
