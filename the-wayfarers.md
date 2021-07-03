@@ -5,11 +5,11 @@
   - Eagle beastfolk, female.
   - Ara ara.
 
-|  Class   | Type      | Cost | Name      | Effect                  |
-| :------: | --------- | :--: | --------- | ----------------------- |
-| Marksman | Primary   |      | Eagle Eye | Defiance: Gain Prowess. |
-|    〃     | Secondary |      |           |                         |
-|    〃     | Secondary |      |           |                         |
+|  Class   | Type      | Cost | Name             | Effect                                     |
+| :------: | --------- | :--: | ---------------- | ------------------------------------------ |
+| Marksman | Primary   |      | Indomitable Will | Defiance: Gain Fortify.                    |
+|    〃     | Secondary |      |                  | Place a Leghold Trap on an empty tile.     |
+|    〃     | Secondary |      |                  | Place a Smokescreen Trap on an empty tile. |
 
 ## Colette
 
