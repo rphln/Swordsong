@@ -28,8 +28,8 @@
   - Human, female.
   - The party’s leader.
 
-|  Class   | Type      | Cost | Name        | Effect                  |
-| :------: | --------- | :--: | ----------- | ----------------------- |
-| Vanguard | Primary   |      | Indomitable | Defiance: Gain Fortify. |
-|    〃     | Secondary |      |             |                         |
-|    〃     | Secondary |      |             |                         |
+|  Class   | Type      | Cost | Name               | Effect                                      |
+| :------: | --------- | :--: | ------------------ | ------------------------------------------- |
+| Vanguard | Primary   |      | Thick of the Fight | Defiance: Give Mislead to other characters. |
+|    〃     | Secondary |      |                    |                                             |
+|    〃     | Secondary |      |                    |                                             |
