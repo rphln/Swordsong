@@ -28,11 +28,11 @@
   - Human, female.
   - One of the public faces of the Temple Order.
 
-|  Class   | Type      | Cost | Name | Effect                                   |
-| :------: | --------- | :--: | ---- | ---------------------------------------- |
-| Vanguard | Primary   |      |      | Channel: Summon Leo.                     |
-|    〃     | Secondary |      |      | Give Fortify to other allied characters. |
-|    〃     | Secondary |      |      | Give Prowess to other allied characters. |
+|  Class   | Type      | Cost | Name | Effect               |
+| :------: | --------- | :--: | ---- | -------------------- |
+| Vanguard | Primary   |      |      | Channel: Summon Leo. |
+|    〃     | Secondary |      |      |                      |
+|    〃     | Secondary |      |      |                      |
 
 ## Leo
 
