@@ -15,12 +15,13 @@
 
   - Elf, female.
   - Lapis’ younger twin sister.
+  - An elementalist.
 
-|   Class   | Type      | Cost | Name           | Effect                                       |
-| :-------: | --------- | :--: | -------------- | -------------------------------------------- |
-| Enchanter | Primary   |      | Terminal Frost | Defiance: Give Coldcage to other characters. |
-|     〃     | Secondary |      | Faerie Fire    | Give Burn to a character.                    |
-|     〃     | Secondary |      | Wind Cloak     | Give Tailwind to a character.                |
+|   Class   | Type      | Cost | Name             | Effect                                   |
+| :-------: | --------- | :--: | ---------------- | ---------------------------------------- |
+| Enchanter | Primary   |      | Prominence       | Defiance: Give Burn to other characters. |
+|     〃     | Secondary |      | Favourable Winds | Give Tailwind to other characters.       |
+|     〃     | Secondary |      | Terminal Frost   | Give Coldcage to other characters.       |
 
 ## Nell
 
