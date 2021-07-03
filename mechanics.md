@@ -55,6 +55,9 @@ through a number of preparation phases.
   - Any single damage instance may not deal less than one damage point
     or more than the equivalent of “Gargantuan” damage in points.
 
+  - A character is “critically wounded” if their remaining armor is at
+    or below a third of its total amount.
+
   - A character whose damage taken surpasses their armor will faint.
 
   - Healing a character restores part of their lost armor.
