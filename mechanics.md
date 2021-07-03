@@ -143,8 +143,9 @@ Used to tie cards with similar abilities together.
 | Name        | Effect                                                                          |
 | ----------- | ------------------------------------------------------------------------------- |
 | Bounty      | Activate the effect twice if the opponent leader is fainted, or once otherwise. |
-| Defiance    | Activate the effect twice if you’re below half health, or once otherwise.       |
 | Resonance   | Activate the effect twice on even turns, or once otherwise.                     |
+|             |                                                                                 |
+| Defiance    | Activate the effect thrice if critically wounded, or once otherwise.            |
 |             |                                                                                 |
 | Channel     | Activate the effect by consuming the character’s attack action.                 |
 | Delirium    | Activate the effect by reducing your maximum action points by one.              |
