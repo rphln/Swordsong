@@ -170,6 +170,15 @@ changes.
 |     •     |         |     •      |    •     | [The Fairy Kingdom](the-fairy-kingdom.md) |
 |     •     |    •    |            |    •     | [The Temple Order](the-temple-order.md)   |
 
+Two additional “classes” are used for special characters, such as bosses
+or summoned units. They individually may be either melee or ranged, and
+have or not a talent.
+
+| Class    | Power      | Armor      |
+| -------- | ---------- | ---------- |
+| Familiar | Tiny       | Tiny       |
+| Calamity | Gargantuan | Gargantuan |
+
 ## Scores
 
 Power and armor scores are split into six tiers. When a skill or a
