@@ -32,7 +32,7 @@
 | ---------- |
 | Specialist |
 
-| Tier      | Cost | Skill    | Effect                                                        |
+| Tier      | Cost | Name     | Effect                                                        |
 | --------- | :--: | -------- | ------------------------------------------------------------- |
 | Primary   |      | Equalise | Evenly redistribute the damage taken by each other character. |
 | Secondary |      |          | Summon Lily into an empty tile.                               |
