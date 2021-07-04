@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [7.1.0](https://github.com/rphln/Swordsong/compare/v7.0.0...v7.1.0) (2021-07-04)
+
+### Major changes
+
+  - **Classes:** Reorganize the section.
+    ([4b10f07](https://github.com/rphln/Swordsong/commit/4b10f07942845103d290a283d387d519d7f052ae))
+  - **Combat:** Add description about traps.
+    ([88b9258](https://github.com/rphln/Swordsong/commit/88b9258f0155b8e7241a5ddc25c6caebf35aa57d))
+  - **Introduction:** Be more coherent with the current plans.
+    ([f608d39](https://github.com/rphln/Swordsong/commit/f608d39914ecf238e9261b815b71cc5c5da119b2))
+  - **Preparation:** Supporters are chosen independently.
+    ([6db7f97](https://github.com/rphln/Swordsong/commit/6db7f97f1459dd2e3633c559fa3ac69e421ea310))
+
+### Minor changes
+
+  - **Classes:** Reword the `Enchanter` and `Vanguard` talents.
+    ([de8f16d](https://github.com/rphln/Swordsong/commit/de8f16d50870bd7087e325c8354511f310e6c22a))
+  - **Maxwell:** Typo in the table header.
+    ([44f895e](https://github.com/rphln/Swordsong/commit/44f895e54f57b1234043bd2cf570f777b3469f31))
+  - **Scores:** Reword the section.
+    ([03adb9d](https://github.com/rphln/Swordsong/commit/03adb9d2044e51acdde15d49980bd5b122449bc5))
+
 ## [7.0.0](https://github.com/rphln/Swordsong/compare/v6.0.0...v7.0.0) (2021-07-04)
 
 ### ⚠ BREAKING CHANGES
