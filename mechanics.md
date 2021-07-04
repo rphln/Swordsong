@@ -136,22 +136,6 @@ like.
 | Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.              |
 | Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.              |
 
-## Keywords
-
-Used to tie cards with similar abilities together.
-
-| Name        | Effect                                                                          |
-| ----------- | ------------------------------------------------------------------------------- |
-| Bounty      | Activate the effect twice if the opponent leader is fainted, or once otherwise. |
-| Resonance   | Activate the effect twice on even turns, or once otherwise.                     |
-|             |                                                                                 |
-| Defiance    | Activate the effect thrice if critically wounded, or once otherwise.            |
-|             |                                                                                 |
-| Channel     | Activate the effect by consuming the character’s attack action.                 |
-| Delirium    | Activate the effect by reducing your maximum action points by one.              |
-|             |                                                                                 |
-| Inspiration | Randomly raise your power or armor for each character affected by the effect.   |
-
 ## Classes
 
 A character class determines what they can do and how they fare in
