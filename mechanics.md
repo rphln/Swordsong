@@ -64,6 +64,10 @@ through a number of preparation phases.
 
   - Healing a character restores part of their lost armor.
 
+  - Traps detonate upon being stepped on, affecting the characters on
+    that tile and adjacent ones. A character will stop walking upon
+    stepping on a trap.
+
 ## Turns
 
 This section describes what the envisioned combat flow currently looks
