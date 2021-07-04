@@ -1,10 +1,7 @@
-# Swordsong
+# Introduction
 
-A mishmash of card games and tactical RPGs.
-
-The player assumes the role of a fate weaver, one who manipulates the
-course of lives of mortals. They watch over a team of heroes as they
-fight through duels and raids.
+A mishmash of card games and tactical RPGs, in which the player assumes
+the role of an expedition leader and strategist.
 
 The game is a turn-based, tactical RPG with elements from card games.
 The player will control a team of characters through a hexagonal grid,
@@ -21,5 +18,8 @@ fixed outcomes (as opposed of fixed opportunities with randomized
 outcomes) will result in a more interesting experience by giving the
 player agency while still preventing each match from being exactly the
 same.
+
+Conceptually, cards represent the “thought” of doing something, while
+action points represent the “opportunity” to actually do so.
 
 For detailed information, see [Mechanics](mechanics.md).
