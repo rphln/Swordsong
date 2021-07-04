@@ -1,40 +1,59 @@
 # The Ivory Tower
 
+## Noel
+
+  - Tiger beastfolk, female.
+  - A combat maid loyal to Maxwell. Her weapon is the masterpiece
+    gunblade Daybreaker.
+
+| Class   |
+| ------- |
+| Duelist |
+
+| Tier      | Cost | Name               | Effect                                   |
+| --------- | :--: | ------------------ | ---------------------------------------- |
+| Primary   |      | Thick of the Fight | Restore your attack and movement action. |
+| Secondary |      | Hack and Slash     | Switch to the Gladiator stance.          |
+| Secondary |      | Lock and Load      | Switch to the Gunslinger stance.         |
+
+| Stance     | Ranged | Power  | Armor  |
+| ---------- | ------ | ------ | ------ |
+|            | No     | Higher | Lower  |
+| Gladiator  | No     | Lower  | Higher |
+| Gunslinger | Yes    | Higher | Lower  |
+
 ## Maxwell
 
   - Human, male.
-  - An eccentric artificer and researcher that loves his dolls as his
-    daughters.
-  - As the sole son of one of the thirteen noblemen governors, he
-    unwillingly inherited the duty of securing and maintaining the royal
-    mausoleum.
+  - An artificer and researcher that loves his dolls as if they were his
+    daughters. Despite his eccentric tastes, he is very outgoing.
 
-|  Class   | Type      | Cost | Skill    | Effect                     |
-| :------: | --------- | :--: | -------- | -------------------------- |
-| Marksman | Primary   |      | Armslore | Resonance: Draw two cards. |
-|    〃     | Secondary |      |          |                            |
-|    〃     | Secondary |      |          |                            |
+| Class      |
+| ---------- |
+| Specialist |
+
+| Tier      | Cost | Skill    | Effect                                                        |
+| --------- | :--: | -------- | ------------------------------------------------------------- |
+| Primary   |      | Equalise | Evenly redistribute the damage taken by each other character. |
+| Secondary |      |          | Summon Lily into an empty tile.                               |
+| Secondary |      |          | Summon Orchid into an empty tile.                             |
 
 ## Lily
 
   - Automata, female.
-  - Maxwell’s 7th masterpiece. Has a soothing and overly optimistic
+  - Maxwell’s 7th masterpiece. Has an overly optimistic but soothing
     personality.
 
-|  Class  | Type      | Cost | Name | Effect     |
-| :-----: | --------- | :--: | ---- | ---------- |
-| Duelist | Primary   |      |      | Resonance: |
-|    〃    | Secondary |      |      |            |
-|    〃    | Secondary |      |      |            |
+| Class    | Ranged |
+| -------- | ------ |
+| Familiar | Yes    |
 
 ## Orchid
 
   - Automata, female.
-  - Maxwell’s 6th masterpiece. Has a somewhat unexpressive or
+  - Maxwell’s 4th masterpiece. Has a somewhat unexpressive, almost
     emotionless personality.
 
-|  Class   | Type      | Cost | Name        | Effect                                     |
-| :------: | --------- | :--: | ----------- | ------------------------------------------ |
-| Vanguard | Primary   |  1   | Style Purge | Resonance: Draw Aegis Boon and Steady Aim. |
-|    〃     | Secondary |  1   | Aegis Boon  | Switch to the Vanguard stance.             |
-|    〃     | Secondary |  1   | Steady Aim  | Switch to the Marksman stance.             |
+| Class    | Ranged |
+| -------- | ------ |
+| Familiar | No     |

@@ -1,42 +1,47 @@
 # The Fairy Kingdom
 
-  - Followers of the Fairy King.
-
-## Aleksei
-
-  - Wolf beastfolk, male.
-
-|  Class   | Type      | Cost | Name     | Effect                                    |
-| :------: | --------- | :--: | -------- | ----------------------------------------- |
-| Marksman | Primary   |      | Sabotage | Delirium: Detonate all traps.             |
-|    〃     | Secondary |      |          | Place a Combustion Trap on an empty tile. |
-|    〃     | Secondary |      |          | Place a Detonation Trap on an empty tile. |
-
-## Fabrice
-
-  - Elf, male.
-  - Towering, intimidating.
-
-|  Class  | Type      | Cost | Name              | Effect                                             |
-| :-----: | --------- | :--: | ----------------- | -------------------------------------------------- |
-| Duelist | Primary   |      | Method to Madness | Delirium: Restore your attack and movement action. |
-|    〃    | Secondary |      |                   |                                                    |
-|    〃    | Secondary |      |                   |                                                    |
-
 ## Lapis
 
   - Elf, female.
   - Colette’s older twin sister.
-  - A witch.
+  - An elementalist.
 
-|   Class   | Type      | Cost | Name         | Effect                        |
-| :-------: | --------- | :--: | ------------ | ----------------------------- |
-| Enchanter | Primary   |      |              | Delirium: Summon Wraithy.     |
-|     〃     | Secondary |      | Faerie Fire  | Give Burn to a character.     |
-|     〃     | Secondary |      | Winter Blast | Give Coldcage to a character. |
+| Class     |
+| --------- |
+| Enchanter |
 
-## Wraithy
+| Tier      | Cost | Name           | Effect                                          |
+| --------- | :--: | -------------- | ----------------------------------------------- |
+| Primary   |      | Faerie Prank   | Strengthen the effects on each other character. |
+| Secondary |      | Mystical Fire  | Give Ignite to each other character.            |
+| Secondary |      | Terminal Frost | Give Glaciate to each other character.          |
 
-|  Class   | Ranged | Power | Armor |
-| :------: | ------ | ----- | ----- |
-| Familiar | Yes    | Tiny  | Tiny  |
+## Colette
+
+  - Elf, female.
+  - Lapis’ younger twin sister.
+  - A sapper.
+
+| Class      |
+| ---------- |
+| Specialist |
+
+| Tier      | Cost | Name         | Effect                                  |
+| --------- | :--: | ------------ | --------------------------------------- |
+| Primary   |      | Germination  | Detonate each deployed trap.            |
+| Secondary |      | Dryad Root   | Deploy a Leghold Trap on an empty tile. |
+| Secondary |      | Frost Flower | Deploy a Glacial Trap on an empty tile. |
+
+## Desmond
+
+  - Wolf beastfolk, male.
+
+| Class    |
+| -------- |
+| Vanguard |
+
+| Tier      | Cost | Name | Effect                         |
+| --------- | :--: | ---- | ------------------------------ |
+| Primary   |      |      | Each opponent discards a card. |
+| Secondary |      |      | Give Restrain to a character.  |
+| Secondary |      |      | Give Silence to a character.   |
