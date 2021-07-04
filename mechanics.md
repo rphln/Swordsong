@@ -12,11 +12,13 @@ through a number of preparation phases.
 
 2.  In the draft phase, both players will take turns choosing their
     characters and positioning them in the map. No character may be
-    chosen twice in a match. The first character to be placed in the
-    field by each player is designated as their team’s leader.
+    chosen twice in a match.
     
-    The draft order is defined as “O → S → S → O → O → S”, with “S”
-    being the starting player and “O” their opponent.
+    The draft order is “O → S → S → O → O → S”, with “S” being the
+    starting player and “O” their opponent.
+    
+    Once the draft is finished, both players must simultaneously select
+    one of their fielded characters to occupy the role of supporter.
 
 3.  In the draw phase, the player will draw three cards from their deck,
     forming their starting hand.
