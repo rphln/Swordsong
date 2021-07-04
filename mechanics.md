@@ -200,8 +200,8 @@ them below the “Tiny” tier or raise them above the “Gargantuan” tier.
 | Huge       |    18 |    92 |
 | Gargantuan |    20 |   102 |
 
-The armor value is defined such that a defender can withstand…
+The armor values are defined such that any defender can withstand…
 
-  - At least six hits from an attacker with the same power as the
+  - At least 6 hits from an attacker with the same power score as the
     defender’s armor.
-  - At least three hits from an attacker with “Gargantuan” power.
+  - At least 3 hits from an attacker with the maximal power score.
