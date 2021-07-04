@@ -4,6 +4,61 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [7.0.0](https://github.com/rphln/Swordsong/compare/v6.0.0...v7.0.0) (2021-07-04)
+
+### ⚠ BREAKING CHANGES
+
+  - **Characters:** Remake everything.
+  - **Classes:** Replace `Marksman` with `Specialist` and shift.
+  - **Mechanics:** Remove `Keywords`.
+  - **Factions:** Cull the number of characters.
+
+### Minor changes
+
+  - **Orchid:** Remove unnecessary quotes.
+    ([b931432](https://github.com/rphln/Swordsong/commit/b9314322c9b77e5902c1c8f86651a72fdcc01c69))
+
+### Major changes
+
+  - **Aleksei:** Is now a sapper.
+    ([ed4896d](https://github.com/rphln/Swordsong/commit/ed4896de3384e5b7e44f4e2c2c1f9914d28a476e))
+  - **Alice:** Remove secondary skills.
+    ([62aeea4](https://github.com/rphln/Swordsong/commit/62aeea4167c61d22dbb6f39b11ee3222add1f83f))
+  - **Ariel:** Add `Damnation` and reorganize skills.
+    ([ef26be5](https://github.com/rphln/Swordsong/commit/ef26be54942a652011935e36df967d7bd2d11544))
+  - **Cedric:** Replace `Damnation` with `Coup de Grâce`.
+    ([62f0ee5](https://github.com/rphln/Swordsong/commit/62f0ee53f8245614def67a85450f4d34ef1d6b81))
+  - **Characters:** Remake everything.
+    ([4a2d6cb](https://github.com/rphln/Swordsong/commit/4a2d6cb7251ff3b3c41417ed8ea485ffd82849a9))
+  - **Classes:** Replace `Marksman` with `Specialist` and shift.
+    ([761a624](https://github.com/rphln/Swordsong/commit/761a6248f654b74382ca214921cbaa3e2ddb06e7))
+  - **Colette:** Make all skills global again.
+    ([9f5f4ac](https://github.com/rphln/Swordsong/commit/9f5f4ac4392e003129953007bfb96a84b5d88619))
+  - **Effects:** Add `Mislead`.
+    ([9dcac9e](https://github.com/rphln/Swordsong/commit/9dcac9e9416ba4870a7c0c2fc1df067d46221b44))
+  - **Effects:** Rename `Burn`, `Coldcage` and remove `Mislead`.
+    ([97d601e](https://github.com/rphln/Swordsong/commit/97d601ebecd079fed32192c6804e14c76df6481e))
+  - **Fabrice:** Rebalance skills.
+    ([86dbf11](https://github.com/rphln/Swordsong/commit/86dbf11834ac74dd8ef2dc56bd1f445da6263043))
+  - **Factions:** Cull the number of characters.
+    ([16b2e58](https://github.com/rphln/Swordsong/commit/16b2e58b1caf95672b92e2df45ae43db934910b5))
+  - **Keywords:** Update `Defiance` to activate thrice.
+    ([c9dc76a](https://github.com/rphln/Swordsong/commit/c9dc76af7ad47cbb46a4e8c3c49c082fcdb5a5da))
+  - **Lapis:** Replace `Method to Madness` and reorganize.
+    ([6e43daf](https://github.com/rphln/Swordsong/commit/6e43dafb4b00fe1e67a4395ffa7cedbd0b075c56))
+  - **Lily:** Remove first skill.
+    ([c400fbf](https://github.com/rphln/Swordsong/commit/c400fbf450e73210f156d22c169b1f90f2a68b2d))
+  - **Mechanics:** Add special classes section.
+    ([e77ff27](https://github.com/rphln/Swordsong/commit/e77ff2712f2d1c8b8e5a78d7152b964440c20c17))
+  - **Mechanics:** Introduce `critically wounded`.
+    ([af0ebe4](https://github.com/rphln/Swordsong/commit/af0ebe458b2d2f84780b9081505544dc807741cc))
+  - **Mechanics:** Remove `Keywords`.
+    ([8f3a2d6](https://github.com/rphln/Swordsong/commit/8f3a2d6eed0867fe452d910001ff26634b50b3a7))
+  - **Nell:** Add `Thick of the Fight`.
+    ([851ac37](https://github.com/rphln/Swordsong/commit/851ac371820c46973d40f2e0a2b829b8e301fb50))
+  - **Sara:** Is now a sapper.
+    ([4559032](https://github.com/rphln/Swordsong/commit/4559032f66f2049786430e0eb32e7b411e695fd9))
+
 ## [6.0.0](https://github.com/rphln/Swordsong/compare/v5.1.0...v6.0.0) (2021-07-03)
 
 ### ⚠ BREAKING CHANGES
