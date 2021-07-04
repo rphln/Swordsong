@@ -1,4 +1,4 @@
-# The Daybreakers
+# The Temple Order
 
 ## Cedric
 

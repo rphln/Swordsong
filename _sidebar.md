@@ -4,8 +4,6 @@
       - [The World](the-world.md)
       - [Changelog](CHANGELOG.md)
   - Characters
-      - [The Daybreakers](the-daybreakers.md)
-      - [The Nightbringers](the-nightbringers.md)
-      - [The Dollhouse](the-dollhouse.md)
-      - [The Wayfarers](the-wayfarers.md)
-      - [Unaffiliated](unaffiliated.md)
+      - [The Fairy Kingdom](the-fairy-kingdom.md)
+      - [The Ivory Tower](the-ivory-tower.md)
+      - [The Temple Order](the-temple-order.md)

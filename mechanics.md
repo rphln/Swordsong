@@ -182,12 +182,11 @@ Currently, each faction has access to all but one of the classes,
 depending on thematic and mechanic factors. This, however, is subject to
 changes.
 
-| Marksman | Duelist | Enchanter | Vanguard | Name                                      |
-| :------: | :-----: | :-------: | :------: | ----------------------------------------- |
-|          |    •    |     •     |    •     | [The Daybreakers](the-daybreakers.md)     |
-|    •     |         |     •     |    •     | [The Wayfarers](the-wayfarers.md)         |
-|    •     |    •    |           |    •     | [The Dollhouse](the-dollhouse.md)         |
-|    •     |    •    |     •     |          | [The Nightbringers](the-nightbringers.md) |
+| Enchanter | Duelist | Specialist | Vanguard | Name                                      |
+| :-------: | :-----: | :--------: | :------: | ----------------------------------------- |
+|           |    •    |     •      |          | [The Ivory Tower](the-ivory-tower.md)     |
+|     •     |         |     •      |    •     | [The Fairy Kingdom](the-fairy-kingdom.md) |
+|     •     |    •    |            |    •     | [The Temple Order](the-temple-order.md)   |
 
 ## Scores
 
