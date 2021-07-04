@@ -145,19 +145,15 @@ like.
 ## Classes
 
 A character class determines what they can do and how they fare in
-combat.
+combat. Each class also has a talent — an ability that activates before
+the first turn if a character of that class is designated as their
+team’s supporter.
 
   - Ranged characters can only target units that are exactly two tiles
     away from them. They can move up to three tiles per turn.
 
   - Melee characters can only target units that are exactly one tile
     away from them. They can move up to five tiles per turn.
-
-Each class confers a talent — an ability that activates before the first
-turn if a character of that class is designated as their team’s leader.
-Having talents bound to classes — as opposed to characters — should
-provide a small disincentive in terms of flexibility when stacking many
-characters of the same class in a team.
 
 | Class      | Ranged? | Power  | Armor  | Talent                                      |
 | ---------- | ------- | ------ | ------ | ------------------------------------------- |
@@ -166,15 +162,16 @@ characters of the same class in a team.
 | Specialist | Yes     | Medium | Large  | Draw two cards.                             |
 | Vanguard   | No      | Small  | Huge   | Raise the armor of each friendly character. |
 
-Currently, each faction has access to all but one of the classes,
-depending on thematic and mechanic factors. This, however, is subject to
-changes.
+The following table describes how the classes currently are distributed
+across each faction.
 
-| Enchanter | Duelist | Specialist | Vanguard | Name                                      |
+| Enchanter | Duelist | Specialist | Vanguard | Faction                                   |
 | :-------: | :-----: | :--------: | :------: | ----------------------------------------- |
 |           |    •    |     •      |          | [The Ivory Tower](the-ivory-tower.md)     |
 |     •     |         |     •      |    •     | [The Fairy Kingdom](the-fairy-kingdom.md) |
 |     •     |    •    |            |    •     | [The Temple Order](the-temple-order.md)   |
+
+<!-- |     •     |    •    |     •      |    •     | [The Forbidden Lands](the-forbidden-lands.md) | -->
 
 Two additional “classes” are used for special characters, such as bosses
 or summoned units. They individually may be either melee or ranged, and
