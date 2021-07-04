@@ -123,20 +123,18 @@ like.
   - Effects may also be applied by the map itself under special
     circumstances.
 
-| Name     | Type       | Effect                                                                     |
-| -------- | ---------- | -------------------------------------------------------------------------- |
-| Burn     | Permanent  | Damage the character at the end of their turns based on their Burn stacks. |
-|          |            |                                                                            |
-| Coldcage | Timed      | The cost of using skills, attacking or walking is increased.               |
-| Tailwind | Timed      | The cost of using skills, attacking or walking is reduced.                 |
-|          |            |                                                                            |
-| Restrain | Timed      | The character is unable to attack or walk.                                 |
-| Silence  | Timed      | The character is unable to use skills.                                     |
-|          |            |                                                                            |
-| Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.            |
-| Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.            |
-|          |            |                                                                            |
-| Mislead  | Consumable | A character within range to attack you will do so on their next turn.      |
+| Name     | Type       | Effect                                                                       |
+| -------- | ---------- | ---------------------------------------------------------------------------- |
+| Ignite   | Permanent  | Damage the character at the end of their turns based on their Ignite stacks. |
+|          |            |                                                                              |
+| Glaciate | Timed      | The cost of using skills, attacking or walking is increased.                 |
+| Tailwind | Timed      | The cost of using skills, attacking or walking is reduced.                   |
+|          |            |                                                                              |
+| Restrain | Timed      | The character is unable to attack or walk.                                   |
+| Silence  | Timed      | The character is unable to use skills.                                       |
+|          |            |                                                                              |
+| Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.              |
+| Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.              |
 
 ## Keywords
 
