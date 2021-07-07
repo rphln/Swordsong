@@ -143,6 +143,7 @@ like.
 | Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.              |
 |          |            |                                                                              |
 | Bounty   | Consumable | When the character is defeated, each opponent draws two cards.               |
+| Defiance | Consumable | When the character is defeated, return them to combat.                       |
 
 ## Classes
 
