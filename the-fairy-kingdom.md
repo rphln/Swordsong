@@ -40,8 +40,8 @@
 | -------- |
 | Vanguard |
 
-| Tier      | Cost | Name | Effect                         |
-| --------- | :--: | ---- | ------------------------------ |
-| Primary   |      |      | Each opponent discards a card. |
-| Secondary |      |      | Give Restrain to a character.  |
-| Secondary |      |      | Give Silence to a character.   |
+| Tier      | Cost | Name        | Effect                                |
+| --------- | :--: | ----------- | ------------------------------------- |
+| Primary   |      | Forbiddance | Give Silence to each other character. |
+| Secondary |      |             | Give Ignite to a character.           |
+| Secondary |      |             | Give Restrain to a character.         |
