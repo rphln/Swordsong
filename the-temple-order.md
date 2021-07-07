@@ -25,8 +25,8 @@
 | Tier      | Cost | Name          | Effect                                 |
 | --------- | :--: | ------------- | -------------------------------------- |
 | Primary   |      | Coup de Grâce | Defeat a critically wounded character. |
-| Secondary |      |               | Gain an action point.                  |
-| Secondary |      |               | Draw two cards.                        |
+| Secondary |      |               | Gain Prowess.                          |
+| Secondary |      |               | Gain Tailwind.                         |
 
 ## Alice
 
