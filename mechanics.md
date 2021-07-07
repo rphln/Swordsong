@@ -141,6 +141,8 @@ like.
 |          |            |                                                                              |
 | Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.              |
 | Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.              |
+|          |            |                                                                              |
+| Bounty   | Consumable | When the character is defeated, each opponent draws two cards.               |
 
 ## Classes
 
