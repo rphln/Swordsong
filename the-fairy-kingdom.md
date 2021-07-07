@@ -32,6 +32,11 @@
 | Secondary |      | Dryad Root   | Deploy a Leghold Trap on an empty tile. |
 | Secondary |      | Frost Flower | Deploy a Glacial Trap on an empty tile. |
 
+| Name         | Effect                                        |
+| ------------ | --------------------------------------------- |
+| Leghold Trap | Give Restrain to each character within range. |
+| Glacial Trap | Give Glaciate to each character within range. |
+
 ## Desmond
 
   - Wolf beastfolk, male.
