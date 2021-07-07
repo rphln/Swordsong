@@ -32,11 +32,11 @@
 | ---------- |
 | Specialist |
 
-| Tier      | Cost | Name     | Effect                                                        |
-| --------- | :--: | -------- | ------------------------------------------------------------- |
-| Primary   |      | Equalise | Evenly redistribute the damage taken by each other character. |
-| Secondary |      |          | Summon Lily into an empty tile.                               |
-| Secondary |      |          | Summon Orchid into an empty tile.                             |
+| Tier      | Cost | Name     | Effect                                              |
+| --------- | :--: | -------- | --------------------------------------------------- |
+| Primary   |      | Armslore | Discard your hand to draw that many cards plus two. |
+| Secondary |      |          | Summon Lily into an empty tile.                     |
+| Secondary |      |          | Summon Orchid into an empty tile.                   |
 
 ## Lily
 
