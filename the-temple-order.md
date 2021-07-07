@@ -36,8 +36,8 @@
 | -------- |
 | Vanguard |
 
-| Tier      | Cost | Name       | Effect                                                |
-| --------- | :--: | ---------- | ----------------------------------------------------- |
-| Primary   |      | Providence | Give Silence and Restrain to each opponent character. |
-| Secondary |      | Aegis Boon | Gain Fortify.                                         |
-| Secondary |      |            | Gain Prowess.                                         |
+| Tier      | Cost | Name       | Effect                                              |
+| --------- | :--: | ---------- | --------------------------------------------------- |
+| Primary   |      | Providence | Absorb the damage taken by each friendly character. |
+| Secondary |      |            | Give Restrain to a character.                       |
+| Secondary |      |            | Give Silence to a character.                        |
