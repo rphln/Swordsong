@@ -115,23 +115,18 @@ like.
 
   - A player can also choose to forfeit the match at any time.
 
-## Effects
+## Modifiers
 
-  - Effects are temporary character behaviour modifiers.
+  - Modifiers are generally received through spells, though they may
+    also come from the map itself.
 
-  - The duration of “Timed” effects is reduced at the end of the
-    affected characters’ turns.
+  - Receiving a “Timed” modifier increases its duration by a round. Such
+    modifiers are discounted as each turn ends.
 
-  - The duration of “Consumable” effects is reduced when a activation
-    condition is met.
+  - Receiving a “Consumable” modifier increases how many times it can
+    activate. Such modifiers are discounted upon their activation.
 
-  - Applying an effect multiple times extends its duration or increases
-    its stacks.
-
-  - The primary source of effects are skills.
-
-  - Effects may also be applied by the map itself under special
-    circumstances.
+  - Receiving a “Permanent” modifier enhances its effectiveness.
 
 | Name     | Type       | Effect                                                                       |
 | -------- | ---------- | ---------------------------------------------------------------------------- |
