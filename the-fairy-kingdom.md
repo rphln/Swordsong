@@ -28,7 +28,7 @@
 
 | Tier      | Cost | Name         | Effect                                     |
 | --------- | :--: | ------------ | ------------------------------------------ |
-| Primary   |      | Germination  | Detonate each deployed trap.               |
+| Primary   |      | Faerie Prank | Detonate each deployed trap.               |
 | Secondary |      | Dryad Root   | Deploy a Leghold Trap onto an empty tile.  |
 | Secondary |      | Frost Flower | Deploy a Coldcage Trap onto an empty tile. |
 
