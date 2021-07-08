@@ -144,6 +144,16 @@ like.
 | Bounty   | Consumable | When the character is defeated, each opponent draws two cards.               |
 | Defiance | Consumable | When the character is defeated, return them to combat.                       |
 
+| Ignite | Dammage |
+| :----: | :-----: |
+|   1    |    2    |
+|   2    |    3    |
+|   3    |    5    |
+|   4    |    8    |
+|   5    |   13    |
+|   6    |   21    |
+|   …    |    …    |
+
 ## Classes
 
 A character class determines what they can do and how they fare in
