@@ -68,21 +68,25 @@ through a number of preparation phases.
     that tile and adjacent ones. A character will stop walking upon
     stepping on a trap.
 
-## Turns
+## Rounds
+
+A “round” is an unit equivalent to a number of turns equal to number of
+players in a match. In matches with multiple participants, defeated
+players’ turns are also counted.
 
 This section describes what the envisioned combat flow currently looks
 like.
 
-  - Turns 1–5 — Action points are used primarily for positioning.
+  - Rounds 1–5 — Action points are used primarily for positioning.
     Correctly placing and moving a character should allow a player to
     attain the first strike.
 
-  - Turns 5–10 — All characters are in place. Characters are taken down
+  - Rounds 5–10 — All characters are in place. Characters are taken down
     one by one rather than dilluting damage. The majority of matches
     should end in this phase.
 
-  - Turns 10– — An abundance of action points allows for explosive turns
-    to break the stalemate.
+  - Rounds 10– — An abundance of action points allows for explosive
+    turns to break the stalemate.
 
 ## Cards
 
