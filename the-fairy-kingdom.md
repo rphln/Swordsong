@@ -26,16 +26,16 @@
 | ---------- |
 | Specialist |
 
-| Tier      | Cost | Name         | Effect                                  |
-| --------- | :--: | ------------ | --------------------------------------- |
-| Primary   |      | Germination  | Detonate each deployed trap.            |
-| Secondary |      | Dryad Root   | Deploy a Leghold Trap on an empty tile. |
-| Secondary |      | Frost Flower | Deploy a Glacial Trap on an empty tile. |
+| Tier      | Cost | Name         | Effect                                     |
+| --------- | :--: | ------------ | ------------------------------------------ |
+| Primary   |      | Germination  | Detonate each deployed trap.               |
+| Secondary |      | Dryad Root   | Deploy a Leghold Trap onto an empty tile.  |
+| Secondary |      | Frost Flower | Deploy a Coldcage Trap onto an empty tile. |
 
-| Name         | Effect                                        |
-| ------------ | --------------------------------------------- |
-| Leghold Trap | Give Restrain to each character within range. |
-| Glacial Trap | Give Glaciate to each character within range. |
+| Name          | Effect                                                   |
+| ------------- | -------------------------------------------------------- |
+| Leghold Trap  | Damage and give Restrain to each character within range. |
+| Coldcage Trap | Damage and give Glaciate to each character within range. |
 
 ## Desmond
 
