@@ -10,11 +10,11 @@
 | --------- |
 | Enchanter |
 
-| Tier      | Cost | Name           | Effect                                            |
-| --------- | :--: | -------------- | ------------------------------------------------- |
-| Primary   |      | Faerie Prank   | Strenghten the modifiers on each other character. |
-| Secondary |      | Mystical Fire  | Give Ignite to each other character.              |
-| Secondary |      | Terminal Frost | Give Glaciate to each other character.            |
+| Tier      | Cost | Name           | Effect                                                      |
+| --------- | :--: | -------------- | ----------------------------------------------------------- |
+| Primary   |      | Druidcraft     | Extend the duration of each effect on each other character. |
+| Secondary |      | Mystical Fire  | Give Ignite to each other character.                        |
+| Secondary |      | Terminal Frost | Give Glaciate to each other character.                      |
 
 ## Colette
 
