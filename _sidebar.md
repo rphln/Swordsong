@@ -1,5 +1,5 @@
   - About
-      - [Introduction](README.md)  
+      - [Introduction](README.md)
       - [Mechanics](mechanics.md)
       - [The World](the-world.md)
       - [Changelog](CHANGELOG.md)
