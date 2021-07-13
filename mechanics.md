@@ -109,12 +109,13 @@ like.
 
 ## Defeat
 
-  - A player whose all characters they control are fainted will lose the
-    match.
+A set of conditions may be assigned to each player at the start of a
+match; failing any of them will cause that player to be defeated. A
+player may also choose to forfeit the match at any time.
 
-  - A player will lose the match upon trying to draw from an empty deck.
+  - “At least one character must remain.”
 
-  - A player can also choose to forfeit the match at any time.
+  - “At least one outpost must remain.”
 
 ## Modifiers
 
