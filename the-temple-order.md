@@ -24,7 +24,7 @@
 
 | Tier      | Cost | Name          | Effect                                 |
 | --------- | :--: | ------------- | -------------------------------------- |
-| Primary   |      | Coup de Grâce | Defeat a critically wounded character. |
+| Primary   |      | Coup de Grâce | Defeat a critically damaged character. |
 | Secondary |      |               | Gain Prowess.                          |
 | Secondary |      |               | Gain Tailwind.                         |
 
