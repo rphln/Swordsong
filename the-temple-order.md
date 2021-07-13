@@ -4,7 +4,7 @@
 
   - Sheep beastfolk, female.
 
-| Class     |
+| Archetype |
 | --------- |
 | Enchanter |
 
@@ -18,9 +18,9 @@
 
   - Human, male.
 
-| Class   |
-| ------- |
-| Duelist |
+| Archetype |
+| --------- |
+| Duelist   |
 
 | Tier      | Cost | Name          | Effect                                 |
 | --------- | :--: | ------------- | -------------------------------------- |
@@ -32,9 +32,9 @@
 
   - Human, female.
 
-| Class    |
-| -------- |
-| Vanguard |
+| Archetype |
+| --------- |
+| Vanguard  |
 
 | Tier      | Cost | Name       | Effect                                              |
 | --------- | :--: | ---------- | --------------------------------------------------- |

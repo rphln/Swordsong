@@ -18,7 +18,8 @@ through a number of preparation phases.
     starting player and “O” their opponent.
     
     Once the draft is finished, both players must simultaneously select
-    one of their fielded characters to occupy the role of supporter.
+    one of their fielded characters to occupy the role of their team’s
+    assistant.
 
 3.  In the draw phase, the player will draw three cards from their deck,
     forming their starting hand.
@@ -154,12 +155,13 @@ like.
 |   6    |   21    |
 |   …    |    …    |
 
-## Classes
+## Archetypes
 
-A character class determines what they can do and how they fare in
-combat. Each class also has a talent — an ability that activates before
-the first turn if a character of that class is designated as their
-team’s supporter.
+Each character belongs to an archetype, which guides how they behave in
+combat.
+
+  - Upon designating a character as their team’s assistant, the score of
+    their affinity is raised for each allied character.
 
   - Ranged characters can only target units that are exactly two tiles
     away from them. They can move up to three tiles per turn.
@@ -167,15 +169,15 @@ team’s supporter.
   - Melee characters can only target units that are exactly one tile
     away from them. They can move up to five tiles per turn.
 
-| Class      | Ranged? | Power  | Armor  | Talent                                      |
-| ---------- | ------- | ------ | ------ | ------------------------------------------- |
-| Enchanter  | Yes     | Huge   | Small  | Raise the power of each friendly character. |
-| Duelist    | No      | Large  | Medium | Gain an action point.                       |
-| Specialist | Yes     | Medium | Large  | Draw two cards.                             |
-| Vanguard   | No      | Small  | Huge   | Raise the armor of each friendly character. |
+| Archetype  | Ranged? | Affinity | Power  | Armor  |
+| ---------- | ------- | -------- | ------ | ------ |
+| Enchanter  | Yes     | Power    | Huge   | Small  |
+| Duelist    | No      | Power    | Large  | Medium |
+| Specialist | Yes     | Armor    | Medium | Large  |
+| Vanguard   | No      | Armor    | Small  | Huge   |
 
-The following table describes how the classes currently are distributed
-across each faction.
+The following table describes how the archetypes are distributed across
+the factions.
 
 | Enchanter | Duelist | Specialist | Vanguard | Faction                                   |
 | :-------: | :-----: | :--------: | :------: | ----------------------------------------- |
@@ -183,16 +185,14 @@ across each faction.
 |     •     |         |     •      |    •     | [The Fairy Kingdom](the-fairy-kingdom.md) |
 |     •     |    •    |            |    •     | [The Temple Order](the-temple-order.md)   |
 
-<!-- |     •     |    •    |     •      |    •     | [The Forbidden Lands](the-forbidden-lands.md) | -->
+The “Familiar” and “Calamity” archetypes are used for unconventional
+characters, such as bosses or summons, and their specifics may vary on a
+per-case basis.
 
-Two additional “classes” are used for special characters, such as bosses
-or summoned units. They individually may be either melee or ranged, and
-have or not a talent.
-
-| Class    | Power      | Armor      |
-| -------- | ---------- | ---------- |
-| Familiar | Tiny       | Tiny       |
-| Calamity | Gargantuan | Gargantuan |
+| Archetype | Power      | Armor      |
+| --------- | ---------- | ---------- |
+| Calamity  | Gargantuan | Gargantuan |
+| Familiar  | Tiny       | Tiny       |
 
 ## Scores
 

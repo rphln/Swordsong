@@ -6,7 +6,7 @@
   - Colette’s older twin sister.
   - An elementalist.
 
-| Class     |
+| Archetype |
 | --------- |
 | Enchanter |
 
@@ -22,7 +22,7 @@
   - Lapis’ younger twin sister.
   - A sapper.
 
-| Class      |
+| Archetype  |
 | ---------- |
 | Specialist |
 
@@ -41,9 +41,9 @@
 
   - Wolf beastfolk, male.
 
-| Class    |
-| -------- |
-| Vanguard |
+| Archetype |
+| --------- |
+| Vanguard  |
 
 | Tier      | Cost | Name        | Effect                                |
 | --------- | :--: | ----------- | ------------------------------------- |

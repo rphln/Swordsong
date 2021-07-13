@@ -6,9 +6,9 @@
   - A combat maid loyal to Maxwell. Her weapon is the masterpiece
     gunblade Daybreaker.
 
-| Class   |
-| ------- |
-| Duelist |
+| Archetype |
+| --------- |
+| Duelist   |
 
 | Tier      | Cost | Name               | Effect                                   |
 | --------- | :--: | ------------------ | ---------------------------------------- |
@@ -28,7 +28,7 @@
   - An artificer and researcher that loves his dolls as if they were his
     daughters. Despite his eccentric tastes, he is very outgoing.
 
-| Class      |
+| Archetype  |
 | ---------- |
 | Specialist |
 
@@ -44,9 +44,9 @@
   - Maxwell’s 7th masterpiece. Has an overly optimistic but soothing
     personality.
 
-| Class    | Ranged |
-| -------- | ------ |
-| Familiar | Yes    |
+| Archetype | Ranged |
+| --------- | ------ |
+| Familiar  | Yes    |
 
 ## Orchid
 
@@ -54,6 +54,6 @@
   - Maxwell’s 4th masterpiece. Has a somewhat unexpressive, almost
     emotionless personality.
 
-| Class    | Ranged |
-| -------- | ------ |
-| Familiar | No     |
+| Archetype | Ranged |
+| --------- | ------ |
+| Familiar  | No     |
