@@ -117,44 +117,31 @@ player may also choose to forfeit the match at any time.
 
   - “At least one outpost must remain.”
 
-## Modifiers
+## Effects
 
-  - Modifiers are generally received through spells, though they may
-    also come from the map itself.
+Effects modify the behaviour of a character. Though usually applied by
+skills, they may also come from the map itself.
 
-  - Receiving a “Timed” modifier increases its duration by a round. Such
-    modifiers are discounted as each turn ends.
+  - Receiving an effect increases its duration by a round.
 
-  - Receiving a “Consumable” modifier increases how many times it can
-    activate. Such modifiers are discounted upon their activation.
+  - The duration of each modifier is discounted at the end of every
+    turn.
 
-  - Receiving a “Permanent” modifier enhances its effectiveness.
-
-| Name     | Type       | Effect                                                                       |
-| -------- | ---------- | ---------------------------------------------------------------------------- |
-| Ignite   | Permanent  | Damage the character at the end of their turns based on their Ignite stacks. |
-|          |            |                                                                              |
-| Glaciate | Timed      | The cost of using skills, attacking or walking is increased.                 |
-| Tailwind | Timed      | The cost of using skills, attacking or walking is reduced.                   |
-|          |            |                                                                              |
-| Restrain | Timed      | The character is unable to attack or walk.                                   |
-| Silence  | Timed      | The character is unable to use skills.                                       |
-|          |            |                                                                              |
-| Fortify  | Consumable | Minimize the damage dealt by the next incoming damage instance.              |
-| Prowess  | Consumable | Maximize the damage dealt by the next outgoing damage instance.              |
-|          |            |                                                                              |
-| Bounty   | Consumable | When the character is defeated, each opponent draws two cards.               |
-| Defiance | Consumable | When the character is defeated, return them to combat.                       |
-
-| Ignite | Dammage |
-| :----: | :-----: |
-|   1    |    2    |
-|   2    |    3    |
-|   3    |    5    |
-|   4    |    8    |
-|   5    |   13    |
-|   6    |   21    |
-|   …    |    …    |
+| Name     | Effect                                                         |
+| -------- | -------------------------------------------------------------- |
+| Ignite   | Damage the character upon using skills, attacking or walking.  |
+|          |                                                                |
+| Glaciate | The cost of using skills, attacking or walking is increased.   |
+| Tailwind | The cost of using skills, attacking or walking is reduced.     |
+|          |                                                                |
+| Restrain | The character is unable to attack or walk.                     |
+| Silence  | The character is unable to use skills.                         |
+|          |                                                                |
+| Fortify  | Minimize the damage dealt by incoming damage instances.        |
+| Prowess  | Maximize the damage dealt by outgoing damage instances.        |
+|          |                                                                |
+| Bounty   | When the character is defeated, each opponent draws two cards. |
+| Defiance | When the character is defeated, return them to combat.         |
 
 ## Archetypes
 
