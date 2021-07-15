@@ -2,9 +2,9 @@
 
 ## Lapis
 
-  - Elf, female.
-  - Colette’s older twin sister.
-  - An elementalist.
+- Elf, female.
+- Colette's older twin sister.
+- An elementalist.
 
 | Archetype |
 | --------- |
@@ -18,9 +18,9 @@
 
 ## Colette
 
-  - Elf, female.
-  - Lapis’ younger twin sister.
-  - A sapper.
+- Elf, female.
+- Lapis' younger twin sister.
+- A sapper.
 
 | Archetype  |
 | ---------- |
@@ -39,7 +39,7 @@
 
 ## Desmond
 
-  - Wolf beastfolk, male.
+- Wolf beastfolk, male.
 
 | Archetype |
 | --------- |

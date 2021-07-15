@@ -2,9 +2,9 @@
 
 ## Noel
 
-  - Tiger beastfolk, female.
-  - A combat maid loyal to Maxwell. Her weapon is the masterpiece
-    gunblade Daybreaker.
+- Tiger beastfolk, female.
+- A combat maid loyal to Maxwell. Her weapon is the masterpiece
+  gunblade Daybreaker.
 
 | Archetype |
 | --------- |
@@ -24,9 +24,9 @@
 
 ## Maxwell
 
-  - Human, male.
-  - An artificer and researcher that loves his dolls as if they were his
-    daughters. Despite his eccentric tastes, he is very outgoing.
+- Human, male.
+- An artificer and researcher that loves his dolls as if they were his
+  daughters. Despite his eccentric tastes, he is very outgoing.
 
 | Archetype  |
 | ---------- |
@@ -40,9 +40,9 @@
 
 ## Lily
 
-  - Automata, female.
-  - Maxwell’s 7th masterpiece. Has an overly optimistic but soothing
-    personality.
+- Automata, female.
+- Maxwell's 7th masterpiece. Has an overly optimistic but soothing
+  personality.
 
 | Archetype | Ranged |
 | --------- | ------ |
@@ -50,9 +50,9 @@
 
 ## Orchid
 
-  - Automata, female.
-  - Maxwell’s 4th masterpiece. Has a somewhat unexpressive, almost
-    emotionless personality.
+- Automata, female.
+- Maxwell's 4th masterpiece. Has a somewhat unexpressive, almost
+  emotionless personality.
 
 | Archetype | Ranged |
 | --------- | ------ |

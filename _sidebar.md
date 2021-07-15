@@ -1,9 +1,9 @@
-  - About
-      - [Introduction](README.md)
-      - [Mechanics](mechanics.md)
-      - [The World](the-world.md)
-      - [Changelog](CHANGELOG.md)
-  - Characters
-      - [The Fairy Kingdom](the-fairy-kingdom.md)
-      - [The Ivory Tower](the-ivory-tower.md)
-      - [The Temple Order](the-temple-order.md)
+- About
+  - [Introduction](README.md)
+  - [Mechanics](mechanics.md)
+  - [The World](the-world.md)
+  - [Changelog](CHANGELOG.md)
+- Characters
+  - [The Fairy Kingdom](the-fairy-kingdom.md)
+  - [The Ivory Tower](the-ivory-tower.md)
+  - [The Temple Order](the-temple-order.md)

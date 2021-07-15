@@ -2,7 +2,7 @@
 
 ## Ariel
 
-  - Sheep beastfolk, female.
+- Sheep beastfolk, female.
 
 | Archetype |
 | --------- |
@@ -16,7 +16,7 @@
 
 ## Cedric
 
-  - Human, male.
+- Human, male.
 
 | Archetype |
 | --------- |
@@ -30,7 +30,7 @@
 
 ## Alice
 
-  - Human, female.
+- Human, female.
 
 | Archetype |
 | --------- |
