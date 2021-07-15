@@ -1,8 +1,43 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See
-[standard-version](https://github.com/conventional-changelog/standard-version)
-for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [7.2.0](https://github.com/rphln/Swordsong/compare/v7.1.0...v7.2.0) (2021-07-15)
+
+
+### Major changes
+
+* **Alice:** Replace spells. ([e40032b](https://github.com/rphln/Swordsong/commit/e40032b3e253e011eb834eff14d5595063ede8c8))
+* **Archetypes:** Replace “Classes” and talents. ([df77e4d](https://github.com/rphln/Swordsong/commit/df77e4dba3b38470327f0fffdf79e3fbe5219506))
+* **Cedric:** Replace secondary spells. ([9d039c0](https://github.com/rphln/Swordsong/commit/9d039c0f5d7b55c29eac4c26291048fc74c33ba5))
+* **Colette:** Add damage to traps and rename them. ([d393e53](https://github.com/rphln/Swordsong/commit/d393e534d28bb92227045c44d474cf7af169a54c))
+* **Defeat:** Update the defeat conditions. ([1baa0dc](https://github.com/rphln/Swordsong/commit/1baa0dcd6eb858184680dd56b5346051a2f5f9db))
+* **Desmond:** Replace all abilities. ([5b52f45](https://github.com/rphln/Swordsong/commit/5b52f45cab493bff59ec12d5de4f15ae6b03efbd))
+* **Effects:** Add “Bounty”. ([8635878](https://github.com/rphln/Swordsong/commit/8635878ce612b331b78bad35097f3d6b192db317))
+* **Effects:** Add “Defiance”. ([0833ed3](https://github.com/rphln/Swordsong/commit/0833ed3a55b7734f217a2c6a9342b233c9e1e04e))
+* **Effects:** Replace “Modifiers”. ([4645f27](https://github.com/rphln/Swordsong/commit/4645f274f306937209beff70e500e99bc01bdb0c))
+* **Lore:** Update and add diagram. ([237ca17](https://github.com/rphln/Swordsong/commit/237ca175af376e59689ebbd19220240a4c26aa7d))
+* **Maxwell:** Replace “Equalise” with “Armslore”. ([46e790d](https://github.com/rphln/Swordsong/commit/46e790d8ff911f587ca937a8a3bed21e12f326c2))
+* **Modifiers:** Add “Ignite” table. ([c6e04d4](https://github.com/rphln/Swordsong/commit/c6e04d456815e33c3918159abc5d1673605848ad))
+* **Modifiers:** Update from “Effects”. ([96aba8f](https://github.com/rphln/Swordsong/commit/96aba8fb0d8d11acc682658feb370f2afc9978d9))
+* **Rounds:** Convert section from “Turns”. ([6d92129](https://github.com/rphln/Swordsong/commit/6d92129aa538e638afa3325f19e61752cf9742c1))
+
+
+### Minor changes
+
+* **Colette:** Add description for the traps. ([9e2204c](https://github.com/rphln/Swordsong/commit/9e2204c8532e82d586e1dca9dbc06da6ccb91c62))
+* **Colette:** Rename `Germination` to `Faerie Prank`. ([35b424b](https://github.com/rphln/Swordsong/commit/35b424bdb0b80379240a93289ceb049a1c3b1256))
+* **Combat:** Replace “critically wounded” with “critically damaged”. ([9e98116](https://github.com/rphln/Swordsong/commit/9e98116e223696f5bf5ae7398fd2d9db6c96b45f))
+* **Lapis:** Rename `Faerie Prank` to `Druidcraft` and reword it. ([564878a](https://github.com/rphln/Swordsong/commit/564878afc4428c96c10dc81fbd7272ad5689e974))
+* **Lapis:** Replace “effects” with “modifiers”. ([573d2ab](https://github.com/rphln/Swordsong/commit/573d2abfc114fec3cbbcb66eec381f9286815082))
+
+
+### Other changes
+
+* Disable automatic formatting through `.gitattributes`. ([a7dc0a4](https://github.com/rphln/Swordsong/commit/a7dc0a42f510bd8dfd467efddf784a03abae74be))
+* Prettify files with `prettier`. ([229a902](https://github.com/rphln/Swordsong/commit/229a902558c83075f597ae23d262066690d7220a))
+* Remove trailing space from `_sidebar.md`. ([2bfaabf](https://github.com/rphln/Swordsong/commit/2bfaabf6422f2ffa41786823cbd76d0ec5e15186))
+* Update `index.html`. ([bdb3f1e](https://github.com/rphln/Swordsong/commit/bdb3f1ee7bdb0530be85c7968b27da95b11d10ae))
 
 ## [7.1.0](https://github.com/rphln/Swordsong/compare/v7.0.0...v7.1.0) (2021-07-04)
 
